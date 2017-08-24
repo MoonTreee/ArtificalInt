@@ -1,0 +1,69 @@
+import re
+import numpy as np
+
+
+# 对于基金的处理
+
+# 读取文件并装换为小写
+def readAndLow(path):
+    file = open(path)
+    foundList = file.readlines()
+    founds = []
+    for found in foundList:
+        foundLow = found.lower()
+        founds.append(foundLow)
+    return founds
+
+
+# 识别国家
+def findCountry(founds):
+    i = 0
+    for found in founds:
+        china = re.search(r'china', found)
+        if china is not None:
+            print(found)
+            i = i + 1
+    return i
+
+# 去重
+# def removeDupli(list , t):
+
+
+
+# 字符串的相似度--基于编辑距离
+def stringSim(str1, str2):
+    # d[i][j]表示字符串str1:1~i与字符串str2:1~j的最短编辑距离
+    # 初始化临界值
+    str1Len = len(str1)
+    str2Len = len(str2)
+    d = np.zeros((str1Len, str2Len))
+    for i in range(str1Len):
+        d[i][0] = i
+    for j in range(str2Len):
+        d[0][j] = j
+
+    # 动态规划赋值
+    for i in range(str1Len):
+        for j in range(str2Len):
+            # 如果相等
+            if list(str1)[i] == (list(str2)[j]):
+                d[i][j] = d[i-1][j-1]
+            # 如果不想等,选取最小的编辑距离
+            else:
+                d[i][j] = min(d[i][j-1], d[i-1][j], d[i-1][j-1]) + 1
+    return 1/(d[str1Len-1][str2Len-1]+1)
+
+
+
+
+
+if __name__ == '__main__':
+    # path = "found.txt"
+    # founds = readAndLow(path)
+    # i = findCountry(founds)
+    # print(i)
+    str1 = 'and'
+    str2 = 'andn'
+    i = stringSim(str1, str2)
+    print(i)
+
