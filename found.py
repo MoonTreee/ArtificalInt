@@ -77,8 +77,7 @@ def mergeTwo(founds):
 # 提取缩写
 def getAbbreviation(found):
     fabb = {}
-    for f in found:
-        f.replace("(|)|,|.", " ")
+    fabb[found] = ""
     for i in found.split():
         if i.isupper():
             fabb[found] = i
@@ -88,28 +87,34 @@ def getAbbreviation(found):
 
 # 缩写合并
 def mergeOne(founds):
-    foundLists = []
+    foundDic = {}
     for found in founds:
+        found.replace("(", " ")
+        found.replace("\n", '')
         flag = False
-        if len(foundLists) == 0:
+        if len(foundDic) == 0:
             print("缩写合并开始")
         else:
             addre = getAbbreviation(found)
-            for foundList in foundLists:
-                if ( addre == getAbbreviation(foundList)):
+            for foundList in foundDic.keys():
+                if (addre == getAbbreviation(foundList)):
+                    foundDic[foundList].append(found)
                     flag = True
                     break
         if flag is False:
-            foundLists.append(found)
-    return foundLists
+            foundDic[found] = [found]
+    return foundDic
 
 
 if __name__ == '__main__':
     path = "found.txt"
     file = open(path)
+    addFile = open("abb.txt", "w+")
     foundList = file.readlines()
-    foundLists = mergeOne(foundList)
+    for found in foundList:
+        found = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '')
+        abb = getAbbreviation(found)
+        line = abb[found]+"\n"
+        addFile.writelines(line)
+    addFile.close()
     print("***********************现在输出结果*****************************")
-    print(len(foundLists))
-    for f in foundLists:
-        print(f)
