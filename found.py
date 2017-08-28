@@ -106,8 +106,6 @@ def getAbbreviation(found):
         if len(i) > 2 and i.isupper():
             fabb = i
             break
-        else:
-            return None
     return fabb
 
 
@@ -119,11 +117,11 @@ def mergeOne(founds):
             (":", " ").replace('"', " ")
         addre = getAbbreviation(found)
         keys = list(foundDic.keys())
-        if (len(foundDic) == 0) or (addre is None) or (addre is not None and addre not in keys):
+        if (len(foundDic) == 0) or (len(addre)==0) or (len(addre)>0 and addre not in keys):
             foundDic[found] = [found]
         else:
                 foundDic[addre].append(found)
-                print(found)
+                print(found+"  "+addre)
             # for foundList in foundDic.keys():
             #     if (addre == getAbbreviation(foundList)):
             #         foundDic[foundList].append(found)
