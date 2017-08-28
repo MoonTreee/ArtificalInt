@@ -101,12 +101,13 @@ def mergeTwo(founds):
 # 提取缩写
 # 0827 缩写长度最小为3
 def getAbbreviation(found):
-    fabb = {}
-    fabb[found] = ""
+    fabb = ""
     for i in found.split():
         if len(i) > 2 and i.isupper():
-            fabb[found] = i
+            fabb = i
             break
+        else:
+            return None
     return fabb
 
 
@@ -114,27 +115,28 @@ def getAbbreviation(found):
 def mergeOne(founds):
     foundDic = {}
     for found in founds:
-        found.replace("(", " ")
-        found.replace("\n", '')
-        flag = False
-        if len(foundDic) == 0:
-            print("缩写合并开始")
-        else:
-            addre = getAbbreviation(found)
-            for foundList in foundDic.keys():
-                if (addre == getAbbreviation(foundList)):
-                    foundDic[foundList].append(found)
-                    flag = True
-                    break
-        if flag is False:
+        found = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace \
+            (":", " ").replace('"', " ")
+        addre = getAbbreviation(found)
+        keys = list(foundDic.keys())
+        if (len(foundDic) == 0) or (addre is None) or (addre is not None and addre not in keys):
             foundDic[found] = [found]
+        else:
+                foundDic[addre].append(found)
+                print(found)
+            # for foundList in foundDic.keys():
+            #     if (addre == getAbbreviation(foundList)):
+            #         foundDic[foundList].append(found)
+            #         flag = True
+            #         break
+            # if flag is False:
+            #     foundDic[found] = [found]
     return foundDic
 
 
 if __name__ == '__main__':
     path = "found.txt"
     file = open(path)
-    foundLists = mergeTwo(file.readlines())
+    foundLists = mergeOne(file.readlines())
     print(len(foundLists))
-    print(foundLists)
     print("***********************现在输出结果*****************************")
