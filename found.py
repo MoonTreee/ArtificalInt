@@ -71,6 +71,7 @@ def stringSim(str1, str2):
 
 # if A in B,包含规则
 def mergeTwo(founds):
+    fileContain = open("contain", "w+")
     foundLists = []
     for found in founds:
         flag = False
@@ -85,10 +86,12 @@ def mergeTwo(founds):
                 # 存在包含关系
                 if LongStr.find(ShortStr)!=-1:
                     print("LongString : " + LongStr + "*****ShortStr : "+ShortStr)
+                    fileContain.writelines(LongStr+" "+ShortStr+'\n')
                     flag = True
                     break
             if flag is False:
                 foundLists.append(found)
+    fileContain.close()
     return foundLists
 
 
