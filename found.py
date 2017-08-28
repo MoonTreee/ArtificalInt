@@ -75,11 +75,12 @@ def mergeTwo(founds):
 
 
 # 提取缩写
+# 0827 缩写长度最小为3
 def getAbbreviation(found):
     fabb = {}
     fabb[found] = ""
     for i in found.split():
-        if i.isupper():
+        if len(i) > 2 and i.isupper():
             fabb[found] = i
             break
     return fabb
@@ -112,7 +113,8 @@ if __name__ == '__main__':
     addFile = open("abb.txt", "w+")
     foundList = file.readlines()
     for found in foundList:
-        found = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '')
+        found = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace\
+            (":", " ") .replace('"', " ")
         abb = getAbbreviation(found)
         line = abb[found]+"\n"
         addFile.writelines(line)

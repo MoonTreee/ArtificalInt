@@ -2,9 +2,9 @@
 
 
 
-2K
 
-EU
+
+
 
 7FP
 
@@ -16,8 +16,8 @@ EU
 MICAI
 A*STAR
 
-A
-A
+
+
 ABB
 
 ABSOLUTE
@@ -76,15 +76,15 @@ AITF
 AHFMR
 
 AIF
-S
 
 
 
 
-FR
 
 
-P
+
+
+
 AICTE
 AICTE
 AICTE
@@ -99,13 +99,13 @@ AMANDE
 
 
 AUT
-RD
 
 
 
 
 
-W
+
+
 ANFIS
 
 
@@ -115,7 +115,7 @@ ANR
 ANR
 ANR
 ANR
-DAPHNE:
+DAPHNE
 AOARD
 
 AISRP
@@ -130,7 +130,7 @@ ABRI
 
 ARDA
 
-ARENA,
+ARENA
 ARES
 ARIAD
 ARINF
@@ -154,7 +154,7 @@ ASPIC
 
 
 
-AT
+IJCAI
 LLC
 
 
@@ -197,8 +197,8 @@ UAT
 
 
 
-B
-B
+
+
 BAE
 BAE
 BAE
@@ -243,19 +243,19 @@ CIB
 BEST
 
 BBSRC
-BK
+
 
 
 BMBF
 BMS
-BMWFJ,
+BMWFJ
 USA
 
 
 
 
 
-BP
+
 
 BRAIN
 
@@ -332,12 +332,12 @@ CAPES
 CAPES
 CAPES
 CAPES
-CAPES,
+CAPES
 CAPES/MEC
 
 III
 
-M
+
 
 CATAI
 
@@ -345,7 +345,7 @@ CATAI
 UCB
 CDTI
 CDTI
-CDTI,
+CDTI
 
 CEN
 
@@ -379,9 +379,9 @@ CISR
 CEPETRO
 
 CETVI
-C-FAR,
+C-FAR
 CGS
-"NEW
+NEW
 REMEDI
 
 
@@ -498,7 +498,7 @@ CONACYT
 CONACYT
 CONICET
 CONICET
-CONICET,
+CONICET
 CONICYT
 
 
@@ -515,7 +515,7 @@ CNN
 
 
 
-AT
+INGENIO
 
 CONSOLIDER-INGENIO
 
@@ -533,7 +533,7 @@ CVC
 COST
 COST
 
-R
+
 
 
 CSIR
@@ -546,16 +546,16 @@ CSIR
 
 
 CREMS
-CREST,
+CREST
 CRUK
 CR-UK
 CSBR
 CSC
 CSIC
 CSIR
-CSIR,
-CSIR,
-CSIR,
+CSIR
+CSIR
+CSIR
 
 CSIRO
 CSIRO
@@ -573,7 +573,7 @@ CYTED
 
 
 DAAD
-DAE,
+DAE
 ICT
 
 
@@ -605,7 +605,7 @@ DARPA
 
 
 
-DBT,
+DBT
 
 NTNU
 DARPA
@@ -617,7 +617,7 @@ DARPA
 
 
 
-I
+
 
 
 
@@ -627,7 +627,7 @@ ISE
 
 
 UPM
-M
+
 
 SUNY
 
@@ -660,7 +660,7 @@ DFG
 
 DGAPA
 DGAPA-PAPIIT
-DGICYT:
+DGICYT
 DHS
 DHU
 DIAMANT
@@ -670,7 +670,7 @@ DIME
 DIUC
 
 DIKTI
-U
+
 DIRHA
 
 
@@ -695,9 +695,9 @@ DOE
 
 
 DRDC
-DS
+ETI
 DST
-DST,
+DST
 
 
 
@@ -710,26 +710,26 @@ NWO
 NWO
 STW
 
-E
+
 EADS
 EAGL
 DSR
-SAR,
+SAR
 
 
-EC
-EC
-EC
-EC
-EC
-EC
 
 
-RD
+
+FEDER
+FP7
+SME
+
+
+
 ECN
-UK
+
 ESRC
-FP
+
 ECTRIMS-MAGNIMS
 EDENS
 EDF
@@ -760,13 +760,13 @@ EMBRAPA
 EMBRAPA
 
 ENERGOS
-S
-S
+
+
 
 
 EPSRC
 EPSRC
-UK
+
 
 
 UNAM
@@ -776,7 +776,7 @@ ENMAX
 
 
 
-EU
+
 EPSRC
 EPSRC
 EPSRC
@@ -810,28 +810,28 @@ ESRC/EPSRC/DTUPACCIT
 
 
 
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
-EU
+
+FEDER
+FEDER
+
+
+ERDF
+FEDER
+FP7
+FP7
+FP7
+FP7
+FP7
+FP7
+BAMBI
+ICT
+IST
+
+
+
+RFCS
+FP7
+POR
 EU-6
 
 EU-FEDER
@@ -845,7 +845,7 @@ FEDER
 
 ICSI
 
-RTD,
+RTD
 
 
 
@@ -909,7 +909,7 @@ FP7
 
 DREAM-GO
 RFCS
-EU
+
 EVE
 
 EGAT
@@ -917,9 +917,9 @@ EVIDEN
 
 
 
-F
+-FNRS
 FAA
-D
+
 FACEPE
 
 
@@ -990,7 +990,7 @@ FEDER-MCYT
 
 FERET
 
-FH
+
 FICYT
 VLSI
 FINEP
@@ -1007,7 +1007,7 @@ EWI
 
 FNRS
 FONACIT
-FONACIT,
+FONACIT
 FER
 
 
@@ -1035,7 +1035,7 @@ FWO
 
 FORTH-ICS
 FCT
-FCT,
+FCT
 
 
 
@@ -1076,7 +1076,7 @@ FIRS
 
 FAPEMIG
 FAPESP
-A
+
 FAPERJ
 FAPEMIG
 
@@ -1108,11 +1108,11 @@ BJUT
 
 FWF
 FWO
-G
-G
-GA
-GA
-GA
+
+
+
+
+
 
 GACR
 R+D
@@ -1120,7 +1120,7 @@ R+D
 
 
 
-GE
+
 
 
 DGEST
@@ -1140,7 +1140,7 @@ GEO-SUD
 
 
 DAAD
-DAAD,
+DAAD
 DAAD
 
 
@@ -1148,16 +1148,16 @@ DAAD
 
 BMBF
 FKZ
-BMBF"
+BMBF
 BMBF
 BMWI
 
 DFG
 
-DFG"
 DFG
 DFG
-DFG,
+DFG
+DFG
 DFG
 
 
@@ -1194,7 +1194,7 @@ PGEEC
 
 
 
-MS
+
 
 
 
@@ -1202,7 +1202,7 @@ NSRF
 NSRF
 NSRF
 THALES
-III:
+III
 IKY
 GRF
 GIA
@@ -1214,7 +1214,7 @@ GTI
 
 
 
-NJ,
+USA
 H2020
 H2020
 
@@ -1279,7 +1279,7 @@ HTWG
 
 
 
-HUNOROB,
+HUNOROB
 
 IAEA
 IAU
@@ -1315,7 +1315,7 @@ IPTO
 
 
 
-MI,
+
 INEO
 
 
@@ -1333,7 +1333,7 @@ INRA
 
 
 
-A
+INIBIC
 ICTAS
 
 
@@ -1342,7 +1342,7 @@ IPM
 
 
 
-US
+
 
 
 
@@ -1371,7 +1371,7 @@ IZKF
 TBU
 
 
-V
+
 TECH
 
 
@@ -1383,7 +1383,7 @@ S&T
 
 
 
-EU
+
 
 
 NIH
@@ -1418,14 +1418,14 @@ ISO
 
 ISF
 
-INNI,
+INNI
 
 IST
 IST
 
-IT
-IT
-IT
+KAIST
+
+
 ITAKA
 
 
@@ -1447,9 +1447,9 @@ IUT
 IWT
 
 JAE
-L
 
-S
+
+USA
 
 
 JICA
@@ -1463,7 +1463,7 @@ MEXT
 MLIT
 
 
-M
+
 JCCM
 
 
@@ -1473,8 +1473,8 @@ JCCM
 
 
 
-C
-S
+
+
 NNSFC
 NREL
 JRB
@@ -1493,8 +1493,8 @@ FEDER
 
 AULA-T
 
-K
-K
+
+
 KAIST
 KAKENHI
 
@@ -1567,7 +1567,7 @@ KOSEF
 
 
 MEST
-MOEHRD,
+MOEHRD
 
 
 
@@ -1576,7 +1576,7 @@ MOEHRD,
 
 CNRS
 LACTEC
-LACTEC,
+LACTEC
 
 
 
@@ -1596,7 +1596,7 @@ NSRF
 
 
 
-UK
+
 
 LTRC
 
@@ -1627,12 +1627,12 @@ MOSTI
 
 MARCO
 FP6
-FP7-PEOPLE-ITN,
+FP7-PEOPLE-ITN
 
 
 
 
-WI
+
 
 MARSRERC
 
@@ -1654,9 +1654,9 @@ MEC-MINECO
 R&D
 
 
-UK
-UK
-S
+
+
+
 
 
 
@@ -1675,7 +1675,7 @@ CONACYT
 MEXT
 MFDD
 
-MHRD,
+MHRD
 
 
 
@@ -1698,7 +1698,7 @@ MIRTHE
 
 
 MINECO
-MINECO,
+MINECO
 
 
 
@@ -1707,7 +1707,7 @@ I+D+I
 
 
 
-R
+
 
 
 
@@ -1741,7 +1741,7 @@ FRGS
 
 
 
-II"
+
 MOE
 
 
@@ -1817,7 +1817,7 @@ MOST
 
 CICYT
 
-R
+
 
 
 
@@ -1858,7 +1858,7 @@ PRIN
 ITEA
 MOSTI
 
-CA
+
 MRC
 MSC
 MSIP
@@ -1867,8 +1867,8 @@ MSM
 MSTAR
 MT-LAB
 
-N
-NA
+
+
 NAC
 
 
@@ -1915,7 +1915,7 @@ CEEPUS
 NCEAS
 
 
-MD
+
 
 
 
@@ -1931,7 +1931,7 @@ CONACYT
 
 
 NDSEG
-NDAP,
+NDAP
 
 
 
@@ -1994,7 +1994,7 @@ NISOC
 
 
 
-R
+
 R&D
 R&D
 R&D
@@ -2011,7 +2011,7 @@ NNSF
 
 NSFC
 
-P
+
 
 
 
@@ -2037,7 +2037,7 @@ IPN
 
 PARK
 
-"BIOTECHNOLOGIES"
+BIOTECHNOLOGIES
 
 
 ICT
@@ -2087,18 +2087,18 @@ NSC
 
 
 NSC
-R
+
 
 
 
 
 ROC
 NSC
-R
+
 
 
 ROC
-R
+
 ROC
 
 
@@ -2140,7 +2140,7 @@ SENACYT
 NTC
 
 
-MD
+
 
 
 
@@ -2166,7 +2166,7 @@ NSFH
 
 
 
-PR
+
 
 
 
@@ -2191,9 +2191,9 @@ NCCR
 NCCR
 NCE
 NCI
-NCL,
+NCL
 NCN
-NCN,
+NCN
 NCRR
 
 NEI
@@ -2223,7 +2223,7 @@ NIAID
 NIBIB
 NICHD
 NICHD
-S
+
 
 NICTA
 NICTA
@@ -2344,7 +2344,7 @@ PGE
 PANGEN
 PAPIITIN
 
-ANCS,
+ANCS
 PARTNERSHIP
 PASCAL2
 
@@ -2355,14 +2355,14 @@ SANCRE
 PEDIP
 PENED
 PETROBRAS
-S
+
 
 
 
 PUT
 
 
-D
+
 
 
 PHR2
@@ -2375,7 +2375,7 @@ I2C
 
 I+D
 
-PN
+ID_592/
 POCI
 
 
@@ -2416,11 +2416,11 @@ POSI
 
 
 
-PQ
+
 
 PEEC
-UC
-UC
+
+
 
 
 PRIN'06
@@ -2453,7 +2453,7 @@ CNEPRU
 
 
 
-GA
+
 
 
 
@@ -2465,7 +2465,7 @@ MINECO
 PRISMA
 SEGUR@
 
-TR
+
 
 PROMEP
 PROMEP
@@ -2508,7 +2508,7 @@ RCUK
 
 
 
-V
+TRCS
 
 
 
@@ -2545,7 +2545,7 @@ FINEP
 
 
 
-IAU,
+IAU
 
 
 
@@ -2592,7 +2592,7 @@ RFCS
 RGC
 RGC
 
-US
+
 
 
 
@@ -2602,7 +2602,7 @@ RIVUPH
 
 
 
-EU
+
 
 
 FP7
@@ -2631,12 +2631,12 @@ RUGS
 
 
 
-S
+
 SAIA
 
 
 
-RD
+
 
 SALSI
 SANG
@@ -2690,7 +2690,7 @@ BAP
 SEAM4US
 
 
-UNS,
+UNS
 SENESCYT
 SMP
 
@@ -2715,7 +2715,7 @@ SGS
 
 
 
-PR
+
 
 
 
@@ -2772,7 +2772,7 @@ SORSAS
 
 SFWMD
 ETC
-SP
+
 
 SPAWAR
 
@@ -2813,7 +2813,7 @@ MICYT
 
 
 MEC
-"AVANZA"
+AVANZA
 MEC
 
 
@@ -2828,7 +2828,7 @@ R&D
 
 MEC
 
-SEDUREC,
+SEDUREC
 
 
 
@@ -2873,7 +2873,7 @@ SSC
 SSN
 SSTFFP
 
-IT
+
 
 
 
@@ -2904,7 +2904,7 @@ STINT
 
 
 CCL
-VR
+
 
 
 
@@ -2925,8 +2925,8 @@ TSWG
 UTP
 
 FCT
-TEKES,
-MKE,
+TEKES
+MKE
 
 
 
@@ -2938,13 +2938,13 @@ TECTERRA
 
 
 
-I
-US
+
+
 TWCF
 
 TNBD
 TNBR
-TERAPERS,
+TERAPERS
 
 
 
@@ -2959,7 +2959,7 @@ TERAPERS,
 
 THESEUS
 
-F
+
 
 
 
@@ -2972,9 +2972,9 @@ TNB
 
 TARTA
 
-S
+
 TOPS
-II
+
 SFERA
 BMBF
 
@@ -2982,59 +2982,59 @@ BMBF
 
 SRT
 
-TT
-TU
-TU
+
+
+
 TUBA
 TUBITAK
 TUBITAK
 TUBITAK
-TUBITAK,
+TUBITAK
 
 
 
 TWAS
 
 
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
-U
+
+
+
+EPSRC
+
+
+
+RDECOM
+USDA
+
+
+
+
+
+
+
+
+
+LHNCBC
+NIH
+NLM
+
+
+
+
 UAMADIC
 UCARE
 UEFISCSU
 UEFISCU
 UFABC
 UFPR
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
+
+BBSRC
+
+
+
+EPSRC
+
+FABRIC
 EPSRC
 EPSRC
 EPSRC
@@ -3074,7 +3074,7 @@ UMP
 
 USM
 USM
-RU
+
 USM
 
 
@@ -3094,13 +3094,13 @@ UTHM
 
 UGC
 UGC
-UGC,
+UGC
 
 
 
 
 
-A
+
 
 
 
@@ -3114,7 +3114,7 @@ UABC
 
 
 
-U
+
 
 
 
@@ -3153,7 +3153,7 @@ UPMC
 
 
 
-UK
+
 
 
 
@@ -3166,7 +3166,7 @@ RIF
 
 
 III
-UK
+
 
 
 UWO
@@ -3178,24 +3178,24 @@ URIF
 PETR
 UNL
 UNL
-UNS,
+UNS
 UPM
 
-US
-US
-US
-US
-US
-US
-US
-US
-US
-US
-US
-US
-US
-US
-US
+
+
+
+
+
+
+
+NURI
+NIST
+
+NLM
+
+NSF
+NSF
+
 
 USEPA
 USGS
@@ -3209,8 +3209,8 @@ USSOCOM
 UTFSM
 UWB
 UWI
-V
-VA
+
+
 
 
 
@@ -3231,7 +3231,7 @@ VLIR
 VLIR
 
 VTT
-W
+
 
 
 
@@ -3240,11 +3240,11 @@ WRA
 ROC
 WATMAN
 
-LI
 
 
 
-UK
+
+
 QUOTIENT
 
 
@@ -3256,9 +3256,9 @@ UCRA
 NAIP
 WCU
 
-BD
 
-S
+
+
 
 
 
@@ -3272,7 +3272,7 @@ YAYASAN
 
 
 
-U
+
 
 
 
