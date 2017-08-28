@@ -4,7 +4,7 @@ import numpy as np
 
 # 对于基金的处理
 
-# 读取文件并装换为小写
+# 读取文件并装换为小写,并去除：空格，括号，逗号
 def readAndLow(path):
     file = open(path)
     foundList = file.readlines()
@@ -69,10 +69,47 @@ def stringSim(str1, str2):
     return d[str1Len - 1][str2Len - 1]
 
 
+# if A in B,包含规则
+def mergeTwo(founds):
+    foundLists = []
+
+
+# 提取缩写
+def getAbbreviation(found):
+    fabb = {}
+    for f in found:
+        f.replace("(|)|,|.", " ")
+    for i in found.split():
+        if i.isupper():
+            fabb[found] = i
+            break
+    return fabb
+
+
+# 缩写合并
+def mergeOne(founds):
+    foundLists = []
+    for found in founds:
+        flag = False
+        if len(foundLists) == 0:
+            print("缩写合并开始")
+        else:
+            addre = getAbbreviation(found)
+            for foundList in foundLists:
+                if ( addre == getAbbreviation(foundList)):
+                    flag = True
+                    break
+        if flag is False:
+            foundLists.append(found)
+    return foundLists
+
+
 if __name__ == '__main__':
     path = "found.txt"
-    founds = readAndLow(path)
-    foundLists = removeDupli(founds, 5)
+    file = open(path)
+    foundList = file.readlines()
+    foundLists = mergeOne(foundList)
     print("***********************现在输出结果*****************************")
+    print(len(foundLists))
     for f in foundLists:
         print(f)
