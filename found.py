@@ -86,7 +86,7 @@ def mergeTwo(founds):
                 # 存在包含关系
                 if LongStr.find(ShortStr)!=-1:
                     print("LongString : " + LongStr + "*****ShortStr : "+ShortStr)
-                    fileContain.writelines(LongStr+" "+ShortStr+'\n')
+                    fileContain.writelines(LongStr+"\t"+ShortStr+'\n')
                     flag = True
                     break
             if flag is False:
