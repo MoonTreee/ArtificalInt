@@ -72,6 +72,27 @@ def stringSim(str1, str2):
 # if A in B,包含规则
 def mergeTwo(founds):
     foundLists = []
+    for found in founds:
+        flag = False
+        found = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace \
+            (":", " ").replace('"', " ").lower()
+        if len(foundLists)==0:
+            foundLists = [found]
+        else:
+            for foundList in foundLists:
+                LongStr = foundList if len(foundList)>len(found) else found
+                ShortStr = found if len(foundList)>len(found) else foundList
+                # 存在包含关系
+                if LongStr.find(ShortStr)!=-1:
+                    print("LongString : " + LongStr + "*****ShortStr : "+ShortStr)
+                    flag = True
+                    break
+            if flag is False:
+                foundLists.append(found)
+    return foundLists
+
+
+
 
 
 # 提取缩写
@@ -110,13 +131,7 @@ def mergeOne(founds):
 if __name__ == '__main__':
     path = "found.txt"
     file = open(path)
-    addFile = open("abb.txt", "w+")
-    foundList = file.readlines()
-    for found in foundList:
-        found = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace\
-            (":", " ") .replace('"', " ")
-        abb = getAbbreviation(found)
-        line = abb[found]+"\n"
-        addFile.writelines(line)
-    addFile.close()
+    foundLists = mergeTwo(file.readlines())
+    print(len(foundLists))
+    print(foundLists)
     print("***********************现在输出结果*****************************")
