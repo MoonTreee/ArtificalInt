@@ -94,10 +94,6 @@ def mergeTwo(founds):
     fileContain.close()
     return foundLists
 
-
-
-
-
 # 提取缩写
 # 0827 缩写长度最小为3
 def getAbbreviation(found):
@@ -114,21 +110,16 @@ def mergeOne(founds):
     foundDic = {}
     for found in founds:
         found = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace \
-            (":", " ").replace('"', " ")
+            (":", " ").replace('"', " ").strip()
         addre = getAbbreviation(found)
         keys = list(foundDic.keys())
-        if (len(foundDic) == 0) or (len(addre)==0) or (len(addre)>0 and addre not in keys):
-            foundDic[found] = [found]
-        else:
+        if len(addre)>0:
+            if addre in keys:
                 foundDic[addre].append(found)
-                print(found+"  "+addre)
-            # for foundList in foundDic.keys():
-            #     if (addre == getAbbreviation(foundList)):
-            #         foundDic[foundList].append(found)
-            #         flag = True
-            #         break
-            # if flag is False:
-            #     foundDic[found] = [found]
+            else:
+                foundDic[addre] = [found]
+        else:
+            foundDic[found] = [found]
     return foundDic
 
 
@@ -138,3 +129,11 @@ if __name__ == '__main__':
     foundLists = mergeOne(file.readlines())
     print(len(foundLists))
     print("***********************现在输出结果*****************************")
+    f = open("mergeone.txt", "w+")
+    for key in foundLists.keys():
+        value = ""
+        for v in foundLists[key]:
+            print(v)
+            value = value + ";" + v
+        f.writelines(key + "\t" + value + '\n')
+    f.close()
