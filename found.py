@@ -71,12 +71,11 @@ def stringSim(str1, str2):
 
 # if A in B,包含规则
 def mergeTwo(founds):
-    fileContain = open("contain", "w+")
     foundLists = []
+    i = 0
     for found in founds:
         flag = False
-        found = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace \
-            (":", " ").replace('"', " ").lower()
+        found = found.replace(" ", '').replace("\n", '').lower()
         if len(foundLists)==0:
             foundLists = [found]
         else:
@@ -85,13 +84,13 @@ def mergeTwo(founds):
                 ShortStr = found if len(foundList)>len(found) else foundList
                 # 存在包含关系
                 if LongStr.find(ShortStr)!=-1:
+                    i+=1
                     print("LongString : " + LongStr + "*****ShortStr : "+ShortStr)
-                    fileContain.writelines(LongStr+"\t"+ShortStr+'\n')
                     flag = True
                     break
             if flag is False:
                 foundLists.append(found)
-    fileContain.close()
+    print(i)
     return foundLists
 
 # 提取缩写
@@ -124,16 +123,12 @@ def mergeOne(founds):
 
 
 if __name__ == '__main__':
-    path = "found.txt"
+    path = "add_1.txt"
     file = open(path)
-    foundLists = mergeOne(file.readlines())
+    foundLists = mergeTwo(file.readlines())
     print(len(foundLists))
     print("***********************现在输出结果*****************************")
-    f = open("mergeone.txt", "w+")
-    for key in foundLists.keys():
-        value = ""
-        for v in foundLists[key]:
-            print(v)
-            value = value + ";" + v
-        f.writelines(key + "\t" + value + '\n')
+    f = open("contain_1.txt", "w+")
+    for key in foundLists:
+        f.writelines(key+'\n')
     f.close()
