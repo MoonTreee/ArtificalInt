@@ -74,7 +74,6 @@ def mergeTwo(founds):
     foundLists = []
     i = 0
     for found in founds:
-        flag = False
         found = found.replace(" ", '').replace("\n", '').lower()
         if len(foundLists)==0:
             foundLists = [found]
@@ -86,10 +85,9 @@ def mergeTwo(founds):
                 if LongStr.find(ShortStr)!=-1:
                     i+=1
                     print("LongString : " + LongStr + "*****ShortStr : "+ShortStr)
-                    flag = True
                     break
-            if flag is False:
-                foundLists.append(found)
+                else:
+                    foundLists.append(found)
     print(i)
     return foundLists
 
@@ -123,12 +121,18 @@ def mergeOne(founds):
 
 
 if __name__ == '__main__':
-    path = "add_1.txt"
-    file = open(path)
-    foundLists = mergeTwo(file.readlines())
-    print(len(foundLists))
-    print("***********************现在输出结果*****************************")
-    f = open("contain_1.txt", "w+")
-    for key in foundLists:
-        f.writelines(key+'\n')
-    f.close()
+    # path = "add_1.txt"
+    # file = open(path)
+    # foundLists = mergeTwo(file.readlines())
+    # print(len(foundLists))
+    # print("***********************现在输出结果*****************************")
+    # f = open("contain_1.txt", "w+")
+    # for key in foundLists:
+    #     f.writelines(key+'\n')
+    # f.close()
+    file = open("test.txt")
+    founds = mergeTwo(file.readlines())
+    file.close()
+    for f in founds:
+        print(f+'\n')
+
