@@ -25,14 +25,14 @@ for i in range(length):
         n+=1
         f_b[j-1] = (f_b[j] + ";"+f_b[j-1]).replace(";;", ";")
         print(f_b[j-1])
-        f_b.pop(f_b[j])
-        f_a.pop(f_a[j])
+        f_b.pop(j)
+        f_a.pop(j)
 print(n)
 
 # 写入文件
 f_s = open("txts/stand.txt", "w+")
 for i in range(len(f_a)):
-    f_s.writelines(f_a[i]+'\n')
+    f_s.writelines(f_a[i]+"\t"+f_b[i]+'\n')
 f_s.close()
 
 
