@@ -15,14 +15,57 @@ def readAndLow(path):
     return founds
 
 
-# 识别国家
+# 识别国家:USA(3559),PEOPLES R CHINA(2861),ENGLAND(1283),SPAIN(1227),
+#         FRANCE(792),CANADA(773),ITALY(736),GERMANY(719),BRAZIL(648),
+#         IRAN(603),AUSTRALIA(578),JAPAN(557),POLAND(539),TAIWAN(489)...
 def findCountry(founds):
-    i = 0
+    country_list=[]
+    i_0=0;i_1=0;i_2=0;i_3 =0;i_4=0;i_5=0;i_6=0;i_7=0;i_8=0;i_9=0
+    # 制定国家识别规则
     for found in founds:
-        china = re.search(r'china', found)
-        if china is not None:
-            i += 1
-    return i
+        if re.search(r'[Cc]hin|[Bb]eijing|[Jj]iangsu|[Zz]hejiang|Natural Science Foundation|973|863'
+                     r'|[sS]hanghai|[Ss]handong', found):
+            country_list.append("China")
+            i_1+=1
+        elif re.search(r'[Aa]merican|US|U S|Mexico|Stanford|Indian', found):
+            country_list.append("USA")
+            i_2+=1
+        elif re.search(r'(.*)[Ee]ngland|UK|U K(.*)', found):
+            country_list.append("England")
+            i_3+=1
+        elif re.search(r"(.*)[Ff]rance(.*)|Perlis", found):
+            country_list.append("France")
+            i_4+=1
+        elif re.search(r'[Cc]anad', found):
+            country_list.append("CANADA")
+            i_5+=1
+        elif re.search(r"[Ii]taly",found):
+            country_list.append("ITALY")
+            i_6+=1
+        elif re.search(r'[Gg]erman', found):
+            country_list.append("Germany")
+            i_7+=1
+        elif re.search(r'[Bb]razil', found):
+            country_list.append("BRAZIL")
+            i_8+=1
+        elif re.search(r'[Ii]ndia', found):
+            country_list.append("INDIAN")
+            i_9+=1
+        else:
+            country_list.append(" ")
+            i_0+=1
+    print("中国：" + str(i_1))
+    print("美国：" + str(i_2))
+    print("英国：" + str(i_3))
+    print("法国： "+ str(i_4))
+    print("加拿大：" + str(i_5))
+    print("意大利：" + str(i_6))
+    print("德国：" + str(i_7))
+    print("巴西：" + str(i_8))
+    print("印度：" + str(i_9))
+    print("未识别： "+ str(i_0))
+
+    return country_list
 
 
 # 去重
@@ -130,8 +173,6 @@ if __name__ == '__main__':
     # for key in foundLists:
     #     f.writelines(key+'\n')
     # f.close()
-    file = open("test.txt")
-    founds = mergeTwo(file.readlines())
+    file = open("txts/stand.txt")
+    countries = findCountry(file.readlines())
     file.close()
-    for f in founds:
-        print(f+'\n')
