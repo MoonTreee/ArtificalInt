@@ -1,32 +1,194 @@
 # 2017-09-04 Trey
-# 通过作者地址找到基金的地址
+# 通过作者地址找到基金的地址(仅作为默认，需要人工校验)
 import pymysql
 import re
+import xlrd
 
 
-# 打开数据库连接
-db = pymysql.connect("localhost", "root", "1234", "ati_intelliij_new")
-# 使用cursor创建一个游标对象
-cursor = db.cursor()
-# 使用execute方法执行SQL
-sql = "select * from found_info WHERE  FU is not NULL "
-cursor.execute(sql)
-# 使用fetchall()获取所有数据
-try:
-    data = cursor.fetchall()
-except:
-    print("Wrong!")
-db.close()
+def countryList():
+    # 打开数据库连接
+    db = pymysql.connect("localhost", "root", "1234", "ati_intelliij_new")
+    # 使用cursor创建一个游标对象
+    cursor = db.cursor()
+    # 使用execute方法执行SQL
+    sql = "select * from found_info"
+    cursor.execute(sql)
+    # 使用fetchall()获取所有数据
+    try:
+        data = cursor.fetchall()
+    except:
+        print("Wrong!")
+    db.close()
+    # 从第一作者的信息中分离出国家选项，并作为“默认国别”
+    # 1：分离第一个作者的地址作为基金的默认地址
+    country_list = []
+    print(len(data))
+    for row in data:
+          # print(row[0])
+          # 使用正则将[]之间的内容全部删除，以防止干扰
+          list_1 = re.sub(r"\[(.*)\]", "", str(row[0]), count=0)
+          country = list_1.split(";")[0].split()[-1]
+          country_list.append(country)
+    print(country_list)
+    return country_list
 
-# 分离地址,
-# 1：分离第一个作者的地址作为基金的地址
-country_list = []
-print(len(data))
-for row in data:
-      # print(row[0])
-      # 使用正则将[]之间的内容全部删除，以防止干扰
-      list_1 = re.sub(r"\[(.*)\]", "", str(row[0]), count=0)
-      country = list_1.split(";")[0].split()[-1]
-      country_list.append(country)
-print(country_list)
+def countrySplit():
+    # 打开数据库连接
+    db = pymysql.connect("localhost", "root", "1234", "ati_intelliij_new")
+    # 使用cursor创建一个游标对象
+    cursor = db.cursor()
+    # 使用execute方法执行SQL
+    sql = "select * from founds"
+    cursor.execute(sql)
+    # 使用fetchall()获取所有数据
+    try:
+        data = cursor.fetchall()
+    except:
+        print("Wrong!")
+    for row in data:
+        founds = re.sub(r"\[(.*)\]", "", str(row[1]), count=0).split(';')
+        for found in founds:
+            found = found.strip()
+            sql = "insert into found_split (UT, FU, t_country) VALUES (%s, %s, %s)"
+            try:
+                cursor.execute(sql, (row[2], found, row[3]))
+                db.commit()
+            except:
+                db.rollback()
+    db.close()
+
+# 缩写去重
+# 提取缩写
+# 0827 缩写长度最小为3
+def getAbbreviation(found):
+    fabb = ""
+    for i in found.split():
+        if len(i) > 2 and i.isupper():
+            fabb = i
+            break
+    return fabb
+
+
+# 缩写合并
+def mergeOne(founds):
+    foundDic = {}
+    for found in founds:
+        found = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace \
+            (":", " ").replace('"', " ").strip()
+        addre = getAbbreviation(found)
+        keys = list(foundDic.keys())
+        if len(addre)>0:
+            if addre in keys:
+                foundDic[addre].append(found)
+            else:
+                foundDic[addre] = [found]
+        else:
+            foundDic[found] = [found]
+    return foundDic
+
+
+# if A in B,包含规则
+def mergeTwo(founds):
+    foundLists = []
+    i = 0
+    for found in founds:
+        found = found.replace(" ", '').replace("\n", '').lower()
+        if len(foundLists)==0:
+            foundLists = [found]
+        else:
+            for foundList in foundLists:
+                LongStr = foundList if len(foundList)>len(found) else found
+                ShortStr = found if len(foundList)>len(found) else foundList
+                # 存在包含关系
+                if LongStr.find(ShortStr)!=-1:
+                    i+=1
+                    print("LongString : " + LongStr + "*****ShortStr : "+ShortStr)
+                    break
+                else:
+                    foundLists.append(found)
+    print(i)
+    return foundLists
+
+
+if __name__ == '__main__':
+    try:
+      data = xlrd.open_workbook("C:\\Users\\Tree\\Desktop\\found_split_00.xls")
+    except:
+        print("fail")
+    table = data.sheets()[2]
+    nrows = table.nrows  # 行数
+    ncols = table.ncols  # 列数
+    print(ncols)
+    # # 对基金字段（FU）字符进行一些replace处理
+    # founds = []
+    # f = open("founds_00.txt","w")
+    # for i in range(1, nrows-1):
+    #     row = table.row_values(i)
+    #     found = row[2].replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace \
+    #         (":", " ").replace('"', " ").strip()
+    #     f.writelines(found+'\n')
+    #     founds.append(found)
+    # f.close()
+    #
+    # found_list = table.col_values(9)  # 合并目标列
+    # f_dic = {}  # 输出字典 {found："wosxxxx;woxxxx……"}
+    # for f in found_list:
+    #     f_dic[f]=''
+    # for i in range(1, nrows):
+    #     row = table.row_values(i)
+    #     if row[1] not in found_list:
+    #         continue
+    #     else:
+    #         found = row[1]
+    #         print(found)
+    #         # print(row[0])
+    #         wos=f_dic[found]
+    #         wos = row[0]+";"+wos
+    #         f_dic[found]=wos
+    # print(len(f_dic))
+    # print(f_dic["973 Program"])
+    #
+    # f = open("founds_01.txt","w")
+    # for fo in found_list:
+    #     f.writelines(fo +'\t'+ f_dic[fo]+'\n')
+    # f.close()
+    #
+    founds = table.col_values(0)[1:]
+    dic = mergeOne(founds)
+
+    keys = list(dic.keys())
+    dic_abb ={}
+    for key in keys:
+        dic_abb[key] = []
+    for i in range(1, nrows):
+        row = table.row_values(i)
+        found = row[0]
+        for key in keys:
+            if found in dic[key]:
+                dic_abb[key].append(row[1])
+                break
+    f = open("founds_03.txt", "w")
+    for key in keys:
+        s = ''
+        for fo in dic_abb[key]:
+            s = fo + ";" + s
+        f.writelines(key+"\t"+s+'\n')
+    f.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
