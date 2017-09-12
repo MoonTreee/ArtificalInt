@@ -101,6 +101,9 @@ def mergeTwo(founds):
                 ShortStr = found if len(foundList)>len(found) else foundList
                 # 存在包含关系
                 if LongStr.find(ShortStr)!=-1:
+                    # if ShortStr in foundLists:
+                    #     foundLists.remove(ShortStr)
+                    #     foundLists.append(LongStr)
                     i+=1
                     print("LongString : " + LongStr + "*****ShortStr : "+ShortStr)
                     break
@@ -110,15 +113,27 @@ def mergeTwo(founds):
     return foundLists
 
 
+def longFound(founds):
+    long_founds = []
+    for f in founds:
+        f_list = f.split(";")
+        longest = f_list[0]
+        for found in f_list:
+            longest = found if len(found)>=len(longest) else longest
+        long_founds.append(longest)
+    return long_founds
+
+
+
+
 if __name__ == '__main__':
     try:
       data = xlrd.open_workbook("C:\\Users\\Tree\\Desktop\\found_split_00.xls")
     except:
         print("fail")
-    table = data.sheets()[2]
+    table = data.sheets()[3]
     nrows = table.nrows  # 行数
     ncols = table.ncols  # 列数
-    print(ncols)
     # # 对基金字段（FU）字符进行一些replace处理
     # founds = []
     # f = open("founds_00.txt","w")
@@ -154,26 +169,33 @@ if __name__ == '__main__':
     # f.close()
     #
     founds = table.col_values(0)[1:]
-    dic = mergeOne(founds)
+    # dic = mergeOne(founds)
+    #
+    # keys = list(dic.keys())
+    # dic_abb ={}
+    # for key in keys:
+    #     dic_abb[key] = []
+    # for i in range(1, nrows):
+    #     row = table.row_values(i)
+    #     found = row[0]
+    #     for key in keys:
+    #         if found in dic[key]:
+    #             dic_abb[key].append(row[1])
+    #             break
+    # f = open("founds_03.txt", "w")
+    # for key in keys:
+    #     s = ''
+    #     for fo in dic_abb[key]:
+    #         s = fo + ";" + s
+    #     f.writelines(key+"\t"+s+'\n')
+    # f.close()
+    found_list = mergeTwo(founds)
+    file = open("founds_05.txt", 'w')
+    for f in found_list:
+        file.writelines(f + '\n')
+        print(f)
+    file.close()
 
-    keys = list(dic.keys())
-    dic_abb ={}
-    for key in keys:
-        dic_abb[key] = []
-    for i in range(1, nrows):
-        row = table.row_values(i)
-        found = row[0]
-        for key in keys:
-            if found in dic[key]:
-                dic_abb[key].append(row[1])
-                break
-    f = open("founds_03.txt", "w")
-    for key in keys:
-        s = ''
-        for fo in dic_abb[key]:
-            s = fo + ";" + s
-        f.writelines(key+"\t"+s+'\n')
-    f.close()
 
 
 
