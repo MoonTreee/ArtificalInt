@@ -122,10 +122,10 @@ def mergeTwo(founds):
             foundLists = [found]
         else:
             for foundList in foundLists:
-                LongStr = foundList if len(foundList)>len(found) else found
-                ShortStr = found if len(foundList)>len(found) else foundList
+                # LongStr = foundList if len(foundList)>=len(found) else found
+                # ShortStr = found if len(foundList)>=len(found) else foundList
                 # 存在包含关系
-                if LongStr.find(ShortStr)!=-1:
+                if foundList.find(found) > -1 | found.find(foundList) >-1:
                     i+=1
                     print("LongString : " + LongStr + "*****ShortStr : "+ShortStr)
                     break

@@ -32,6 +32,7 @@ def countryList():
     print(country_list)
     return country_list
 
+
 def countrySplit():
     # 打开数据库连接
     db = pymysql.connect("localhost", "root", "1234", "ati_intelliij_new")
@@ -56,6 +57,7 @@ def countrySplit():
             except:
                 db.rollback()
     db.close()
+
 
 # 缩写去重
 # 提取缩写
@@ -90,10 +92,13 @@ def mergeOne(founds):
 # if A in B,包含规则
 def mergeTwo(founds):
     foundLists = []
-    i = 0
-    for found in founds:
-        found = found.replace(" ", '').replace("\n", '').lower()
+    List = []
+    for f in founds:
+        flag = False
+        print(len(foundLists))
+        found = f.replace(" ", '').replace("\n", '').lower()
         if len(foundLists)==0:
+            print("----")
             foundLists = [found]
         else:
             for foundList in foundLists:
@@ -101,18 +106,19 @@ def mergeTwo(founds):
                 ShortStr = found if len(foundList)>len(found) else foundList
                 # 存在包含关系
                 if LongStr.find(ShortStr)!=-1:
+                    flag = True
+                    print("LongString : " + LongStr + "*****ShortStr : " + ShortStr)
                     # if ShortStr in foundLists:
                     #     foundLists.remove(ShortStr)
                     #     foundLists.append(LongStr)
-                    i+=1
-                    print("LongString : " + LongStr + "*****ShortStr : "+ShortStr)
                     break
-                else:
-                    foundLists.append(found)
-    print(i)
-    return foundLists
+        if flag is False:
+            foundLists.append(found)
+            List.append(f)
+    return List
 
 
+# 在众多基金别名中选取最长的
 def longFound(founds):
     long_founds = []
     for f in founds:
@@ -124,16 +130,37 @@ def longFound(founds):
     return long_founds
 
 
-
-
-if __name__ == '__main__':
+# 以基准列stand进行合并
+def getStand(stand):
     try:
-      data = xlrd.open_workbook("C:\\Users\\Tree\\Desktop\\found_split_00.xls")
+        data = xlrd.open_workbook("C:\\Users\\Tree\\Desktop\\found_split_00.xls")
     except:
         print("fail")
     table = data.sheets()[3]
-    nrows = table.nrows  # 行数
-    ncols = table.ncols  # 列数
+    nrows = table.nrows
+    dic = {}
+    for found in stand:
+        f = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace \
+            (":", " ").replace('"', " ").strip().replace(" ", '').lower()
+        for i in range(1, nrows):
+            row = table.values(i)
+            values = []
+            r = row[0].replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace \
+            (":", " ").replace('"', " ").strip().replace(" ", '').lower()
+            while (r.find(f)!=-1|f.find(r)!=-1):
+                values[0] = row[2]+';'+dic[found][]
+
+
+
+
+if __name__ == '__main__':
+    # try:
+    #   data = xlrd.open_workbook("C:\\Users\\Tree\\Desktop\\found_split_00.xls")
+    # except:
+    #     print("fail")
+    # table = data.sheets()[3]
+    # nrows = table.nrows  # 行数
+    # ncols = table.ncols  # 列数
     # # 对基金字段（FU）字符进行一些replace处理
     # founds = []
     # f = open("founds_00.txt","w")
@@ -168,7 +195,7 @@ if __name__ == '__main__':
     #     f.writelines(fo +'\t'+ f_dic[fo]+'\n')
     # f.close()
     #
-    founds = table.col_values(0)[1:]
+    # founds = table.col_values(0)[1:]
     # dic = mergeOne(founds)
     #
     # keys = list(dic.keys())
@@ -189,11 +216,11 @@ if __name__ == '__main__':
     #         s = fo + ";" + s
     #     f.writelines(key+"\t"+s+'\n')
     # f.close()
+    founds = open("founds_04.txt").readlines()
     found_list = mergeTwo(founds)
     file = open("founds_05.txt", 'w')
     for f in found_list:
-        file.writelines(f + '\n')
-        print(f)
+        file.writelines(f)
     file.close()
 
 
