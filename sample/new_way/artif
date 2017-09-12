@@ -139,21 +139,98 @@ def getStand(stand):
     table = data.sheets()[3]
     nrows = table.nrows
     dic = {}
+    i = 0
     for found in stand:
+        found = found.replace("\n",'')
+        v = ["", ""]
+        dic[found] = v
+        print(dic[found][0])
         f = found.replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace \
             (":", " ").replace('"', " ").strip().replace(" ", '').lower()
         for i in range(1, nrows):
-            row = table.values(i)
-            values = []
+            row = table.row_values(i)
+            values = ["", ""]
             r = row[0].replace("(", ' ').replace(")", " ").replace(".", " ").replace("\n", '').replace(",", "").replace \
             (":", " ").replace('"', " ").strip().replace(" ", '').lower()
-            while (r.find(f)!=-1|f.find(r)!=-1):
-                values[0] = row[2]+';'+dic[found][]
+            while r.find(f)!=-1 or f.find(r)!=-1:
+                i+=1
+                print(r+"---------"+f)
+                print(i)
+                values[0] = row[2]+';'+dic[found][0]
+                values[1] = row[3]+";"+dic[found][1]
+                dic[found]=values
+                print(len(dic))
+                break
+    return dic
 
+# 识别国家:USA(3559),PEOPLES R CHINA(2861),ENGLAND(1283),SPAIN(1227),
+#         FRANCE(792),CANADA(773),ITALY(736),GERMANY(719),BRAZIL(648),
+#         IRAN(603),AUSTRALIA(578),JAPAN(557),POLAND(539),TAIWAN(489)...
+def findCountry(founds):
+    country_list=[]
+    i_0=0;i_1=0;i_2=0;i_3 =0;i_4=0;i_5=0;i_6=0;i_7=0;i_8=0;i_9=0
+    # 制定国家识别规则
+    for found in founds:
+        if re.search(r'[Cc]hin|[Bb]eijing|[Jj]iangsu|[Zz]hejiang|Natural Science Foundation|973|863'
+                     r'|[sS]hanghai|[Ss]handong', found):
+            country_list.append("China")
+            i_1+=1
+        elif re.search(r'[Aa]merican|US|U S|Mexico|Stanford|Indian', found):
+            country_list.append("USA")
+            i_2+=1
+        elif re.search(r'(.*)[Ee]ngland|UK|U K(.*)', found):
+            country_list.append("England")
+            i_3+=1
+        elif re.search(r"(.*)[Ff]rance(.*)|Perlis", found):
+            country_list.append("France")
+            i_4+=1
+        elif re.search(r'[Cc]anad', found):
+            country_list.append("CANADA")
+            i_5+=1
+        elif re.search(r"[Ii]taly",found):
+            country_list.append("ITALY")
+            i_6+=1
+        elif re.search(r'[Gg]erman', found):
+            country_list.append("Germany")
+            i_7+=1
+        elif re.search(r'[Bb]razil', found):
+            country_list.append("BRAZIL")
+            i_8+=1
+        elif re.search(r'[Ii]ndia', found):
+            country_list.append("INDIAN")
+            i_9+=1
+        else:
+            country_list.append(" ")
+            i_0+=1
+    print("中国：" + str(i_1))
+    print("美国：" + str(i_2))
+    print("英国：" + str(i_3))
+    print("法国： "+ str(i_4))
+    print("加拿大：" + str(i_5))
+    print("意大利：" + str(i_6))
+    print("德国：" + str(i_7))
+    print("巴西：" + str(i_8))
+    print("印度：" + str(i_9))
+    print("未识别： "+ str(i_0))
+
+    return country_list
 
 
 
 if __name__ == '__main__':
+    try:
+        data = xlrd.open_workbook("C:\\Users\\Tree\\Desktop\\found_split_00.xls")
+    except:
+        print("fail")
+    table = data.sheets()[4]
+    nrows = table.nrows
+    founds = table.col_values(0)[1:]
+    countries = findCountry(founds)
+    file = open("founds_07.txt", "w")
+    for f in countries:
+        file.writelines(f+'\n')
+    file.close()
+
     # try:
     #   data = xlrd.open_workbook("C:\\Users\\Tree\\Desktop\\found_split_00.xls")
     # except:
@@ -216,12 +293,7 @@ if __name__ == '__main__':
     #         s = fo + ";" + s
     #     f.writelines(key+"\t"+s+'\n')
     # f.close()
-    founds = open("founds_04.txt").readlines()
-    found_list = mergeTwo(founds)
-    file = open("founds_05.txt", 'w')
-    for f in found_list:
-        file.writelines(f)
-    file.close()
+
 
 
 
