@@ -16,14 +16,20 @@ if __name__ == "__main__":
     for line in open('lda_txt.txt', 'r',encoding='utf8').readlines():
         corpus.append(line.strip())
 
+
+    # 加载停用词
+    stop = open("stopword.txt", "r").read().split("\n")
+    stop_words = [word.strip() for word in stop]
+    print(stop_words)
+
     # 将文本中的词语转换为词频矩阵 矩阵元素a[i][j] 表示j词在i类文本下的词频
-    vectorizer = CountVectorizer()
+    vectorizer = CountVectorizer(stop_words=stop_words)
     print(vectorizer)
 
     X = vectorizer.fit_transform(corpus)
     analyze = vectorizer.build_analyzer()
     weight = X.toarray()
-    weight.dtype = 'int32'
+    # weight.dtype = 'int32'
     print(weight.dtype)
 
     print(len(weight))
@@ -34,7 +40,7 @@ if __name__ == "__main__":
     import numpy as np
     import lda
     import lda.datasets
-    model = lda.LDA(n_topics=5, n_iter=200, random_state=1)
+    model = lda.LDA(n_topics=10, n_iter=2000, random_state=1)
     model.fit(np.asarray(weight))
     topic_word = model.topic_word_
     print(topic_word.shape)
@@ -46,8 +52,9 @@ if __name__ == "__main__":
     print("shape: {}".format(doc_topic.shape))
 
     # 输出主题中的TopN关键词
+    topic = open("topic.txt", "w")
     word = vectorizer.get_feature_names()
-    n = 3
+    n = 5
     for i, topic_dist in enumerate(topic_word):
         print(i)
         print(topic_dist)
@@ -57,16 +64,21 @@ if __name__ == "__main__":
         x2 = np.array(word)
         # print(x2.shape)
         topic_words = x2[x1][:-(n+1):-1]
+        topic.writelines(u'*Topic {}\n- {}'.format(i, ' '.join(topic_words))+'\n')
         print(u'*Topic {}\n- {}'.format(i, ' '.join(topic_words)))
+    topic.close()
 
-    #输出前20篇文章最可能的Topic
+    # 输出前20篇文章最可能的Topic'
+    ari_topic = open("ari_topic.txt", "w")
     label = []
-    for n in range(10):
+    for n in range(len(weight)):
         topic_most_pr = doc_topic[n].argmax()
         label.append(topic_most_pr)
-        print("doc: {} topic: {}".format(n, topic_most_pr))
+        ari_topic.writelines(str(n)+"\t"+str(topic_most_pr))
+        # print("doc: {} topic: {}".format(n, topic_most_pr))
+    ari_topic.close()
 
-    #计算文档主题分布图
+    # 计算文档主题分布图
     import matplotlib.pyplot as plt
 
     f, ax = plt.subplots(6, 1, figsize=(8, 8), sharex=True)
@@ -78,5 +90,20 @@ if __name__ == "__main__":
         ax[i].set_ylabel("Prob")
         ax[i].set_title("Document {}".format(k))
     ax[5].set_xlabel("Topic")
+    plt.tight_layout()
+    plt.show()
+
+    # 计算词的权重
+    f, ax = plt.subplots(10, 1, figsize=(18, 20), sharex=True)
+    for i, k in enumerate([0, 1, 2, 3, 4, 5, 6, 7, 8, 9]):  # 两个主题
+        ax[i].stem(topic_word[k, :], linefmt='b-',
+                   markerfmt='bo', basefmt='w-')
+        ax[i].set_xlim(-2, 20)
+        ax[i].set_ylim(0, 1)
+        ax[i].set_ylabel("Prob")
+        ax[i].set_title("topic {}".format(k))
+
+    ax[1].set_xlabel("word")
+
     plt.tight_layout()
     plt.show()
