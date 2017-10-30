@@ -1,0 +1,2052 @@
+Aircraft collision avoidance; Next-generation airborne collision  avoidance system (ACAS X); Formal verification; Hybrid systems;  Continuous dynamics
+CONFLICT-RESOLUTION; VERIFICATION
+RoboCup SSL; Hybrid automata; Event detection; Game formalization
+HYBRID AUTOMATA
+MECHANICAL-PROPERTIES; NETWORKS; BIOMATERIALS; ELECTRONICS; ELASTICITY;  COPOLYMERS; SUPERSOFT; POLYMERS; RHEOLOGY; DESIGN
+THIN POLYMER-FILMS; SHAPE TRANSFORMATION; MISMATCH STRAIN; DEFORMATION;  RANGE
+ALLOCATION
+Wheel terrain interaction; Online learning; Skid-steered robots; Energy  efficient planning
+TRACKED VEHICLES; IDENTIFICATION
+Dynamic voltage and frequency scaling (DVFS); low power; machine  learning (ML); manycore systems; voltage-frequency islands (VFIs)
+NETWORKS-ON-CHIP; POWER MANAGEMENT; WIRELESS NOC; DESIGN
+Geometric mechanics; Nonholonomic motion planning; Frictional slip;  Robotic locomotion
+MECHANICAL SYSTEMS; CONSTRAINTS
+HUMAN ACQUISITION; PERFORMANCE; KNOWLEDGE; EXPLOITATION; EXPLORATION;  PERCEPTION; PATTERNS; TESTS; MODEL; HARD
+3D wireless sensor networks; mobility model; coverage; border effects;  coverage
+Intelligent robots; grasping; prosthetics; soft robotics; capacitive  sensors proximity effects
+PROSTHESIS CONTROL; DESIGN; ELECTRONICS; SKIN
+Teamwork; Collective intelligence; Distributed problem solving; Social  choice theory; Single and multiagent learning
+SITUATED AGENTS; ROC CURVE; CLASSIFICATION; ALGORITHMS; FRAMEWORK;  ELECTION; DOMAINS; GAMES; AREA; GO
+dynamic decision making; cognitive models; reinforcement learning;  instance-based learning; decisions from experience
+COMPUTER-SIMULATED MICROWORLDS; UNDERSTANDING STOCKS; RATIONAL CHOICE;  COMPLEX-SYSTEMS; TIME-PRESSURE; RISKY CHOICE; FIRE-CHIEF; REAL-TIME;  EXPERIENCE; FEEDBACK
+Multi-robot systems; Cybersecurity; Sybil attack; Wireless networks;  Coordinated control; Anechoic chamber; Performance bounds
+ATTACK
+Brain computer interface; Shared control telerobotics; Neuroprosthetics;  Assistive robotics
+MOTION INTENTION RECOGNITION; VIRTUAL FIXTURES; SHARED CONTROL; ARM;  CONSTRAINTS; PERFORMANCE; VISION
+Overlapping cell segmentation; Convolutional neural network; Feature  learning; Sparse approximation; Level set evolution
+ROBUST FACE RECOGNITION; SPARSE REPRESENTATION; ACCURATE SEGMENTATION;  NUCLEUS SEGMENTATION; MICROSCOPIC IMAGES; CELL-NUCLEI; GVF SNAKE;  CLASSIFICATION; ALGORITHM; CYTOPLASM
+dielectric elastomers; eutectic gallium-indium; low-melting-point  alloys; soft multifunctional materials; stretchable electronics
+GALLIUM-INDIUM EGAIN; HIGH THERMAL-CONDUCTIVITY; DOUBLE-NETWORK  HYDROGELS; STRETCHABLE ELECTRONICS; METAMATERIAL ABSORBER;  DIELECTRIC-CONSTANT; CONJUGATED POLYMERS; MECHANICAL-PROPERTIES;  TUNNELING JUNCTIONS; CARBON NANOTUBES
+BIOLOGY IN-SITU; CRYOELECTRON TOMOGRAPHY; MICROSCOPE TOMOGRAPHY; PROTEIN  COMPLEXES; CLASSIFICATION; SUBTOMOGRAMS; CELLS; RECONSTRUCTIONS;  LOCALIZATION; RECOGNITION
+Time-of-flight; depth cameras
+CAMERA
+animation; plushies; computational design; soft robotics
+Speech Anirnatiorr; Machine Learning
+ACTIVE APPEARANCE MODELS; FACIAL ANIMATION; TALKING HEAD; MOTION
+telescoping structures; deployable structures; computational design;  fabrication; discrete differential geometry
+CONSTANT CURVATURE; CURVES
+Biped robot; Stability; Push recovery; Flexion; Vertical motion
+CAPTURABILITY-BASED ANALYSIS; LEGGED LOCOMOTION; WALKING; RECOVERY
+soft actuator; pneumatic bending actuator; bilayer composite;  non-uniform magnetic field; ferromagnetic particles
+NICKEL NANOPARTICLES; PARTICLES; ALIGNMENT; ROBOTICS; SURFACE
+Math problem solving; Mental stages; Symbolic; Visuospatial  representation; Graphs
+ARITHMETIC WORD-PROBLEMS; MENTAL NUMBER LINE; LEFT ANGULAR GYRUS;  MATHEMATICAL PROBLEM; FUNCTIONAL MRI; INDIVIDUAL-DIFFERENCES;  WORKING-MEMORY; REPRESENTATION; IMAGERY; FMRI
+GPS/INS integrated system; Artificial intelligence; GPS outages
+KALMAN FILTER; NEURAL-NETWORKS; NAVIGATION; SYSTEM
+MESOPOROUS JANUS NANOMOTORS; LOW-REYNOLDS-NUMBER; SKELETAL-MUSCLE;  DRUG-DELIVERY; POWERED MICROSWIMMERS; ARTIFICIAL SWIMMERS; BIOLOGICAL  MACHINES; ACOUSTIC BUBBLE; MAGNETIC-FIELDS; CARGO DELIVERY
+teamwork; innovation; problem solving; collaborative design; conflict
+DECISION-MAKING; INTRAGROUP CONFLICT; TASK CONFLICT; MENTAL MODELS;  INFORMATION; PERFORMANCE; METAANALYSIS; CREATIVITY; INNOVATION; DISSENT
+Quasi-static stability; Gait; Uneven terrain; Phase; Dynamical systems;  Dog
+NONEQUILIBRIUM PHASE-TRANSITIONS; COORDINATED BIOLOGICAL MOTION;  QUADRUPEDAL GAITS; DYNAMIC STABILITY; LEGGED LOCOMOTION; HUMAN WALKING;  ROBOT; STABILIZATION; ANIMALS; BALANCE
+SHAPE-MEMORY POLYMERS; ELECTRO-CONJUGATE FLUID; LIQUID-CRYSTALLINE  ELASTOMERS; BELOUSOV-ZHABOTINSKY REACTION; CARBON NANOTUBE ACTUATORS;  SELF-OSCILLATING GELS; DEGREE-OF-FREEDOM; ON-A-CHIP; ARTIFICIAL MUSCLES;  ELECTRORHEOLOGICAL FLUIDS
+Biomechanics; human performance augmentation; legged robotics;  rehabilitation robotics; stability
+KNEE DISARTICULATION AMPUTATIONS; PASSIVE-DYNAMIC WALKERS; LIMIT-CYCLE  WALKERS; TRANSTIBIAL AMPUTATION; ENERGETIC COST; GAIT STABILITY;  HUMANOID ROBOT; OLDER-ADULTS; PROSTHESIS; DESIGN
+Learning and adaptive systems; multiobjective optimization (MOO);  response surface method (RSM)
+EVOLUTIONARY ALGORITHMS; BAYESIAN OPTIMIZATION; MARGINAL LIKELIHOOD;  GENETIC ALGORITHM; GAITS
+AUTONOMY; PLATFORM
+SELF-RECONFIGURABLE ROBOT; TRANSMISSIONS
+pneumatic artificial muscle (PAM); soft robotics; design and  manufacturing; embedded fibers; stress-strain test; actuators
+SOFT ROBOT
+COORDINATION; AUTONOMY; WORLD; ROBOT
+liquid metal; thermal conductivity; soft materials; soft robotics;  stretchable electronics
+POLYMER COMPOSITES; ALLOY
+DIELECTRIC ELASTOMERS; ARTIFICIAL MUSCLES; ACTUATORS; PERFORMANCE;  NETWORKS; TRANSPARENT; GENERATION; ROBOTS; STRAIN; GELS
+LONG-TERM DEPENDENCIES; GRADIENT DESCENT; NEURAL-NETWORKS;  IDENTIFICATION
+priming; cognitive architecture; robotic manipulation
+feature extraction; knowledge representation; deep learning;  computational biology; convolutional neural network; multi-task network;  PPI prediction; gene expression
+INDEPENDENT COMPONENT ANALYSIS; FEATURE-SELECTION METHOD; SEMANTIC  SIMILARITY; NETWORK; BIOLOGY; ARRAY
+Exoskeletons; control design; robot control
+WALKING
+Resilience evaluation; self-adaptive systems; robustness testing  techniques; probabilistic model checking
+ADAPTATION
+THERMAL MANAGEMENT; STRAIN SENSORS; SENSITIVITY; FOAMS; SOFT
+GPS-DENIED ENVIRONMENTS; RGB-D CAMERA; INDOOR-ENVIRONMENTS; AGGRESSIVE  FLIGHT; RANGE FLOW; NAVIGATION; LOCALIZATION; VISION; MOTION; MAV
+SYNERGIES
+ACT-R; Diffusion model; C3Trace; Intelligent agents; Cognitive  architectures
+MEMORY
+Localization; Long-term autonomy; Mapping
+MOBILE ROBOT; ENVIRONMENTS; NAVIGATION; ALGORITHM; ALIGNMENT
+STRAIN SENSORS; PULSE OXIMETRY; SKIN; DESIGN; TECHNOLOGY; COMPOSITES;  PRESSURE; ADHESION
+anomaly detection; feature selection; robotics; robust autonomy
+FAST SUBSET SCAN; IMAGE SEGMENTATION
+Biologically inspired robots; legged robots; mechanism design; motor  selection; tails
+LEGGED LOCOMOTION; ROBOT; MANIPULATORS; GAITS; TAIL
+Intelligent tutoring system; Adaptive selection of learning tasks;  Assistance; Self-explanation
+SELF-EXPLANATIONS; NAVIGATION SUPPORT; COGNITIVE TUTOR; EFFICIENCY;  INSTRUCTION; EXPERTISE; SYSTEMS
+programmable matter; multifunctional materials; soft robots; magnetic  actuation; miniature devices
+ARTIFICIAL CILIA; COMPOSITES; ACTUATORS; TRANSFORMATIONS;  MICROSTRUCTURES; DESIGN; SYSTEM; FLOW; GELS
+Gait; Amputation; Energetics; Robotics
+TO-STEP TRANSITIONS; HUMAN WALKING; ENERGY-EXPENDITURE; FOOT;  EXOSKELETON; AMPUTATION; COST; GAIT
+Grand challenge; Cognitive decathlon; Turing test; Performance  comparison; Simulation; API; Standards
+Control; functional electrical stimulation (FES); human-machine teaming;  modeling; rehabilitation; reinforcement learning (RL); simulation; upper  extremity
+SPINAL-CORD-INJURY; FUNCTIONAL ELECTRICAL-STIMULATION; SYSTEMS; MOTION;  MUSCLE; MODEL; TIME
+Object proposal; convolutional neural networks; deep learning
+Self-adaptive systems; Impact model; Environment model; Uncertainty;  Variability
+VERIFICATION
+HIGH-MOBILITY; ADHESIVES; INSPECTION; MECHANISM; WAALBOT; DESIGN
+Perception; Medial temporal lobe; Amnesia; Hippocampus; Perirhinal  cortex; Congenital prosopagnosia; Visual discrimination
+FACE-PROCESSING NETWORK; PERIRHINAL CORTEX ABLATION; CONGENITAL  PROSOPAGNOSIA; DEVELOPMENTAL PROSOPAGNOSIA; VISUAL-DISCRIMINATION;  WORKING-MEMORY; STRUCTURAL CONNECTIVITY; NEUROIMAGING FINDINGS; DETAILED  EXPLORATION; EPISODIC MEMORY
+intubation; augmented reality; computer vision; signal processing
+PREDICTED DIFFICULT AIRWAY; DIRECT LARYNGOSCOPY; VIDEO LARYNGOSCOPY;  UNITED-STATES; SERVICE
+rigid body dynamics; hybrid dynamical systems; contact modeling;  massless limbs
+RIGID-BODY COLLISIONS; MECHANICAL SYSTEMS; UNILATERAL CONSTRAINTS;  LEGGED LOCOMOTION; CONTACT PROBLEMS; DYNAMICS; FRICTION; AUTOMATA;  CONVERGENCE; SIMULATION
+Design; Languages; Performance; Parallel Programming; Linear Logic
+MANIPULATORS
+GECKO FOOT-HAIR; FIBRILLAR ADHESIVES; SURFACE ENERGY; ELASTIC SOLIDS;  LIQUID-METALS; CONTACT; DEFORMATION; MEMBRANES; BEHAVIOR; ALLOYS
+Ubiquitous business process; business process improvement; ubiquitous  computing; uBPMN; time-banking
+BALANCED SCORECARD; SENSOR NETWORKS; PERFORMANCE; CONTEXT; SYSTEMS
+Machine learning; Artificial intelligence big data; Big model;  Distributed systems; Principles; Theory; Data-parallelism;  Model-parallelism
+NEURAL-NETWORKS; REGRESSION; RECOGNITION; SELECTION; LASSO; MODEL
+Dynamics; kinematics; model identification; wheeled mobile robots; wheel  slip; wheel-terrain interaction
+KINEMATICS; ROVERS; TERRAIN
+Skeletal muscle; Tissue engineering; Extracellular matrix; Microcontact  printing
+DYSTROPHIN-GLYCOPROTEIN COMPLEX; DUCHENNE MUSCULAR-DYSTROPHY; IN-VITRO;  EXTRACELLULAR-MATRIX; SATELLITE CELLS; COLLAGEN GEL; THIN-FILMS; TISSUE;  DIFFERENTIATION; MYOTUBES
+Business process modeling; Ubiquitous business process; Ubiquitous  computing; uBPMN
+INTEGRATION
+Robots; Social robots; Animacy; Lifeliness; Motion; Appearance
+BIOLOGICAL MOTION; PERCEPTION; BEHAVIOR; MODEL
+predictability; physics engine comparison; physics simulation; virtual  worlds
+Algorithms; Experimentation; Theory; Color transforms; feature  descriptors; neural networks; photo enhancement
+Image segmentation; deep learning; reconstruction network
+RECOGNITION
+skill acquisition; power law of practice; arithmetic; hidden Markov  modeling; fMRI
+POWER-LAW; COGNITIVE SKILL; STRATEGY EXECUTION; TEMPORAL DYNAMICS;  INSTANCE THEORY; FMRI; RETRIEVAL; MEMORY; PERFECTIONISTS; AUTOMATIZATION
+DEPLOYMENT SYSTEM; MOBILE ROBOTS
+Self-adaptive systems; Reliability prediction; Impact prediction
+ADAPTIVE SOFTWARE; SYSTEMS
+Autonomous agents design; Human-agent interaction; Cultural disparity
+RECIPROCITY; METAANALYSIS; BEHAVIOR
+Motion planning under uncertainty; nonholonomic motion planning
+BELIEF SPACE; ENVIRONMENTS
+MULTIROBOT SIMULTANEOUS LOCALIZATION; EXPECTATION-MAXIMIZATION;  COOPERATIVE LOCALIZATION; ALGORITHM; SLAM; MAP; EXPLORATION; NETWORKS;  GRAPHS
+Capsule endoscopy; localization; magnetic actuation; magnetic robot
+ACTUATED SOFT CAPSULE; ENDOSCOPIC CAPSULES; PERMANENT-MAGNET; MEDICAL  DEVICES; POSITION; SYSTEM; ORIENTATION; ACCURACY; TRACKING; MOTION
+basal ganglia; reinforcement learning; decision making; diffusion model;  exploration-exploitation tradeoff; speed-accuracy tradeoff
+STRIATAL PROJECTION NEURONS; PHASIC DOPAMINE RELEASE; DEEP  BRAIN-STIMULATION; RESPONSE-INHIBITION; SUBTHALAMIC NUCLEUS;  GLOBUS-PALLIDUS; INDIVIDUAL-DIFFERENCES; AVERSIVE BEHAVIOR; NEURAL  MECHANISMS; EXTERNAL SEGMENT
+Brain-machine interface; Brain-computer interface; Neuroprosthetic;  Shared mode control; Assistive technology
+SPINAL-CORD-INJURY; COMPUTER INTERFACE; PRIORITIES; USERS
+STUDENTS; SKILLS; QUESTIONS; AGREEMENT; COMPUTER; VIDEO
+Real-valued inequalities; Interactive theorem proving; Automated theorem  proving
+Object modeling; Approximate model representation; Sensor fusion; Object  detection and tracking
+OBJECT DETECTION; VEHICLE TRACKING; IMAGE SEQUENCES; MEAN-SHIFT;  RECOGNITION; ROBOTICS; FEATURES; LIDAR
+van der Waals force; crack healing; nano-scale adhesion;  microelectromechanical systems; micro/nano scale interface model; micro  beam model
+MICROMACHINED SURFACES; CAPILLARY ADHESION; CONTACT; MODEL; ELECTRONICS;  SILICON; MEMS; MICA; SPHERES; BEAMS
+SYSTEMS BIOLOGY; DRUG DISCOVERY; SUBCELLULAR LOCATION; MICROSCOPE  IMAGES; CLASSIFICATION; PREDICTION; FEATURES; DESIGN; GENE
+Verification; Algorithms; Proactive adaptation; stochastic multiplayer  games; latency-aware; Latency
+Medical robotics; surgery; visual servoing
+VISUAL SERVO CONTROL
+Image-guided surgery; Kalman filters; medical robotics; state estimation
+MINIMALLY INVASIVE SURGERY; CATHETER ABLATION; CONTINUUM ROBOTS; MAPPING  SYSTEM; OBSERVABILITY; GUIDANCE; IDENTIFICATION; LOCALIZATION;  FLUOROSCOPY; ALGORITHM
+Human-robot interaction (HRI); human-swarm interaction (HSI);  multi-robot systems; swarm robotics
+MULTIAGENT DYNAMIC-SYSTEMS; MOBILE AUTONOMOUS AGENTS; BILATERAL  TELEOPERATION; SWITCHING TOPOLOGY; SENSOR NETWORK; COORDINATION;  AUTOMATION; BEHAVIORS; FLOCKING; VEHICLES
+Pattern recognition; sensor systems and applications; ubiquitous  computing
+PHYSICAL-ACTIVITY RECOGNITION; WEARABLE SENSORS; CLASSIFICATION;  REPRESENTATION; ADAPTATION
+KeYmaera tutorial; Formal verification of hybrid systems; Differential  dynamic logic; Automated theorem proving; Introduction to hybrid system  modeling and verification
+DIFFERENTIAL DYNAMIC LOGIC; FORMAL VERIFICATION
+System design; Design process; Context selection
+AWARE ADAPTIVE APPLICATIONS; MOBILE; USER; PERFORMANCE; INFORMATION;  FRAMEWORK; CHECKING; SOFTWARE; LOCATION; PATTERNS
+Video Description; Multimodal Processing; Deep Neural Networks
+complex optimization; complex-valued neural network; beamforming
+ALGORITHMS
+Automatic speech recognition; audio-visual ASR; deep learning
+NEURAL-NETWORKS
+Deep Neural Network; Speech Enhancement; Multiple Noise Types;  Psychoacoustic Models
+DENOISING AUTOENCODER; SUBSPACE APPROACH; CLASSIFICATION
+Speaker adaptation; deep neural network; i-vector; linear combination  layer; semi-supervised learning
+VERIFICATION
+Big Data; Value Discovery; Value Engineering; Architecture Landscape;  Ecosystem; Innovation; Energy Industry
+DETERMINANT MAXIMIZATION; ELLIPSOIDS
+service robot; engineering design; design for life; senior citizen
+MANAGEMENT; MODEL
+Deep learning; convolutional neural networks; materials design;  materials discovery; electronic images; EBSD
+NEURAL-NETWORKS; RECOGNITION; SCIENCE
+Deep Learning; image change detection; neural network; synthetic  aperture radar (SAR)
+ROBOTS
+LOCOMOTION
+FICTITIOUS PLAY; GAMES
+KINEMATICS; SYSTEMS; MODEL
+WHEELED MOBILE ROBOTS; NONHOLONOMIC CONSTRAINTS; SYSTEMS
+ACTION RECOGNITION
+CONSTRAINED NONLINEAR-SYSTEMS; CONTROL LYAPUNOV; GEOMETRIC CONTROL
+MANIPULATORS
+MOTION; ENVIRONMENTS; ROBOTS
+PROBABILISTIC ROADMAPS; ALGORITHM
+SYSTEMS
+TRAJECTORY GENERATION; QUADROTORS; TEAMS
+MECHANISM
+DARPA-URBAN-CHALLENGE
+TRAJECTORY GENERATION; QUADROTORS; FLATNESS
+COVERAGE CONTROL; NETWORKS
+CASCADE
+transdisciplinary; middle school; engineering pipeline;  underrepresentation; educational robotics
+assessment tools; middle school; technological fluency; educational  robotics
+SCIENCE
+educational robotics; transdisciplinary; middle school; teacher  professional development
+middle school; transdisciplinary; educational robotics; classroom  learning environment; case study
+Educational Games; Student Modeling; Stealth Assessment
+perception planning; visibility maps; improved heuristics
+NETWORK CONNECTIVITY; MULTIROBOT; SYSTEMS; TEAMS
+ROBOT NAVIGATION
+Distributed algorithm; Self-reconfiguration algorithm; Modular robotic;  Programmable Matter; Ensembles
+MOTION
+data mining; big data; artificial intelligence; data science; machine  learning; expert systems; model valuation
+ROBOT
+UNETHICAL BEHAVIOR; PERSPECTIVE; PEOPLE
+URBAN ENVIRONMENTS; MOTION
+PATH; CHALLENGE; AVOIDANCE; CAR
+Manycore; Heterogeneous; NoC; Deep learning; Backpropagation
+INTEGRATED ANTENNAS; COMMUNICATION; INTERCONNECTS; DESIGN; NOC
+Serious Games; Educational Data Mining; Survival Analysis; Complex  Problem Solving; Learning Analytics
+LEARN
+Ubiquitous Computing; Smart Objects and Environments; Tangible  Interaction; Embodied Interaction; Animism; Internet of Things; Object  Intent; Augmented Reality; Heterogeneous Ecosystems
+ANIMISM
+Physical prototyping; Superpowers; IoT; Tangible Programming; Object  affordances
+Intelligent Tutoring Systems; Worked-out examples
+Tutor learning effect; Reciprocal tutoring; Peer tutoring
+QUESTIONS
+TRAFFIC SIGN RECOGNITION
+SEQUENTIAL COMPOSITION
+ACCELEROMETERS; GYROSCOPES
+3D; FEATURES; TRACKING
+SENSOR; FIELDS
+KINEMATIC CALIBRATION; FORMULA
+Crowdsourcing; problem solving; design; idea generation
+Constraint; inspiration; problem-solving; idea generation
+DESIGN
+Emotion Recognition; Nonverbal Behavior Analysis; Audio-Visual Sensing;  Facial Analysis
+Persuasiveness; deep neural networks; multimodal fusion
+robot ethics; machine morality; human-robot interaction; moral  psychology; anthropomorphism
+JUDGMENT
+User intentions; off-task interaction; elicitation actions
+assistive robots; context immersive navigation; human-robot interaction;  blind and low vision
+Long Short-Term Memory; recurrent neural network; model simplification;  decoding efficiency
+NETWORKS
+Radio jrequency identification (RFID); energy harvester; sensor  integrated RFID lag
+object recognition; face recognition; invariance; category selectivity;  decoding; deep neural networks
+FUSIFORM FACE AREA; VENTRAL TEMPORAL CORTEX; DEEP NEURAL-NETWORKS; HUMAN  BRAIN; HIERARCHICAL-MODELS; DIFFERING VIEWS; EXPERTISE; REPRESENTATIONS;  SHAPE; SPECIFICITY
+Service robots; Sharing instructions; Collective robot learning;  Robot-robot interaction framework
+Transfer learning; Domain adaptation; Neural Decision Forest; Neural  network
+FEATURES
+Deep learning; Facial action unit detection; Pose dependence
+RECOGNITION
+NETWORKS; LIBRARY
+cyber-physical systems; differential dynamic logic; hybrid systems;  proof terms
+HYBRID SYSTEMS; FORMAL VERIFICATION
+Inverse Reinforcement Learning; Markov Decision Process
+TIME
+Construal level; digital versus non-digital platforms; information  processing; reading comprehension
+Human-Robot Interaction; Recognition; Synthetic Aperture; RFID; Computer  Vision; Sensor Fusion
+TECHNOLOGY
+STRUCTURAL-MODEL APPROACH; CENTRALITY; NETWORKS
+Human as a Service; Heterogeneous Network; Service  Provision/Orchestrating Capability; Collaboration Pattern
+RECOMMENDATION; SYSTEMS
+HYBRID SYSTEMS; KLEENE ALGEBRA; DYNAMIC LOGIC
+Projection Mapping; Computer Vision; Augmented Reality; Artificial  Intelligence
+video description; image caption; audio analysis; deep neural networks
+SPEAKER VERIFICATION
+SECURITY
+ROBOTS; MOTION
+scene understanding; ground robots; autonomous driving
+object recognition; ground robots; learning
+Adaptive control; dual control; optimal control; model predictive  control; reinforcement learning; approximate dynamic programming
+CLOCK SYNCHRONIZATION; SENSOR NETWORKS
+On-road motion planning; Autonomous passenger vehicle
+ROBOTIC LOCOMOTION; CONTROL ALLOCATION; CONSTRAINTS; EQUATIONS
+PERFORMANCES; WHEELS; ROVER
+GPS-DENIED ENVIRONMENTS; NAVIGATION; VISION
+Mobile service robots; Expressive lights; Robot internal state;  Nonverbal communication; Human-robot interaction
+Multi-robot systems; Map representation; Reachability; Planning and  scheduling; Morphological operations; Coordination
+Motion planning; Manipulation planning; Experience graphs
+HEURISTIC-SEARCH
+Bio-inspired robotics; modal decomposition; limbless locomotion
+SIDEWINDING LOCOMOTION; ORDER TENSORS; APPROXIMATION; MECHANICS
+Tactile sensing; planning under uncertainty; manipulation under  uncertainty; non-prehensile manipulation
+PARTICLE FILTERS; MOTION; SPACE; MECHANICS; FRAMEWORK; POMDPS; ROBOTS;  TASK
+Continuous robot manipulator; continuum robot; hyper-redundant robot;  robot-assisted surgery; soft robotics; surgical robotics
+MINIMALLY INVASIVE SURGERY; ACTIVE CATHETER INSERTION; COMPLIANT MOTION  CONTROL; CONCENTRIC TUBE ROBOTS; TELEROBOTIC SYSTEM; INVERSE KINEMATICS;  STEERABLE NEEDLES; SINUS SURGERY; SNAKE ROBOT; MANIPULATOR
+Kinematic redundancy; obstacle avoidance; omnidirectional mobile robot;  and singularity analysis
+Approximate dynamic programming; approximate policy iteration;  classification; finite-sample analysis; reinforcement learning
+Robots for children; Science class; Social robot; Field study
+FIELD TRIAL; CHILDREN
+user models; ubiquitous computing; health informatics
+RECOGNITION; EMOTION; CLASSIFICATION; PATTERNS; STRESS; LIFE;  INTELLIGENCE; SENSORS; TERM
+physical characters; robotics; 3D-printing
+WALKING PATTERN GENERATION; MOMENT
+Acoustic modeling; deep neural networks (DNNs); speaker adaptive  training (SAT)
+SPEECH RECOGNITION; ADAPTATION; VERIFICATION
+Spoken dialog systems; Situated dialog; Language understanding;  Reference resolution
+retinal photocoagulation; robotics; visual servoing; micromanipulation
+PROLIFERATIVE DIABETIC-RETINOPATHY; PANRETINAL PHOTOCOAGULATION;  PHOTO-COAGULATION; MACULAR EDEMA; ARGON-LASER; PATTERN
+remote sensing; machine learning; random forest; Monterey Bay
+PHYTOPLANKTON ECOLOGY; IMAGING SPECTROMETER; HARMFUL; SEA;  CLASSIFICATION; ACCURACY; MERIS; OCEAN; MODIS; USA
+Deception; Motion planning; Human robot interaction; Legibility
+ANTICIPATION; MOVEMENT
+Languages; Theory; Algorithms Autonomous agents; logic-based reasoning;  commonsense reasoning; dynamic reasoning; dynamic spatial systems;  knowledge representation; hybrid systems
+DRIVEN SITUATION AWARENESS; ONTOLOGY-DRIVEN; CONCEPTUAL NEIGHBORHOODS;  CARDINAL DIRECTIONS; EVENT CALCULUS; VERIFICATION; ENVIRONMENTS;  FRAMEWORK; EXAMPLE; BEAWARE
+INTERPENETRATING MICROVASCULAR NETWORKS; DIONAEA-MUSCIPULA TRAP;  SELF-HEALING MATERIALS; GAS-EXCHANGE UNIT; MEMORY POLYMERS; DELIVERY
+Pouring; learning from demonstration; learning from practice; planning
+Optimal planning and learning; Sequential decision making; Wind farm  management; Markov Chain Monte Carlo; Reinforcement learning
+MARKOV DECISION-PROCESSES; MAINTENANCE; SYSTEMS; HORIZON
+MULTISEGMENT CONTINUUM ROBOTS
+Adhesion; Stick-slip friction; Peristaltic locomotion; Soft robot; Rod  theory; Stability
+INSTABILITY; CURVATURE; STABILITY; ADHESION; SURFACES; GROWTH; RODS
+Claytronics; distributed computing; microelectromechanical systems  (MEMS); Smart Blocks; Smart Surface
+NETWORKED CONTROL-SYSTEMS; WIRELESS SENSOR NETWORKS; LARGE-SCALE  SYSTEMS; DECENTRALIZED CONTROL; MODULAR ROBOTS; CONTROL DESIGN; CMOS
+Software pattern; Mapping study; Systematic review; Empirical  evaluation; Empirical design
+reinforcement learning; value-function; empirical evaluation; open  source
+auditory category learning; category training; incidental learning;  speech; statistical learning
+TRAINING JAPANESE LISTENERS; R-VERTICAL-BAR; INFORMATION-INTEGRATION;  SPEECH-PERCEPTION; DISTRIBUTIONAL INFORMATION; BASAL GANGLIA; ENGLISH;  CATEGORIZATION; ACQUISITION; PERFORMANCE
+LASER; REGISTRATION; COVARIANCE; MINES; 2D
+Wheeled robots; Service robots; Mobile robots; Active suspension;  Compliant control
+MANIPULATORS; STABILITY; MODEL
+NEURAL-NETWORKS
+Auction algorithms; distributed algorithms; generalized assignment;  multi-agent coordination; multirobot task allocation; task deadline
+AUCTION ALGORITHM; COORDINATION; DESIGN; APPROXIMATION; ALLOCATION
+Autonomous orchard vehicle; Orchard automation; Tree fruit production;  Agricultural robotics
+NAVIGATION; TRACKING
+Gripping; Soft robots; Robot hand; Rod theory; Elastica; Intrinsic  curvature; Stability
+INSTABILITY; ACTUATORS; EVOLUTION; ADHESION; GROWTH
+Multi-robot systems; Cooperative localization; Target tracking;  Nonlinear estimation; Maximum a posteriori (MAP); Incremental smoothing  and mapping (iSAM); Unscented transform; Parameter observability
+NONLINEAR TRANSFORMATION; OBSERVABILITY; LOCALIZATION; ESTIMATORS; SLAM;  COVARIANCES; FILTERS
+Affordance; developmental robotics; goal emulation; imitation;  motionese; sensorimotor learning
+AUTONOMOUS MENTAL-DEVELOPMENT; OBJECT-ACTION-COMPLEXES; INFANTS  IMITATION; MOTOR RESONANCE; DIRECTED ACTION; SYSTEMS; SHAPE; PERCEPTION;  PRIMITIVES; EXPERIENCE
+SERIAL REACTION-TIME; READING-DISABILITY; BASAL GANGLIA; MOTOR SKILL;  DECLARATIVE/PROCEDURAL MODEL; WORD RECOGNITION; CHILDREN; LANGUAGE;  DEFICITS; ADULTS
+Nonholonomic mobile robots; Trajectory generation; Moving obstacles;  Kinodynamic constraints; Optimization
+TIME-OPTIMAL TRAJECTORIES; DYNAMIC ENVIRONMENTS; NONHOLONOMIC ROBOTS;  AVOIDANCE; VEHICLES
+sidewinder; biomechanics; robotics; template; control
+CROTALUS-CERASTES; LEGGED LOCOMOTION; DYNAMICS; SNAKE
+Motion planning; topology; cable; object separation
+PATHS
+Multi-agent systems; Dynamic distributed problems; Distributed  constraint optimization
+SENSOR NETWORKS; ALGORITHMS; SYSTEMS
+STRAIN SENSOR; ELECTRICAL-RESISTANCE; ROOM-TEMPERATURE; SILICONE-RUBBER;  SENSITIVE SKIN; RECONSTRUCTION; PRESSURE; ALLOY
+Visual mapping; visual odometry; pipe inspection; natural gas; field  robotics; fisheye camera
+FISH-EYE LENSES; WIDE-ANGLE; AUTONOMOUS NAVIGATION; RADIAL DISTORTION;  SELF-CALIBRATION; FAB-MAP; CAMERA; IMAGE; ROBOT; LOCALIZATION
+First-Year Undergraduate/General; High School/Introductory Chemistry;  Chemical Education Research; Computer-Based Learning;  Inquiry-Based/Discovery Learning; Internet/Web-Based Learning;  Stoichiometry
+CHEMISTRY; METACOGNITION; RECOGNITION; INQUIRY; SUPPORT; DESIGN
+Biological control systems; climbing robots; legged locomotion; robot  control
+ROBOT; WALKING; ATTACHMENT; MOVEMENTS; ADHESION; FORCE; COORDINATION;  COCKROACH; DYNAMICS; SURFACES
+Medical robotics; motion compensation; robot kinematics; surgery
+SINGULARITY ANALYSIS; MEDICAL ROBOTICS; SURGERY; SYSTEM;  MICROMANIPULATOR; ENDOSCOPE
+Adaptive control; human-robot interaction; rehabilitation robotics
+STROKE PATIENTS; THERAPY; EXOSKELETON
+diffusion imaging and fMRI; executive function; reinforcement learning;  reward; spatial attention; striatum
+PRIMATE BASAL GANGLIA; RHESUS-MONKEY; HUMAN BRAIN; CORTICOSTRIATAL  PROJECTIONS; DIFFUSION MRI; REWARD PREDICTION; LEARNING SIGNALS; DORSAL  STRIATUM; ATTENTION; FMRI
+Mobile robots; kinematics; dynamics; constraints; nonholonomic;  recursive Newton-Euler; differential algebraic equations
+ROVERS; DESIGN
+FRAMEWORK
+URBAN SEARCH; RESCUE
+INVERSE KINEMATIC SOLUTIONS; HUMANOID-ROBOT; MOTION GENERATION; FORCE  CONTROL; ENVIRONMENTS; CONSTRAINTS
+Auction algorithm; distributed algorithm; multirobot task assignment;  task allocation
+COALITION-FORMATION; AUCTION ALGORITHM; COORDINATION; ALLOCATION
+Distributed robot systems; marine robotics; networked robots; path  planning for multiple mobile robot systems; robotic search
+SENSOR NETWORKS; CONNECTIVITY
+Motion and path planning; motion planning under uncertainty;  sampling-based methods
+DYNAMIC ENVIRONMENTS; BELIEF-SPACE; STEERABLE NEEDLES; OPTIMIZATION;  ROADMAP; RRTS
+Biomedical engineering; medical robots; microrobots; minimally invasive  surgery
+ACTUATED SOFT CAPSULE; MAGNETIC HELICAL MICROMACHINES; ROBOTIC  ENDOSCOPIC CAPSULES; DRUG-DELIVERY SYSTEMS; MICROSCALE HYDROGELS;  LOCALIZATION METHOD; DRIVEN MICROROBOT; OPTICAL TWEEZERS; SINGLE CELLS;  IN-VIVO
+Common operating pictures; Disaster response; Collaboration; Negotiated  arrangements; Extreme events
+simulation; organizational studies; management
+Learning from demonstration; Bayesian nonparametrics; time-series  analysis; skill learning; personal robotics
+SKILLS
+Motion and path planning; Multiagent system
+MULTIPLE ROBOTS; SEARCH; COORDINATION; CONSTRAINTS; ALGORITHM
+virtual environment; cognitive architecture; embodied cognition;  distributed cognition; situated cognition; cognitive modeling
+INTELLIGENCE
+interruption overload; interruptibility; mobile sensing
+Deep neural networks; speaker-microphone distance; robust acoustic  modeling
+NEURAL-NETWORKS; FRONT-END
+bandwidth extension; deep neural networks; neural networks;  Gaussian-Bernoulli Restricted Boltzmann Machine
+EXTENSION
+Deep Neural Networks; Recurrent Neural Networks; Automatic Speech  Recognition; Model Compression; Embedded Platforms
+ADAPTATION; SOFTWARE
+ADAPTIVE SOFTWARE; SYSTEMS
+Latency-aware; proactive; probabilistic model checking; self-adaptation
+APPROXIMATIONS; SYSTEMS
+Recurrent neural network; connectionist temporal classification;  end-to-end ASR
+NEURAL-NETWORKS
+VISUAL TRACKING; IMAGES; EDGE
+RECOGNITION; COMPETITION; MECHANISMS; CORTEX
+POSE ESTIMATION; DESIGN; OBJECT; GRASP
+ROVERS; SOIL
+MOBILE ROBOTS; LOCALIZATION; VISION
+NAVIGATION
+Human-Robot Interaction; anthropomorphism; social robotics; uncanny  valley; digital divide
+ANTHROPOMORPHISM
+benchmarking; manipulation; rehabilitation; prosthetics; grasping
+TASK
+VOLUME ENCLOSING ELLIPSOIDS; COMPUTATION; ALGORITHM
+MANIPULATION; OBJECTS; PARTS; HAND
+HYBRID SYSTEMS; CONFLICT-RESOLUTION
+gene expression; autoencoders; deep learning; gene clustering
+PRINCIPAL COMPONENT ANALYSIS; MISSING VALUE ESTIMATION; NEURAL-NETWORKS
+Computational Neuroscience; Decision Making; Instance-based learning  (IBL); Prognostic foraging; Reinforcement learning (RL)
+PREFRONTAL CORTEX; BEHAVIOR; NAVIGATION; BRAIN; WORLD
+Deep Neural Networks; Convolutional Neural Networks; Automatic Speech  Recognition
+MOTION CONTROL
+GAIT; LOCOMOTION; FREQUENCY
+HUMANOID ROBOTS; OPTIMIZATION; FRAMEWORK
+CHALLENGE TRIALS
+FORCE CONTROL; GENERATION; MOTION
+LOCALIZATION
+PROBABILISTIC ROADMAPS; SPACES
+MINIMUM
+LOGIC; LANGUAGE
+Deep learning; stacked denoising autoencoders (SdA); hyperspectral image  classification; superpixel; remote sensing
+IMAGE CLASSIFICATION; PROFILES
+medical robotics; tremor compensation; stapedotomy; handheld;  micromanipulator
+PERFORMANCE; FATIGUE; TASK
+Context-sharing; middleware; ubiquitous computing; mobile computing
+CHALLENGE
+FOOT PLACEMENT; HUMAN WALKING; MODEL; GAIT
+AUTONOMOUS NAVIGATION; LADAR DATA; TERRAIN; ENVIRONMENTS; VEGETATION
+Distributed algorithm; Modular robotic; Center election
+FINDING CENTERS; ALGORITHMS; DIAMETER; MEDIANS
+UAV; NAVIGATION
+ALGORITHMS; VEHICLE
+MODEL-PREDICTIVE CONTROL; BOUNDED DISTURBANCES; NONLINEAR-SYSTEMS;  REACHABILITY
+WALKING; LOCOMOTION
+WAVE-GUIDES; SOFT ROBOTICS; INTEGRATION; TRANSPARENT; SYSTEM; SKIN
+ROBOT; LOCOMOTION
+HUMAN LOCOMOTION; HUMANOID ROBOTS; MODEL
+Humanoid Robot; Inverse Kinematics; Optimization; Key Postures; Motion  Planning
+OPTIMIZATION; GENERATION; MOVEMENTS; MODEL
+educational robotics; interdisciplinary education; technological  fluency; secondary school engineering
+human-robot collaboration; motion; intent; coordination
+COMMUNICATION PATTERNS
+Human-robot interaction; honesty; experimental study; social presence;  monitoring
+SELF; NORMS
+human-robot interaction; organization; kitchen; design
+FUTURE
+UNDERACTUATED MECHANICAL SYSTEMS; KINEMATIC CONTROLLABILITY;  NONHOLONOMIC CONSTRAINTS; LOCOMOTION
+VEHICLE-ROUTING PROBLEM; EXACT ALGORITHM
+Rehabilitation Robotics; Human-Robot Interaction; Ankle Exoskeleton
+HUMAN WALKING; METABOLIC COST; ASSIST; GAIT; MASS
+CONTACT; MOTION; MANIPULATORS; COMPLIANT
+SEARCH
+ALGORITHM; OBJECTS
+GECKO SETAL ARRAYS; ADHESION; FRICTION; SURFACES; DRIVEN; FORCE;  MICROROBOT; LOCOMOTION; WAALBOT; DESIGN
+MODEL-PREDICTIVE CONTROL; SYSTEMS
+ROBOTS
+DIFFERENTIAL-DRIVE VEHICLES; STABILIZATION; NAVIGATION; GYRO
+INERTIA
+EXPLORATION
+NAVIGATION; VISION; FILTER
+ROBOTS
+ROBOT
+NETWORKS
+Rehabilitation Robotics; Ankle Exoskeleton; Torque Control; Human-Robot  Interaction
+DESIGN
+ROBOTS
+NETWORKS
+LEGGED LOCOMOTION; DYNAMICS; SNAKE
+GEOMETRIC APPROACH; MOVABLE OBSTACLES; MOTION GENERATION; MULTIAGENT  TEAMS; ROBOTS; MANIPULATION
+PATH
+HYBRID ZERO DYNAMICS; SYSTEMS; DESIGN; MABEL
+TEAM
+BACKPROPAGATION; TIME
+Human-robot interaction; Dressing; Human tracking; Learning and adaptive  systems
+soft robotics; molecular motors; tissue engineering; bioinspired design;  biomimetics; skeletal muscle; cardiac muscle
+SKELETAL-MUSCLE TISSUE; VASCULAR SMOOTH-MUSCLE; ENGINEERED CARDIAC  TISSUES; DORSAL VESSEL TISSUE; IN-VITRO; MOLECULAR MOTOR; LONG-TERM;  CULTURED CARDIOMYOCYTES; FORCE GENERATION; SILICON MICROSTRUCTURES
+RECURSIVE-PROGRAMS; LOGIC; LANGUAGE; ABSTRACTION; SYSTEM
+Optimization; Numerical Methods; Computational Design Synthesis;  Teamwork
+OPTIMIZATION; GENERATION
+Teachable agents; Personalized learning systems; Self-explanations;  Code-switching
+LANGUAGE; TUTOR
+Assistance dilemma; Classroom studies; Empirical studies; Worked  examples; Erroneous examples; Tutored problems to solve; Problem solving
+Problem solving; Collaborative learning; Intelligent tutoring system
+ONLINE
+Problem solving; Collaborative learning; Intelligent tutoring system
+CONSTRUCTIONS
+Indoor scene recognition; ACT-R; K-Nearest neighbor classification;  Machine learning; Cognitive robotics; Social networks
+EMBODIED CONVERSATIONAL AGENTS
+Automated planning; heuristic search; random sampling
+COMPUTATIONAL-COMPLEXITY; HEURISTIC-SEARCH; LANDMARKS; SYSTEM
+autonomy; stair climbing; hexapod; gait selection
+MAGNETIC MICROROBOTS; MICROSCALE HYDROGELS; FABRICATION; DIMENSIONS;  ROBOTS
+design methodology; design cognition; collaborative design; problem  solving
+COGNITIVE-ABILITY; GOAL ORIENTATION; PROBLEM CONSTRUCTION; PERSONALITY;  ADAPTATION; DIFFICULTY; OPENNESS; TERMS; HARD; LOAD
+Observations of daily living; Medication adherence; Sensors; Smart home;  Ubiquitous computing
+MILD COGNITIVE IMPAIRMENT; OLDER-ADULTS; MODEL; ASSESSMENTS;  PERFORMANCE; AWARENESS; DRUG
+Body parts recognition; pose recognition; depth image; deep learning;  superpixel
+BINARY PATTERNS; IMAGE RETRIEVAL; RECOGNITION; REPRESENTATION; TRACKING;  SCALE; PCA
+MEMS microrobot; Distributed algorithm; Parallel algorithm;  Self-reconfiguration; Logical topology; Energy
+ROBOTS; SWARMS
+Object discovery; sensor fusion; lifelong learning; object segmentation;  objectness
+FRAMEWORK
+SOCIAL-INFLUENCE; COORDINATION
+Small-size league; Shared vision; Omnidirectional control; Artificial  intelligence; Wheeled robots
+Concept inventory; Interactive learning; Measures of knowledge; Pre-post  tests; Statics; Web-based courseware
+FEEDBACK
+Factor-graphs; long-term autonomy; marginalization; mobile robotics;  simultaneous localization and mapping (SLAM)
+EXTENDED INFORMATION FILTERS; SIMULTANEOUS LOCALIZATION; POSE GRAPHS;  ALIGNMENT
+Soft sensors; soft robotics; wearable robotics; wearable electronics;  motion capture
+STRETCHABLE ELECTRONICS; STRAIN SENSOR; DESIGN; EXOSKELETON; SKIN;  RECONSTRUCTION; TRANSPARENT; ORIENTATION; PRESSURE; POSITION
+Hybrid dynamical systems; Piecewise-smooth dynamical systems; Stick-slip  friction; Anchoring; Peristaltic locomotion; Worm-like motion; Robotics
+MOTION
+POWERED ACTUATOR; DESIGN
+Human-robot collaboration; Predictability; Legibility; Trajectory  optimization; Action interpretation
+GOAL-DIRECTED ACTION; ORIGINS; OBJECT; REACH; ARM
+Robotics; Manipulation; Learning; Object affordances
+SEGMENTATION
+LOCALIZATION; RANGE
+Multiple robot; Trajectory planning; Task assignment; Micro aerial robot
+MULTIPLE ROBOTS; GENERATION; ALGORITHMS; SYSTEMS
+TASK ALLOCATION; MULTIROBOT COORDINATION; ASSIGNMENT PROBLEM; ALGORITHM
+Mathematical problem solving; Reflection; Cognitive modeling; Multivoxel  pattern analysis; Hidden Markov models
+PREFRONTAL CORTEX; COGNITIVE CONTROL; FUSIFORM GYRUS; BAYES FACTORS;  MEMORY; FMRI; INTEGRATION; RETRIEVAL; VISUALIZATION; ACQUISITION
+CROTALUS-CERASTES; LEGGED LOCOMOTION; NERODIA-FASCIATA; GRANULAR MEDIA;  FLIGHT; KINEMATICS; MECHANICS; MODELS
+AIRCRAFT LANDING PROTOCOL; FORMAL VERIFICATION; COLLISION-AVOIDANCE;  CONFLICT-RESOLUTION; TRAFFIC-CONTROL; DYNAMIC LOGIC; PROGRAMS; PROVER
+Computational models of decision processes; Table tennis; Inverse  reinforcement learning
+Computer vision; machine learning; online estimation; simultaneous  localization and mapping (SLAM); sparse least-squares minimization
+SIMULTANEOUS LOCALIZATION; GLOBAL CONVERGENCE; UNCONSTRAINED  MINIMIZATION; BUNDLE ADJUSTMENT; ALGORITHM; OPTIMIZATION; INFORMATION;  ALIGNMENT; GRAPHS
+First-Year Undergraduate/General; Chemical Education Research;  Equilibrium; Problem Solving/Decision Making
+CHEMISTRY; REPRESENTATIONS; CONCEPTIONS; DIFFERENCE
+Biologically-inspired robots; human-centered and life-like robotics;  mechanism design; mechanics; design and control; underactuated robots;  parallel robots; search and rescue robots; field and service robotics
+DESMODUS-ROTUNDUS; MINIATURE; LOCOMOTION
+Program analysis; Model checking; Verification; Model-based testing;  Competition; Reactive system; Event-condition-action system
+Benchmark generation; Concurrency; Interference; Synchronization; LTL  synthesis; Model checking; Property-oriented expansion; Path condition  extraction; Theorem proving; SAT solving; Code motion
+BEHAVIOR; MOTION; SCALE; FIELD; FLOW
+fMRI; Hidden Markov model; Mathematical problem solving; Multivariate  pattern analysis
+FORWARD-BACKWARD ALGORITHM; HIDDEN MARKOV MODEL; PREFRONTAL CORTEX;  DEFAULT NETWORK; INTRAPARIETAL SULCUS; PARIETAL CORTEX; FMRI DATA;  BRAIN; ACTIVATION; VISUALIZATION
+GAS-EXCHANGE UNIT; MICROVASCULAR NETWORKS; MECHANICAL-PROPERTIES;  VARIABLE STIFFNESS; CELLULAR SOLIDS; DESIGN; POLYMER
+Automated vehicles; autonomous cars; formal verification; reachability  analysis; set-based computation
+MODEL-PREDICTIVE CONTROL; NONLINEAR-SYSTEMS; COMPUTATIONAL TECHNIQUES;  DYNAMIC ENVIRONMENTS; SETS; SAFETY; BOUNDS; STATE; MPC
+ARTIFICIAL MUSCLES
+Manipulation; Dexterous grasping; Compliant control; Human-inspired  robotics
+MANIPULATION; CONFIGURATION; OBJECTS
+MICROROBOTS
+Excavation; Robotics; Moon; Mars; Space exploration; Design; In situ  resource utilization; Regolith
+SOIL CUTTING BLADES; LUNAR; PERFORMANCE; TRACTION; REGOLITH; ROVER;  FORCE; TOOLS
+Language Design; Semantics; Linear Logic; Concurrent Programming; Graphs
+CONSTRAINT HANDLING RULES
+Soft robots; self-assembly; modular robots; programmable matter
+PROGRAMMABLE MATTER; ROBOTIC SYSTEM; DIMENSIONS; SURFACES
+Design; Experimentation; Reliability; Theory; Verification; Product-line  analysis; software product line; program family; software analysis; type  checking; static analysis; model checking; theorem proving
+MODEL CHECKING; VERIFICATION; VARIABILITY; FAMILIES; SPECIFICATIONS;  THEOREMS
+Catastrophic forgetting; Chaotic neural network; Complementary learning  systems; Dual-network; Hippocampus; Neuronal turnover
+COMPLEMENTARY-LEARNING-SYSTEMS; CONNECTIONIST MODELS; RECOGNITION  MEMORY; HIPPOCAMPAL CA3; NEURAL-NETWORKS
+Biologically-inspired Robots; Water Strider; Surface Tension; Miniature  Robots
+DESIGN; LOCOMOTION; ADHESIVES; WAALBOT; DRIVEN
+Activity recognition; affective computing; attention; developmental  learning; human behavior understanding; learning by demonstration;  nonverbal communication
+Climbing robots; dynamic locomotion; legged robots; mechanism design
+SIMPLEST WALKING MODEL; LEGGED HOPPING MACHINE; MECHANICAL MODELS;  INSECT LOCOMOTION; HORIZONTAL PLANE; STABILITY; ENVIRONMENTS; HEXAPOD;  BALANCE
+Balancing robots; underactuated systems; dynamics and control;  human-robot physical interaction
+Empirical studies in HCI; mobile phones; ubiquitous computing;  psychology
+SERVICE QUALITY; PARTICIPATION; COMMUNITY; TECHNOLOGY; SENSE;  SATISFACTION
+MICROROBOTS; PROPULSION; BACTERIA; ROBOTS; SHEET
+Ranging radio; multi-robot; active sensing; particle filter; entropy;  mutual information; localization
+Robotic manipulation; grasping; post-grasp manipulation; robot learning;  grasp estimation; data-driven models
+STATE; UNCERTAINTY; STRATEGIES; OBJECTS; ROBOTS
+Bipeds; Lyapunov functions; nonlinear control; robotics
+STABLE PERIODIC-ORBITS; TO-STATE STABILITY; MECHANICAL SYSTEMS;  NONLINEAR-SYSTEMS; WALKING; THEOREM; DESIGN; RABBIT; ROBOTS; STEPS
+Locomotion principle; mechanism; medical robotics; robot design
+ACTUATED SOFT CAPSULE; ENDOSCOPE; FABRICATION; DESIGN
+Neural network; Symbolic; Cognitive architecture; Integrative; Theory;  Sequencing
+WORKING-MEMORY WORK; COGNITIVE ARCHITECTURE; MODEL; SYSTEM
+ENVIRONMENTS
+complementarity; dynamic simulation; geometrically implicit  time-stepper; Multibody contact dynamics
+CONCURRENT DISTRIBUTED CONTACTS; RIGID-BODY SYSTEMS; FRICTIONAL  CONTACTS; NEWTON METHOD; DRY FRICTION; SIMULATION; DYNAMICS;  MANIPULATION; CONSTRAINTS; SURFACES
+Multi-agent; Multi-robot; Heterogeneous; Capability; Synergy; Ad hoc;  Team formation
+MULTIAGENT TASK ALLOCATION; COALITION-FORMATION; ROBOCUP RESCUE;  METHODOLOGY
+reinforcement learning; sequential choice; temporal credit assignment
+ANTERIOR CINGULATE CORTEX; REINFORCEMENT LEARNING-MODELS; ORBITAL  PREFRONTAL CORTEX; ERROR-RELATED NEGATIVITY; DOPAMINE NEURONS ENCODE;  BASAL GANGLIA; HUMAN BRAIN; PREDICTION ERROR; DORSOLATERAL STRIATUM;  ORBITOFRONTAL CORTEX
+soft robotics; bio-inspired robotics; wearable robotics; active  orthosis; pneumatic artificial muscles (PAMs); soft sensors; feedback  control
+ARTIFICIAL PNEUMATIC MUSCLES; SPINAL-CORD-INJURY; ADAPTIVE-CONTROL;  CEREBRAL-PALSY; ORTHOSIS; GAIT; ASSISTANCE; NEUROREHABILITATION;  IMMOBILIZATION; PERFORMANCE
+IN-VITRO; ELECTRICAL-STIMULATION; SILICON MICROSTRUCTURES;  MICROPATTERNED SURFACES; CONTRACTILE PROPERTIES; 3-DIMENSIONAL TISSUES;  FUNCTIONAL-EVALUATION; PULSE STIMULATION; CARBON NANOTUBES; COLLAGEN GEL
+LITHOGRAPHY; ELECTRONICS; DEVICES
+Architecture design; Object-oriented design; Architecture  materialization; Software reuse; Case based reasoning
+RETRIEVAL
+Manipulation; heuristic search; path planning; motion planning
+Biopsy; capsule endoscopy; medical robotics; microgrippers  (mu-grippers); minimally invasive surgery
+ACTUATED SOFT CAPSULE; ADHESION
+Arithmetic; Problem solving; Strategy assessments; fMRI
+MATHEMATICALLY DISABLED-CHILDREN; OF-PROCESSING DIFFERENCES;  EVENT-RELATED FMRI; INDIVIDUAL-DIFFERENCES; COGNITIVE ADDITION; EXTENDED  PRACTICE; MULTIPLICATION; ACTIVATION; CHOICE; VISUALIZATION
+Magnetic actuation; microrobotics; multiple artificial flagella;  swimming robot
+NANOWIRE MOTORS; MICRO-ROBOTS; PROPULSION; MICROROBOTS; DIMENSIONS;  SWIMMERS
+Human-robot interaction; Multi-agent path planning; Biologically  inspired motion; Multi-touch interface
+SEQUENTIAL COMPOSITION; ROBOT; ENVIRONMENT
+LOCALIZATION; NETWORKS
+LOCOMOTION; KINEMATICS
+APPROXIMATION
+ROBOT; MODEL; LEG
+KINEMATICS; FORMULATION
+ULTRASOUND; SURGERY; SYSTEM
+SNAKE ROBOT; LOCOMOTION
+Localization; Mobile Robots; Sensor Fusion
+ALGORITHM SELECTION; NAVIGATION
+SINGLE CELLS; OBJECTS; MICROMANIPULATION; TWEEZERS; ROBOTS
+WALKING
+MOTOR
+SUPERVISORY CONTROL; CAPACITY; NETWORKS; UAVS
+K-traveling salesman problem (K-TSP); matching; multiple-robot systems;  point set coverage
+MULTIVEHICLE SYSTEMS; TO-POINT; ALGORITHMS; ARMS
+Intelligent tutoring systems; situated cognition; cognitive psychology;  design; perception
+WORKED EXAMPLES; FRAMEWORK; MEMORY
+intelligent tutoring; computer-supported collaborative learning;  adaptive collaborative learning systems; peer tutoring
+social motivation; virtual environments; intelligent agents
+MOTIVATION
+Intelligent Tutoring Systems; Self-Explanation; Analogical Comparisons;  Second Language Learning
+SELF-EXPLANATIONS; EXAMPLES
+Reinforcement Learning; Human Learning; Intelligent Tutoring Systems;  Pedagogical Strategy
+DIALOGUE; STUDENTS; SYSTEMS
+SimStudent; Learning by teaching; tutor-learning effect; algebra  equation solving; machine learning
+METRIC-TOPOLOGICAL SLAM; SIMULTANEOUS LOCALIZATION; MAPS; ALGORITHM
+sensor network; motion; smart environment; instinctive computing;  anomaly detection
+Ambient Intelligence; Common Sense; Planning
+FRAMEWORK
+Characteristic kernels; Locally compact Abelian groups; Rotation  matrices; Semigroups; Recognition of human actions in videos
+human-robot interaction; natural language dialogue; social robots;  conversational agents; culture
+robot error; robot breakdown; error recovery; services; service  recovery; social robot; human-robot interaction
+BEHAVIOR; RECOVERY; IMPACT
+EVOLUTIONARY OPTIMIZATION; ALGORITHMS; SEARCH; PORTFOLIOS; DESIGN; TEAMS
+ROUGH-TERRAIN; TRACTION CONTROL; ROVER
+3-DIMENSIONAL COMPONENT LAYOUT; PATTERN SEARCH; DESIGN; COOPERATION;  PERFORMANCE; TEAMS
+LATENT SEMANTIC ANALYSIS; TASK; REPRESENTATION; PERFORMANCE; GENERATION;  INCUBATION; FIXATION
+Air Traffic Management; Multi-Agent Systems; Negotiation; Hill Climbing;  and Linear Programming
+cancer; oncology; survivors; adjustment; posttraumatic growth; social  support
+BONE-MARROW-TRANSPLANTATION; STAGE BREAST-CANCER; QUALITY-OF-LIFE;  LONG-TERM ADJUSTMENT; DEPRESSIVE SYMPTOMS; GENERAL-POPULATION; FINDING  BENEFIT; PROSTATE-CANCER; STRESS; WOMEN
+self-adaptation; preemption; utility; concurrency
+DYNAMIC RECONFIGURATION; SCHEDULING ALGORITHM
+matrix games; smoothing algorithm; condition measure; variational  analysis; metric regularity; generalized differentiation
+COMPLEXITY THEORY; MINIMIZATION
+Outreach; High School; Teacher Training; Robotics; Workshop; CSbots;  Computer Programming; Participatory Design
+software toolkit; grasping simulation; robot modeling
+collaborative virtual environments; ubiquitous computing; mobile  computing
+Mobile robots; multirobot systems; reliability; task allocation; mission  planning
+MOBILE ROBOTS
+Dynamics; manipulation planning; mechanism design; micro/nanorobots;  telerobotics
+PLANE WALL; MANIPULATION; NANOSCALE; ROBOTICS; SYSTEMS; SPHERE; FLOW
+Adaptive collaborative learning support; Intelligent collaborative  learning systems; Cognitive tutoring systems; Collaboration modeling;  Peer tutoring; Classroom evaluation
+COGNITIVE TUTORS; COMPUTER; EXPLANATIONS; ACHIEVEMENT; ENVIRONMENT;  INSTRUCTION
+Model-Based Automation; Problem Solving Agent; Situated Cognition; Work  Practice Simulation; Work Systems Design
+Peer-to-peer systems; Message relaying; Incentive mechanisms;  Multi-level marketing models; Reinforcement learning
+Pursuit evasion; Graph search; Robotics
+PURSUIT-EVASION
+Norms; Detection and resolution of normative conflicts
+NORM-REGULATED ENVIRONMENTS; LOGIC; PERMISSIONS; OBLIGATIONS
+Beating-heart surgery; medical robotics; minimally invasive surgery;  mobile robot motion planning
+EXPERIMENTAL VALIDATION; CARDIOPULMONARY BYPASS; PREDICTIVE CONTROL;  CARDIAC-SURGERY; MOTION; ABLATION; ISCHEMIA; THERAPY; OCTOPUS; SYSTEM
+INFORMATION-PROCESSING MODEL; EPISODIC MEMORY RETRIEVAL; POSTERIOR  PARIETAL CORTEX; 3 CORTICAL REGIONS; INDIVIDUAL-DIFFERENCES; FUNCTIONAL  ACTIVATION; MATHEMATICAL THINKING; BRAIN ACTIVATION; DEFAULT MODE; FMRI
+Planning; vision; manipulation; navigation
+kinematic analysis; locomotion of gecko lizard; gait simulation; various  gaits; workspace analysis
+ADHESION; LEVEL; ROBOT
+Bipedal walking; Reinforcement learning; Poincare map; Gaussian  processes; Humanoid robot
+POLICY GRADIENT-METHOD; GAUSSIAN-PROCESSES; DYNAMIC WALKING;  REINFORCEMENT; ROBOT; REGRESSION; MODEL
+micro/nano robots; design and control; dynamics simulation; micro  mechanics
+FRICTION; SYSTEMS; SURFACES; SCALE; WATER; MEMS
+Imitation learning; Structured prediction; Subgradient methods;  Nonparametric optimization; Functional gradient techniques; Robotics;  Planning; Autonomous navigation; Quadrupedal locomotion; Grasping
+ROBOT; PATH
+Microrobotics; resonant coupling; swarm robotics; wireless power
+SYSTEMS
+Case-based reasoning; Action selection; Robot soccer; Cooperative task  execution
+DECISION-MAKING; BEHAVIOR; PREDICTION; AGENT
+Computer-aided surgery; lock-in amplification; medical robotics; optical  position measurement; phase-sensitive detector; position-sensitive  detectors (PSDs)
+POSITION-SENSITIVE DETECTOR; NOISE; MOTION
+Brake-actuated manipulator (BAM); passive haptic; robotic  rehabilitation; system identification; unscented Kalman filter
+nonlinear estimation; range-only localization; multi-robot estimation;  set-theoretic techniques; over parameterization; control for  localization
+ROBOT LOCALIZATION
+Iterative improvement techniques; Scheduling under uncertainty;  Constraint-based scheduling
+Learning from demonstration; Robotics; Machine learning; Autonomous  systems
+IMITATION; MOVEMENTS
+Strategy selection; Choice; Problem solving; Multiplication; Motor  control; Distributed cognition
+MANUAL OBSTACLE AVOIDANCE; DECISION-MAKING; INTERACTIVE BEHAVIOR; SOFT  CONSTRAINTS; SELECTION; ADULTS; REPRESENTATIONS; YOUNGER; MODEL; OLDER
+Evolutionary robotics; Fitness functions; Genetic algorithms; Autonomous  learning robots; Artificial life
+REAL ROBOTS; DEVELOPMENTAL ROBOTICS; EVOLVING CONTROLLERS; EVOLVABLE  HARDWARE; SELF-ORGANIZATION; PHYSICAL ROBOTS; MOBILE ROBOT; BEHAVIORS;  ADAPTATION; NAVIGATION
+electrostatic devices; microrobots
+Planning with uncertainty; Planning with missing information; Partially  Observable Markov Decision; Processes; Planning; Heuristic search
+Spam mail; Rough Set theory; Reinforcement learning
+Homework support systems; adaptive educational systems; intelligent  tutoring systems; authoring tools
+COGNITIVE TUTORS; WORKED EXAMPLES; STEPS
+Supply chain trading; Trading agents; Autonomous agents
+TRADING AGENT; LONG-TERM; CROCODILEAGENT
+Software engineering; service robots; object oriented methods; modeling
+Modal logic; $100 challenge; Subset relationship
+PROBABILISTIC ROADMAPS; TRAJECTORY GENERATION; PATHS; COMPLEXITY;  CURVATURE; ALGORITHM; VEHICLES; CAR
+aerospace industry; CAD; large-scale systems; mechanical engineering  computing; multi-agent systems; organisational aspects
+TEAM
+Assistive technology; biosensors; artificial intelligence
+ELDERLY-PEOPLE; COGNITIVE IMPAIRMENT; MONITORING-SYSTEM;  ALZHEIMER-DISEASE; COSTS; REHABILITATION; POPULATION; PREVALENCE
+TERRAIN CLASSIFICATION; OBSTACLE AVOIDANCE; NAVIGATION; COLLISION;  DEPTH; FOCUS
+EXCAVATION
+human robot interaction; multirobot systems; human factors
+Uncertainty; hypothesis evaluation; data gathering; Bayesian reasoning;  artificial intelligence
+MATHEMATICAL-THEORY; COMMUNICATION; ENTROPY
+Multirobot systems; reliability; task allocation
+Uncertainty; hypothesis evaluation; Bayesian reasoning; artificial  intelligence
+MATHEMATICAL-THEORY; COMMUNICATION; ENTROPY
+Path Planning; Visual Navigation; Robot Control; Cognitive Modeling
+MATHEMATICAL-THEORY; COMMUNICATION
+NANOSCALE
+GOOD APPROXIMATION ALGORITHMS; TIME OBSTACLE AVOIDANCE; POTENTIAL  FUNCTIONS; ROBOTS; MANIPULATORS
+ENVIRONMENTS
+MANIPULATORS
+VALUE-ITERATION
+STIFFNESS
+SPACE
+RESCUE
+LINEAR LOGIC
+Locomotion; hyper-redundant mechanism; snake robot; gait design; motion  planning
+ENERGETIC COST; LIMBLESS LOCOMOTION; MANIPULATOR; KINEMATICS
+policy; causal reasoning; motivated skepticism; evidence evaluation
+DECISION-MAKING
+Creative Reasoning; Collaborative Learning; Artificial Intelligence  Analysis Techniques; Shallow Text Processing
+Authoring Tools; Language Learning; Mini-Dialogs; Utterance Templates
+Intelligent Tutoring Systems; Cognitive Tutors; Conceptual Instruction;  Procedural Instruction
+TERRAIN AUTONOMOUS MOBILITY
+LOGIC
+HUMAN BRAIN ACTIVITY; IMAGES; CORTEX; MIND
+Stigmergy; distributed algorithms; education
+Context-aware computing; intelligibility; control; toolkits; design  support
+FRAMEWORK; SYSTEMS
+Context-awareness; mobile location sharing technology; mobile social;  information disclosure; privacy
+Intelligibility; context-aware; explanations
+AUTOMATION; ISSUES; RULES; TRUST
+rigid body; control; motion planning; behavioural; constraints; tactics;  physics-based; animation
+AGENTS
+SELECTIVE RETENTION; BLIND VARIATION
+LIMITED VISIBILITY
+formal verification of hybrid systems; train control; theorem proving;  parameter constraint identification; disturbances
+HYBRID SYSTEMS; MODEL CHECKING
+human-robot interaction; search and rescue; human roles
+Climbing robots; dry elastomer adhesion; miniature robots; force  transfer; peeling
+CLIMBING ROBOT; ADHESION
+MOTOR; BLOOD
+DARPA-URBAN-CHALLENGE; ENVIRONMENTS; VEHICLE; MOTION; ENTRY
+HOUGH TRANSFORM; TRACKING
+ESCHERICHIA-COLI; ADHESION; HYDROPHOBICITY; POLYSTYRENE; ADHERENCE;  CARPETS; MOTOR
+Automation; automotive painting; coverage; segmentation; trajectory  planning
+collision-free coordination; multiple robots; elastic force; priority
+OBSTACLE AVOIDANCE
+multi-model; motion tracking; human-robot-team; action models
+ROBOTS
+optimal control; nonholonomic constraints; shortest paths (or  geodesics); differential drive; mobile robot
+TIME-OPTIMAL TRAJECTORIES; CAR
+Human-robot interaction; Robot design; Social development; Autism  therapy; Rhythmic synchrony; Interpersonal coordination
+Intelligibility; modeling context-aware; ambient environments
+evolutionary game theory; reinforcement learning; signalling game
+GAMES; STABILITY; STRATEGY
+DESIGN
+SENSOR NETWORKS
+Mobile computing; Resource adaptation; Self-adaptive systems; Software  architecture; User studies
+SOFTWARE; ARCHITECTURE; STABILITY
+DIY culture; citizen science
+Languages; Experimentation; Probabilistic language; probability  distribution; sampling function; robotics
+Computer-aided assessment; Automated grading; Creative problem-solving;  Science learning assessment; Machine learning application
+VECTOR-SPACE MODEL; ABILITY; SCIENCE
+Biologically inspired adhesives; biomedical robotics; capsule endoscopy;  gastrointestinal (GI) tract
+GECKO FOOT-HAIR; GASTROINTESTINAL-TRACT
+AMIDST POLYGONAL BARRIERS; PIANO MOVERS PROBLEM; MOTION
+MOBILE ROBOTS; NAVIGATION; CHALLENGE; TERRAIN
+Collision-free motion coordination; Multiple robots; Elastic force;  Priority
+OBSTACLE AVOIDANCE; MOBILE ROBOTS
+Prefrontal cortex; Parietal cortex; Problem-solving; fMRI; Anterior  cingulate
+ANTERIOR CINGULATE CORTEX; SYMBOL MANIPULATION; BRAIN ACTIVATION; MODEL;  FMRI
+Cooperating humanoids; controlled autonomy; event recognition;  multi-object visual detection; history-based probabilistic action  selection
+diagnosis; fault diagnosis; self diagnosis; team diagnosis; robot team  repair; mobile robot; robotics; multi-robot system; modular robot;  gradient-based training; particle filters
+PROCESS FAULT-DETECTION; DISTRIBUTED CONTROL; QUANTITATIVE MODEL; ROBOTS
+rigid body dynamics; frictional contact; linear complementarity;  ill-posedness; inverse problems; motion planning
+DYNAMICS; CONTACT; BODIES; FRICTION; IMPACT
+dynamic programming; optimal control; random sampling
+H-INFINITY CONTROL; ZERO-SUM GAMES; SYSTEMS; DESIGNS
+TERRAIN
+ANTERIOR CINGULATE CORTEX; HUMAN PREFRONTAL CORTEX; EVENT-RELATED FMRI;  COGNITIVE CONTROL; WORKING-MEMORY; SYMBOL MANIPULATION; ERROR-DETECTION;  BASAL GANGLIA; ACTIVATION; SELECTION
+aquatic propulsion; aquatic robot; biomimetic robots; lizard;  locomotion; mobile robots; water running
+BASILISK LIZARDS; LOCOMOTION; SURFACE
+DARPA GRAND CHALLENGE; ROUGH TERRAIN
+mobile robots; navigation; obstacle detection; obstacle avoidance
+OBSTACLE AVOIDANCE; AUTONOMOUS VEHICLE; NAVIGATION; TERRAIN
+problem solving; design cognition; creativity; conceptual design
+SELECTIVE RETENTION; BLIND VARIATION; INCUBATION; KNOWLEDGE; FIXATION
+aerial robotics; learning
+ROUTE SELECTION; AVOIDANCE; NAVIGATION; SYSTEMS; MODEL
+legged robots; mobility; dynamics and kinematics
+ROLLING FRICTION; RIGID BODIES; MOBILE ROBOT; MOTION; MECHANICS; SPHERE;  PLANE
+robotic origami folding; dextrous manipulation; flexible object  manipulation; rigidity
+DEVELOPABLE SURFACES; METAMORPHIC MECHANISMS; REPRESENTATION;  APPROXIMATION; MOBILITY; PAPER
+balance control; posture; sensory re-weighting
+HUMAN POSTURAL CONTROL; HUMAN STANCE CONTROL; CONTROL MODEL;  SENSORIMOTOR INTEGRATION; MULTISENSORY FUSION; ORIENTATION; SWAY
+Coverage; Multi-robot; Algorithmic robotics
+MORSE DECOMPOSITIONS; ENVIRONMENTS; COORDINATION; EXPLORATION; ROBOTICS
+visual SLAM; Kalman filter; state estimation
+LOCALIZATION
+VERTICAL SURFACES; ARTHROPODS; INSPECTION; DYNAMICS
+execution monitoring; scheduling; dynamic schedule repair;  collaboration; mediation
+AGENT
+cellular and modular robotics; distributed robot systems; programming  environment
+SYSTEMS
+END-STATE COMFORT
+COORDINATION; AGENTS; MOTION
+BIOMETRIC AUTHENTICATION; ENCRYPTION
+MANIPULATOR
+IMAGES
+FOOT-HAIR; ENHANCED ADHESION; ASPECT-RATIO; ARRAYS; INSPECTION
+ALGORITHMS
+STATE-SPACE MODELS
+PROBABILISTIC ROADMAPS
+SELF-RECONFIGURATION
+PATHS
+BACKPROPAGATION
+languages; verification; foundational certified code; metalogic; logic  programming
+TYPED ASSEMBLY LANGUAGE
+MOTION
+bottom-up logic programming; forward reasoning; linear logic; deductive  databases; cost semantics; abstract running time
+COMPLEXITY ANALYSIS
+CSCW; distributed work; empirical studies; information visualization;  collaboration; communication
+DECISION-MAKING; INFORMATION; REPRESENTATIONS
+intrusion detection; anomaly; false positives; network of computers;  majority rule gates
+OSCILLATORS
+Home computers; user account models; personalization; ubiquitous  computing; access control; file sharing
+MARKOV DECISION-PROCESSES; COMPLEXITY
+simulation tools; building energy performance; artificial intelligence;  artificial neural networks; inverse model
+MOBILE APPLICATIONS; SYSTEMS; DESIGN; PROTOTYPES; USABILITY; SPEECH
+Sliding autonomy; human-robot teams; peer-to-peer teams; pickup teams;  autonomous teamwork; multi-agent coordination; adjustable autonomy
+mobile computing; resource adaptation; self-adaptive systems; software  architecture
+adaptive systems; communication systems; de-sign methodology; fading  channels; minimum energy control; power control; resource management;  scheduling; wireless LAN
+intelligent authoring system; simulated student; programming by  demonstration; machine learning; Cognitive Tutor
+MOBILE ROBOT; NAVIGATION
+pluralism; cognitive architecture; cognitive neuroscience; cognitive;  models; computational models
+COMPLEMENTARY LEARNING-SYSTEMS; COMPUTATIONAL MODELS; PREFRONTAL CORTEX;  MEMORY; HIPPOCAMPAL; PRINCIPLES; ALGORITHM; ERROR
+REINFORCEMENT; ITERATION
+pervasive healthcare; pervasive computing; ubiquitous computing
+artificial intelligence; restoration of images; cognitive model
+SYSTEM
+UAV UGV collaboration; multirobot coordination; target geolocation;  PackBot UGV; Raven UAV; decentralized data fusion
+unmanned ground vehicles; safety; experiments; simulation
+polymorphic optimization; multi-agent systems; microfluidic separation  design
+MICROCHIP ELECTROPHORESIS; COMPUTER-SIMULATIONS; SYSTEMS; CHANNELS;  DESIGN; TRANSPORT; GEOMETRY; DEVICES; AGENTS
+audiovisual perception; human-centered robotics; human-robot  interaction; multimodal interaction
+FACE RECOGNITION; GAZE
+stereo vision; obstacle detection; visual odometry; visual velocity  estimation; slip prediction; planetary exploration
+MOTION ESTIMATION SYSTEM; EXPLORATION ROVERS; VISUAL ODOMETRY; MOBILE  ROBOTS; CMU NAVLAB; PROGRAM; STEREO; PERCEPTION; MACHINE; AMBLER
+gait generation; motion control; underactuated robots; non-holonomic  motion planning; generalized momentum; purely mechanical systems;  principally kinematic systems; Stokes' theorem
+LOCOMOTION
+gait generation; motion control; underactuated; robots; non-holonomic  motion planning; mixed mechanical systems; generalized momentum; scaled  momentum; variable inertia snakeboard; Stokes' theorem
+KINEMATIC CONTROLLABILITY; SNAKEBOARD; LOCOMOTION
+TEMPORAL-LOBE LESIONS; DUAL-TASK PERFORMANCE; WORKING-MEMORY; SENTENCE  COMPREHENSION; PREFRONTAL CORTEX; MENTAL ROTATION; FRONTAL-LOBE; NEURAL  BASIS; COMPUTATIONAL APPROACH; INDIVIDUAL-DIFFERENCES
+mobile robotics; localization; mapping; tracking; detection; robotic  perception
+MULTIPLE TARGETS; ALGORITHM; IMPLEMENTATION; SEGMENTATION; ENVIRONMENTS;  SYSTEMS
+goals; problem solving; memory retrieval; hints
+RIGHT-HEMISPHERE; SELECTIVE RETENTION; CREATIVE PROCESS; BLIND  VARIATION; INSIGHT PROBLEM; INCUBATION; ACTIVATION; MEMORY; INTENTIONS;  EXPERIENCE
+positioning error; simulation; autonomous vehicles
+WHEELED MOBILE ROBOTS; SYSTEMS; NAVIGATION
+field robots; range sensing; mapping; data structure; terrain  classification
+TERRAIN CLASSIFICATION; LADAR DATA; NAVIGATION
+solar cells; advanced triple-junction; mobile robots
+human body animation; facial animation; motion control; statistical  dynamic models; spatial-temporal constraints; constraint-based motion  synthesis; motion capture data
+CHARACTER MOTION; INTERPOLATION; ANIMATION; BEHAVIOR
+motion generation; motion graphs; character control
+ANIMATION
+motion capture; motion graph; motion planning; human animation; motion  interpolation
+GENERATION; ANIMATION
+behavior selection; generalized stochastic Petri nets; mobile robot  navigation; service robot
+SYSTEMS; STRATEGIES
+lateral prefrontal cortex; preparation; problem solving
+COGNITIVE CONTROL; MEMORY RETRIEVAL; TASK; FMRI
+Bayesian models; graphical models; Hidden Markov models; importance  sampling; particle filtering; SLAM
+MODELS; INFERENCE; INDOOR
+dry adhesives; mechatronics; miniature robotics; mobile robotics; wall  climbing
+GECKO FOOT-HAIR
+biped walking; reinforcement learning; poincare map
+BIDIRECTIONAL THEORY; WALKING; FRAMEWORK
+robotics; computer science education; women in computer science;  minorities in computer science; middle grades education
+microrobot; micromanipulation; scaling; biomimetic; microfabrication;  MEMS
+SYSTEMS; ADHESION; FIELDS
+biomimetic robotics; miniature robotics; piezoelectric actuator; surface  tension
+ACTUATORS; OBJECTS
+HEURISTIC-SEARCH; ARCHITECTURE; EFFICIENCY; DOMAINS; SYSTEM; PLANS
+multiagent learning; learning in games; reinforcement learning; game  theory
+POLYNOMIAL-TIME ALGORITHM; NASH EQUILIBRIUM; BIMATRIX GAMES
+social robotics; human-robot interaction; social situatedness; socially  distributed cognition; mixed initiative; observational analysis;  multidisciplinary design
+dual-coding theory; visual routines; robot vision; educational robotics
+VISUAL ROUTINES
+fault tolerance; robotics; co-operation; fault detection and isolation;  neural networks
+MULTIPLE MANIPULATORS; PARALLEL MANIPULATORS; NEURAL-NETWORKS; PASSIVE  JOINTS; FORCE CONTROL; SYSTEMS; MOTION
+EPISODIC MEMORY RETRIEVAL; MENTAL ROTATION; FUNCTIONAL ACTIVATION;  MATHEMATICAL THINKING; SYMBOL MANIPULATION; PROCESSING MODEL;  WORKING-MEMORY; FRONTAL LOBES; FMRI; INTERFERENCE
+micro/nanorobotics; miniature mobile robotics; micro/nanomanipulation;  directed self-assembly
+disasters; databases; emergency services; computer models; information  management; geographic information systems; spatial data; damage
+adaptive systems; communication systems; design methodology; fading  channels; minimum energy control; power control; resource management;  scheduling; wireless LAN
+mobile robots; trajectory generation; rough terrain; constrained  optimization; optimal control; path planning
+OPTIMIZATION; CONSTRAINTS; VEHICLES; SYSTEMS
+humanoid robot; autonomous behaviour; biped locomotion; motion planning;  vision-based control
+CONFIGURATION-SPACES; COORDINATION
+ESCHERICHIA-COLI; MOTOR
+interactive learning; online learning; Statics
+verification; embedded control systems; ontology; knowledge base; logic;  reasoning
+MER; robotics; Mars rover; flight software; autonomous; navigation; path  planning; Field D*
+representation; utility; search; artificial; intelligence
+PRIMITIVES
+VISUAL TRACKING; OBJECTS; ONLINE
+hyper-redundant mechanism; snake robots mechatronics; mobile base;  mechanical design
+MANIPULATOR; TOOL
+SYSTEM
+NETWORKS
+MOBILE ROBOTS
+STABILITY; LOCOMOTION
+SYNCHRONY
+action selection; developmental robotics; routine behavior; humanoid  robot; robot architecture
+navigation among movable objects; NAMO; humanoid; manipulation; motion  planning; movable obstacles
+Walking; Legged Robots; Trajectory Simplification
+MODEL
+Cognitive modeling; programming by demonstration; inductive logic  programming; Cognitive Tutor; intelligent authoring
+information model; life cycle commissioning; residential building;  sensor-assisted; complex system theory
+Modular robotics; education; toys; design; constructionism
+Interruptibility; availability; computer-mediated communication;  awareness; ubiquitous computing; context-aware computing
+Gain switching; Hydraulic humanoid; Joint position control
+POSTURAL MOVEMENTS; ANKLE
+ROBOTS
+LOCOMOTION
+Dynamics; Robots; Robot dynamics
+LOCOMOTION; BALANCE
+user-centered design; user interface design; sequential pattern  analysis; human-computer interaction; usability assessment; data display
+CARE
+artificial intelligence; restoration of images; neural networks
+TIME
+REARRANGEMENT
+EVASION
+software architecture design; quality-driven mechanisms; artificial  intelligence techniques; tool support
+Haptic interfaces; sensor technologies; machine learning; personal  technologies; ubiquitous computing
+SELECTION; COMFORT
+EXAMPLES
+airflow fields; distributed manipulation; sensorless sequential  manipulation
+PARTS; CONVEYOR; FIELDS
+piezoelectric actuators; nanopositioning; miniature robots; ultrasonic  actuation
+synchronized communication; adaptive systems; formal methods; refinement
+control architecture; Petri nets; robot system integration; service  robots
+computer assisted; medical; navigation; orthopaedics; robotics; surgery
+ARTHROPLASTY; ROBOT; SYSTEM; HIP
+computer-aided surgery; heartbeat; medical robotics; physiological  motion compensation; respiration; tremor
+RESPIRATORY MOTION; PREDICTIVE CONTROL; SURGERY; TREMOR; MICROSURGERY;  INSTRUMENTS; TRACKING; SYSTEM; HEART
+feedback distortion; hand; rehabilitation robotics; stroke; traumatic  brain injury
+RESEARCH ARM TEST; HAPTIC DOMINANCE; ASSESSMENT SCALE; FORM PERCEPTION;  VISION; MOVEMENT; STROKE; PROPRIOCEPTION; RELIABILITY; TOUCH
+intelligent tutoring systems; collaborative learning; collaboration  modeling; action-based analysis
+KNOWLEDGE
+RADAR
+genetic programming; robotics; visual navigation; monocular vision
+EXPERT-SYSTEMS; IDENTIFICATION; VICTIMS
+auctions; market-based coordination; multirobot teams; resource  allocation; task allocation
+mobile robots; motion-planning; multirobot; navigation; robot dynamics
+ENVIRONMENTS; OBSTACLES
+architectures; assembly; autonomy; experiments; human-robot interaction;  multiagent systems; sliding autonomy; teleoperation; user modeling
+multirobot systems; social animals; tracking
+PROBABILISTIC DATA ASSOCIATION; TRACKING; RECOGNITION; MODELS;  NAVIGATION; COLONIES; TARGETS
+problem solving; adaptive search; information seeking; suboptimal  tradeoffs; satisficing; Bayesian learning; ACT-R; cognitive modeling;  sequential decision making
+INTERACTIVE BEHAVIOR; SELECTION TASK; GOOD FIT; CHOICE; PERFORMANCE;  MELIORATION; COST
+motion control; multirobot architecture; self-organizing neural  networks; swarm intelligence; task allocation
+MULTIROBOT; ARCHITECTURE; ROBOTS
+multifidelity applications; resource-aware computing; self-adaptation;  ubiquitous computing
+autonomous mobility; mobile robot; unmanned; ground vehicle; UGV; UAV;  obstacle avoidance; motion planning; ladar; stereo
+MOBILE ROBOTS; PLANETARY ROVERS; NAVIGATION; VISION; SYSTEMS; MOTION
+pursuit-evasion; computational geometry; exact cell decomposition  path-planning
+AMIDST POLYGONAL BARRIERS; TRACKING TARGETS; ENVIRONMENT; REGION
+artificial; augmented; and virtual realities; image display; medical  information systems; real time
+GUIDANCE
+microrobotics; biomimetic robotics; prokaryotic flagellar motion;  eukaryotic flagellar motion
+FLAGELLA; FLUID
+robot fault diagnosis; fault protection; robot fault detection
+MOBILE ROBOTS
+robotic joint; mechanical design; degrees-of-freedom; hyper-redundant  robot; snake robot; kinematics
+MANIPULATOR; TOOL
+infrastructures; optimization; multi-agent systems; model predictive  control
+speech recognition; voice commands; non-stationary
+WALKING
+entertainment; gesture and communication; cooperating humanoids
+EYE-CONTACT; PERSONAL-SPACE; DISTANCE
+MOVEMENTS; IMITATE
+INTEGRATION
+robots; education; educational technology; mobile robots; robot  programming
+graphical analysis; Maxwell's reciprocal; figure theory; parallel  manipulators; singularity
+MECHANISMS; KINEMATICS; ROBOTS
+humanoid robots; biologically inspired systems; biomechanics; hand  surgery; anatomically-correct testbed
+ROTATION; JOINT; AXES
+WALKING
+real-time; object detection; vision
+car-like robot; path planning; steering sets
+tactile sensing; force/pressure sensing; humanoid robots
+HUMAN BALANCE CONTROL; TECHNICAL NOTE; SYSTEM; POINT
+high-speed navigation; mobile robot; perception; mechatronics
+HUMANOID ROBOTS; MANIPULATION
+mobile robots; multirobot systems; mission design; reliability
+motion planning; state lattice; heuristic; nonholonomic; mobile robot
+ALGORITHM
+trajectory generation; mobile robot; all-wheel steering; motion splines;  rough terrain
+biomimetics; legged robots; basifisk lizard; walking on water
+LOCOMOTION
+design; ICT and development; stakeholder participation; wicked problems
+statics; concept; problem-solving; strategy; metacognition
+nonholonomic motion planning lattice control set
+trajectory generation; rough terrain; robot control; nonholonomic;  mobile robots
+modeling dynamics off-road robotics
+AUCTIONS
+NONLINEAR DIMENSIONALITY REDUCTION
+evolutionary robotics; genetic programming; robustness; transference;  unmanned aerial vehicles
+genetic algorithms; piezoelectric actuators; evolvable hardware; robot  control; inspection robots
+main street approach; community development; artificial intelligence;  machine learning; active learning algorithm
+design; collaboration; groupware
+SHARED SCIENTIFIC THINKING
+market-based; multirobot coordination; complex tasks; auctions; task  allocation
+AUCTIONS
+MARKOV DECISION-PROCESSES; MODELS
+ROBOTS
+legged robots; climbing robots; robot locomotion; gait parameterization;  gait regulation; behavioral control
+WALKING
+ACQUISITION
+two wheel robot; survivable robot; robot design
+stability margin; rollover prevention; mobile robot; optimal estimation;  field robot; attitude estimation
+ROUGH TERRAIN; LOCOMOTION; VEHICLES; FORCE
+INFORMATION-PROCESSING MODEL; EPISODIC MEMORY RETRIEVAL; SPATIAL  WORKING-MEMORY; 3 CORTICAL REGIONS; PREFRONTAL CORTEX; LONDON TASK;  ACTIVATION; PET
+scientific visualization; biological discovery; game design; problem  solving; artificial life; education
+protein structure; writhing; convolution; isotopy; line weaving; knot  theory; robot motion planning
+SEMI-ALGEBRAIC SETS; CLASSIFICATION; INVARIANTS; ALGORITHM; ALIGNMENT;  SPACE
+concurrent software; verification; assume-guarantee reasoning; automated  theorem proving; verification conditions; software engineering
+JAVA
+design; languages; human factors; human-computer interaction; computer  science education; literacy; learning; problem solving
+A*; D* (Dynamic A*); navigation in unknown terrain; planning with the  freespace assumption; replanning; search; sensor-based path planning
+SHORTEST PATHS TREES; DYNAMIC ALGORITHMS; SEARCH; GRAPHS
+concurrent mapping and localization; generalized Voronoi diagram; Kalman  filtering; mobile robots; simultaneous localization and mapping (SLAM);  topological maps
+GENERALIZED VORONOI GRAPH; SENSOR-BASED EXPLORATION; BUILDING SLAM  PROBLEM; SIMULTANEOUS LOCALIZATION; ROBOTS
+motion planning; sensor-based planning; rod-shaped robot; Voronoi  diagram; roadmap; exploration; retract; piece-wise retract
+GENERALIZED VORONOI GRAPH; TIME OBSTACLE AVOIDANCE; MOBILE ROBOTS;  FREE-SPACE; CONSTRUCTION; EXPLORATION; ROADMAPS; MOTION
+MOBILE ROBOTS; AVOIDANCE
+convex body; generalized Voronoi graph (GVG); motion planning; retract;  roadmaps; sensor-based planning
+GENERALIZED VORONOI GRAPH; PROBABILISTIC ROADMAPS; CONSTRUCTION;  OBSTACLES
+feedback distortion; kinesthetic perception; perception of effort;  rehabilitation robotics
+MANUAL DISCRIMINATION; STIMULUS-INTENSITY; WEIGHT; STROKE; INFORMATION;  MECHANISMS; MOTIVATION; RESOLUTION; THERAPY; VISION
+multi-robot cooperation; robot action selection; mapping
+multi-robot coordination; autonomous robots; adaptive coordination;  adversarial task
+ROBOT; TEAM
+CARDIAC-SURGERY
+humanoid robot; vision; footstep planning; obstacle avoidance; dynamic  replanning
+passive dynamic walking; biped; compliance; humanoid; bipedal walking
+WALKING; YAW
+affordance; cognition
+RECOGNITION
+grasp synthesis; hands; shape matching
+FREE-FORM OBJECTS; REPRESENTATION; RECOGNITION
+biomedical microrobotics; biomimetic robotics; swimming robots;  flagellar motion
+FLUID
+humanoid robots; footstep planning; biped locomotion; obstacle avoidance
+MOTION; CONTROLLABILITY; DESIGN
+market-based planning; learning; opportunity cost; multi-robot systems
+multirobot coordination; task allocation
+rigid-body dynamics; climbing; hyper-redundant robot
+dynamic manipulation; friction; control synthesis; time-scaling
+ROBOTIC MANIPULATORS
+human-robot interaction; social robots; humanoids; perception; dialogue
+KNOWLEDGE; OTHERS; ASSUMPTIONS; RESPONSES; COMPUTERS; AGENTS
+state estimation; classification; multiple-model filtering; hybrid  systems
+education; development; robotics
+educational robotics; human-robot interaction; social robots; robot  autonomy
+SHARED SCIENTIFIC THINKING
+human-robot interaction; social robots; humanoids; communication;  dialogue; common ground; knowledge estimation; mental models; gender
+KNOWLEDGE; OTHERS
+human-robot interaction; social robots; humanoids; perception; dialogue;  common ground; knowledge estimation; speech communication
+KNOWLEDGE; OTHERS; COMMUNICATION; ASSUMPTIONS; RESPONSES; COMPUTERS;  BEHAVIOR
+MODEL-PREDICTIVE CONTROL
+vision and recognition; mapping; distributed robots and systems; sensor  fusion
+robotics; social robots; human-robot interaction
+TRUST-MANAGEMENT; AUTHENTICATION
+languages; experimentation; probabilistic language; probability  distribution; sampling function; robotics
+search and rescue robot; hyper-redundant mechanism; snake robots;  mechatronics; user interface
+MANIPULATOR; TOOL
+CONSTRAINTS; ALGORITHM
+PHYSICS PROBLEMS
+human-robot interaction; informal learning; educational robotics
+robot kit; educational robotics; human-robot interaction
+collaborative learning; Cognitive Tutors; jigsaw design; spatial effects  on problem solving
+ontology; knowledge base; knowledge integration; theorem proving
+CHECKING; MODEL
+robotics; design; dynamics; football
+human-robot interaction; service robotics; robot planning
+RECOGNITION; INTERFACE
+NONLINEAR DIMENSIONALITY REDUCTION; MOBILE ROBOTS; LOCALIZATION;  TRACKING
+LOGIC
+LINEAR LOGIC
+FOUNDATION
+adversarial environments; robot soccer; multi-robot coordination
+communication; distributed execution; decentralized POMDP
+realtime path planning; multirobot navigation
+GENERALIZED VORONOI GRAPH; SENSOR-BASED EXPLORATION; LOCALIZATION; ROBOT
+EXPONENTIAL STABILIZATION; CHAINED SYSTEMS; MOBILE ROBOTS
+CONFIGURATION-SPACES; COORDINATION
+LOGIC
+multi-agent systems; multi-objective optimization; distributed computing
+OPTIMIZATION; SYSTEMS
+THEOREM-PROVING SYSTEM; TPS
+Bayesian networks; combining multiple expert beliefs; environmental  decision making; expert systems; reductive dechlorination
+COMBINING PROBABILITY-DISTRIBUTIONS
+multi-level information fusion; multi-agent systems; terrain analysis;  RETSINA; OTB
+FMRI
+SPEECH MOTOR CONTROL; MOVEMENTS; PERCEPTION; ACQUISITION; HEARING;  TONGUE; VOWELS; FACE
+software verification; component-oriented software development;  abstraction; compositional reasoning; executable design specifications
+SOFTWARE; VERIFICATION
+manipulator robot programming; prediction; continuous-density hidden  Markov model; structure estimation
+HIDDEN MARKOV-MODELS; SPEECH RECOGNITION; ORDER; AUTOMATA
+multirobot localization; cooperative localization; distributed sensing;  networks of robots
+EXPLORATION; NAVIGATION; ROBOTS; SPACE
+mobile robotics; mapping; SLAM; filters; Kalman filters; information  filters; multi-robot systems; robotics perception; robot learning
+BUILDING SLAM PROBLEM; MOBILE ROBOTS; ALGORITHM
+engineering education; computer application; information technology  (IT); curricula; computer software
+humanoid robots; joint trajectories; optimization
+learning from observation; movement primitives; imitation; locally  weighted learning; action recognition
+robotic mapping; mobile robots; perception; statistical techniques
+software engineering; formal methods; verification
+MODEL CHECKING; ABSTRACTION; SYSTEMS
+grasping; grasp synthesis; example-based grasping; enveloping grasps;  grasp quality; contact regions
+POLYGONAL OBJECTS; DEXTEROUS MANIPULATION; CONTACT; BODIES; MOBILITY;  PLANE; HANDS; GRIP
+A*; continual planning; heuristic search; heuristic search-based  planning; incremental search; lifelong planning; plan reuse; replanning;  symbolic STRIPS-style planning
+DYNAMIC ALGORITHMS; SHORTEST PATHS; GRAPHS; TREES; REUSE
+creativity; insight; problem solving; unconscious thought
+CREATIVITY; PERSPECTIVE; INNOVATION; MEMORY; HARD
+mobile commerce; comparative shopping; multi-agent intelligent system;  case-based reasoning; context-awareness
+SUPPORT-SYSTEMS; AGENTS; COORDINATION; ARCHITECTURE; MANAGEMENT
+man-machine systems; rehabilitation; robotics; wheelchairs
+DISABILITIES
+learning; problem solving; statistical analysis
+multiple objective programming; multiagent systems; combinatorial  optimization; metaheuristics
+EFFICIENCY
+agents; collaboration; computational synthesis; configuration design;  teams
+mobile robots; odometry; error propagation; calibration; position  estimation; localization; dead reckoning
+intelligent agents; utility theory; information retrieval; stochastic  modeling
+ELECTRONIC MARKETPLACES; CONJOINT-ANALYSIS; CHOICE BEHAVIOR; SEARCH  COSTS; E-COMMERCE; INFORMATION; CONSUMER; ONLINE; INTERNET; AGENTS
+medical robotics; spinal operation; bone-attached robot
+PEDICLE SCREWS; PLACEMENT; FIXATION; FUSION
+NAMO; navigation; manipulation; planning; motion; movable obstacles
+REARRANGEMENT
+TOPOLOGICAL MAPS
+sensor placement; cooperative sensors; distributed vision; automatic  surveillance
+ROBOT
+LOCALIZATION
+educational robotics; personal robotics; curriculum
+component; human-robot interaction; mobile robots; interfaces;  autonomous; semi-autonomous
+component; mobile robot teams; sensing; heterogeneous control
+humanoid robots; biologically inspired systems; biomechanics; hand; hand  surgery; anatomically-correct testbed
+FINGER; MOMENT
+survivable robot; robot design
+GENERALIZED VORONOI GRAPH; SENSOR-BASED EXPLORATION; TIME OBSTACLE  AVOIDANCE; MOBILE ROBOTS; CONSTRUCTION
+CONFIGURATION-SPACES
+multi-robot exploration; dynamic environments
+manipulation; flexible manipulation; sensor-based manipulation;  sensor-based diagnosis; nonholonomic manipulation; polydimethylsiloxane;  PDMS
+LINEAR MOTORS
+Ambient Intelligence; motion detection; power management
+MOBILITY
+ubiquitous computing; resource-aware; multifidelity applications;  service composition; resource allocation
+multirobot learning; distributed reinforcement learning; cooperative  robots
+ETPS; GRADER; education; teaching logic; proofs
+parallel robot; singularity; line geometry; CaPaMan
+STEWART PLATFORM; KINEMATIC ANALYSIS; REPRESENTATION
+non-stationary reinforcement learning; optimization; local search;  constraint programming
+OPTIMIZATION
+NANOPARTICLES
+control system; inertial sensing; medical robotics; microsurgery; tremor
+PHYSIOLOGICAL TREMOR; RETINAL VEIN; OCCLUSION
+coordination; feedback distortion; fingers; rehabilitation; robotics
+VISUAL FEEDBACK; THERAPY
+property based types; informal reasoning; ontology; semantics; problem  solving
+SURGERY
+MONKEY DOPAMINE NEURONS; RESPONSES; REWARD; PERFORMANCE; PREDICTION
+BACKWARD BLOCKING; INFANT IMITATION; YOUNG-CHILDREN; JUDGMENT;  KNOWLEDGE; INDUCTION; MEMORY; CATEGORIZATION; COVARIATION; MECHANISMS
+ACTIVE OFFICE
+multi-agent systems; optimization; distributed computing
+DESIGN
+collision avoidance; autonomous driving; short-range surround sensing;  optical flow; triangulation laser sensor; curb detection; LIDAR object  detection; sensor fusion; collision prediction
+ROAD
+interpretive case-based reasoning; engineering ethics; ethical  principles; operationalization; extensional definitions; analogy; A*  search; structural mapping
+AI and law; case-based reasoning; similarity assessment; modeling  argumentation; intelligent learning environments; intelligent tutoring  systems
+GUIDED RETRIEVAL; ARCHITECTURE
+web-operated robots; tele-presence in exhibitions; navigation  competences; remote visualization
+mobile robot; robot control; lanes; curvature; goal heading; local  heading; heading command; obstacle avoidance
+adaptive noise canceling; human performance augmentation; medical  robotics; microsurgery; tremor
+RETINAL VEIN OCCLUSION
+linear lambda calculus; term assignment systems; uniform provability
+LOGIC; FRAMEWORK; PROOFS
+collaborative control; human-robot interaction; mobile robots; remote  driving; vehicle teleoperation
+map building; 3D mapping; model simplification
+path planning; robust coverage; sensor based; demining; probabilistic  coverage
+MORSE DECOMPOSITIONS; ALGORITHM
+mobile robots; car-like robots; trajectory generation; curve generation;  nonholonomic; clothoid; cornu spiral; optimal control
+FORM
+modular robot; gas pipe; inspection; repair; pipe
+autonomy; robotics; water jetting; paint stripping; coatings removal;  ship maintenance
+exploration; mapping; mobile robots; sonar; ultrasonic sensors
+signal processing optimization; regression trees; decision trees;  reinforcement learning
+reinforcement learning; policy search; experiment design
+mobile robots; reward maximization; on-line modeling; collection tasks;  non-stationary environments
+BEHAVIOR
+open DSS; web-based DSS; semantic web; web services; meta system;  case-based reasoning; petri nets
+HYPERMEDIA; MULTIMEDIA; PROTOCOL; INTERNET; DESIGN; MODEL; WWW
+human-robot interaction; interaction aware robot; sociable robot; social  robot; socially interactive robot
+AUTONOMOUS ROBOTS; AGENTS
+collaborative control; dialogue; human-robot interaction; social robots;  vehicle teleoperation
+social robots; educational robot; human-robot interaction; personal  robot; step climbing
+biomimetic flying robots; compliant mechanisms; micromechatronics;  microrobots; stroke amplification
+DESIGN
+TOUR-GUIDE ROBOT; MOBILE ROBOTS
+DESIGN
+MODEL CHECKING; SYSTEMS
+design verification; decision procedures; Boolean satistiability;  theorem proving
+humanoid robotics; real-time vision; mimicking; imitation
+OBJECTS
+tele-nanorobotics; nanomanipulation; haptic interfaces; virtual reality;  nanomechanics
+ATOMIC-FORCE MICROSCOPE; CARBON NANOTUBES
+STUDENTS
+BODIES
+comparison; multirobot coordination; market approach; and TraderBots
+MANIPULATOR; ROBOTS
+biomimetic adhesives; pressure controlled dry adhesives; adhesion  forces; polymer micro/nano-fabrication; micro/nano-robotics;  nanoindentation; and nanomolding
+Herbrand's theorem; higher-order logic; TPS
+THEOREM-PROVING SYSTEM; QUANTIFICATION THEORY; TPS; RESOLUTION; PROOFS;  LOGIC
+model generation; natural language understanding; bounded optimality;  performance models
+multi-robot control; market economy; stochastic scheduling; distributed  three-layered architecture; Mars exploration
+teams of robots; robot soccer; multi-robot communication and  coordination
+planning; fMRI; spatial working memory; problem solving; Tower of  London; computational modeling; 4CAPS
+SPATIAL WORKING-MEMORY; POSITRON-EMISSION-TOMOGRAPHY;  INDIVIDUAL-DIFFERENCES; NEURAL SYSTEMS; BRAIN-FUNCTION; LOBE LESIONS;  TASK; ACTIVATION; CORTEX; ATTENTION
+DISCRETE-EVENT SIMULATION; MULTIAGENT SYSTEMS
+technology management; information technology; finance; business  systems; process control; lean manufacture
+formal methods; programmable security; authentication; process calculi
+AGENTS
+ubiquitous computing; autonomous agent; security
+AUTHENTICATION; ENCRYPTION
+MODEL CHECKING
+distributed robotics; mobility; modularity; snakes; trains
+ROBOTS
+collaborative; heterogeneous; modular; distributed; semi-autonomous;  sensor fusion
+ROBOTS; GRIDS
+Bayesian networks; DNA profile; forensic identification; incomplete  evidence; mutation; paternity testing
+BAYESIAN-ANALYSIS; IDENTIFICATION; PEDIGREES; MODEL
+mobile robot navigation; multi-robot coordination; path planning
+TIME
+e-commerce; decision theory; game theory; negotiation; multi-agent  systems; distributed AI
+SYSTEMS
+optimal control; reinforcement learning; variable resolution  discretization; adaptive mesh refinement
+VISCOSITY SOLUTIONS
+design; human factors; languages; end-user programming; psychology of  programming; empirical studies of programming; natural programming
+Mixed Integer Programming; Constraint Logic Programming; integration;  dynamic linear relaxations; reduced costs; inference; propagation;  variable subscripts; mixed global constraints
+CONSTRAINT
+MODES
+optimization; constraint programming; logic-based methods; artificial  intelligence
+BRANCH-AND-CUT; 0-1 OPTIMIZATION; ROOF DUALITY; SCHEDULING PROBLEMS;  ALGORITHMS; FRAMEWORK; DESIGN
+mobile robots; autonomous navigation; obstacle avoidance; visual  servoing; visual stair climbing
+agriculture; automation; GPS; image segmentation; mobile robots; vision  guidance
+IMAGES
+agricultural robots; position estimation; path tracking; sensor fusion;  obstacle detection
+reflectance spectroscopy; mineralogy; artificial intelligence; Bayes  nets; TETRAD; carbonates; mars
+focus of attention; head pose estimation; human-computer interaction;  meeting indexing; multimedia meeting record; multimodality
+CLASSIFIERS
+interoperability; multi-agent systems; matchmaking; capability  description
+autonomous robotrs; RoboCup; humanoid robots
+WORLD
+serotonin, dopamine; opponency, reinforcement learning; punishment;  reward, Solomon-Corbit; aversion
+NUCLEUS-ACCUMBENS DOPAMINE; PAVLOVIAN CONDITIONED INHIBITION; VENTRAL  TEGMENTAL AREA; MEDIAN RAPHE NUCLEI; DORSAL-RAPHE; EXTRACELLULAR  DOPAMINE; ASCENDING PROJECTIONS; D-AMPHETAMINE; REWARD; NEURONS
+service robot; social interaction; stand in line; personal space; people  detection
+satisfiability algorithms; primal-dual strategy
+SATISFIABILITY
+human skill modeling; performance optimization; human control strategy;  neural networks
+mixed integer programming; constraint logic programming; integration;  mixed global contraints; dynamic linear relaxations; inference
+multiagent learning; reinforcement learning; game theory
+REINFORCEMENT
+sensor-based coverage; Morse decompositions; Reeb graph
+ROBOT
+fMRI; working memory; problem-solving
+FUNCTIONAL-ORGANIZATION; FRONTAL-CORTEX; LONDON TASK; ACTIVATION; FMRI;  PARCELLATION; INFORMATION; PARIETAL; TOWER; PET
+mobile robots; multi-robot planning; autonomous navigation; unmanned  ground vehicles
+Tomasulo's algorithm; formal verification; model checking; theorem  proving; reference file; completion function
+LOGIC
+Pontryagin's maximum principle; time optimal trajectories; differential  drive robots; steered cars; Dubins; Reeds and Shepp; optimal control
+WHEELS; PATHS; ROBOT; CAR
+multiple knapsack; bicriteria; multiple heuristics; cooperation;  asynchronous teams
+BIN PACKING
+ALGORITHM
+multi-robot; distributed coverage; sensor based planning
+CAR TRACKING; SEQUENCE
+human-robot interaction
+MOBILE ROBOTS; NAVIGATION
+MOBILE ROBOTS
+UNKNOWN ENVIRONMENTS; SHORTEST PATHS; NAVIGATION; GRAPH; MAP;  EXPLORATION; TERRAINS
+motion planning; humanoid robots; dynamics; obstacle avoidance
+CONFIGURATION-SPACES
+robot catching; dynamical systems; trajectory generation; humanoid;  human-like; interactive robot behavior; biologically-inspired robotics
+MANIPULATION; MODEL
+ROBOT
+human-machine work systems; workload estimation; optimization; and  mitigation
+distributed; multi-robot; search and rescue; artificial immune systems
+tactile displays; tactile sensors; robotics; virtual reality;  teleoperation
+backpropagation; feedforward neural networks; stability; training
+STABILITY
+constraint-based scheduling; procedence constraint posting; project  scheduling
+NETWORKS; SATISFACTION; LAGS
+LINEAR LOGIC
+multi-robot; distributed coverage; sensor based planning
+distributed; robots; self-healing; mobile minefield; demining;  artificial immune systems
+multi-robot; collaborative tasks
+multi-robot coordination; robot architecture; task-level control
+COMMUNICATION; COOPERATION
+multi-robot adversarial environments; real-time autonomous robots
+intelligent buildings; intelligent agents; building controls; personal  control; human comfort; energy efficiency; facility management
+tele-presence; tele-science; e-learning; distance education;  human-computer interaction; space robotics; NASA; space exploration
+SLIDING-MODE CONTROL; NEURAL-NETWORK; FEEDFORWARD NETWORKS;  NONLINEAR-SYSTEMS; TRACKING CONTROL; ALGORITHM; ROBOT; IDENTIFICATION;  CONTROLLER; DESIGN
+real-time visual tracking; humanoid robots; mimicking; smooth pursuit
+legged locomotion; hexapod robot; tripod gait; spring loaded inverted  pendulum; (SLIP); hierarchical control; biomimesis; cockroach locomotion
+MECHANICAL MODELS; INSECT LOCOMOTION; HORIZONTAL PLANE; ROBOT;  STABILITY; DYNAMICS
+robotics; automated assembly; distributed systems; sensor-based control
+PLANAR LINEAR MOTORS; ROBOT; DESIGN
+automation; robotics; solubility determination; filtration; liquid  handling; sample processing
+DRUG; PERMEABILITY; ABSORPTION; VIVO
+mobile robots; multi-robot planning; autonomous navigation; unmanned  ground vehicles
+SYSTEM
+multirobot; exploration; rendezvous
+SEARCH; NAVIGATION; PLAYERS; LINE
+generalized Voronoi graph; retractions; rod-shaped robots; sensor-based  motion planning; Voronoi diagrams
+GENERALIZED VORONOI GRAPH; EXPLORATION; OBSTACLES; DIAGRAMS
+mobile robots; localization; position estimation; particle filters;  kernel density trees
+TOUR-GUIDE ROBOT; MARKOV LOCALIZATION; GUIDANCE; GRIDS
+mobile robotics; map acquisition; localization; robotic exploration;  multi-robot systems; three-dimensional modeling
+TOUR-GUIDE ROBOT; LOCALIZATION; GRIDS
+EXTERNAL MEMORY; REPRESENTATIONS; INFORMATION; SKILL; TASKS
+exploration; localization; mapping; mobile robots; motion planning;  tologoical maps; Voronoi diagrams
+GENERALIZED VORONOI GRAPH; SENSOR-BASED EXPLORATION; RETRACTION METHOD;  CONSTRUCTION; NAVIGATION; ROBOT
+active sensing; computational geometry; mobile robotics; motion  planning; visibility
+MOBILE INTRUDER; SPACE
+telerobotics; telepresence; robot manipulators; museum robotics;  Human-Computer Interaction; user-centered design
+distributed sensing; multi-robot coordination
+NAVIGATION
+robotic meteorite search; science autonomy
+VARIANCE
+WHEELS; PATHS; CAR
+coverage; mobile robots; cell decompositions
+NAVIGATION
+human robot interaction; mobile robots; remote driving; vehicle  teleoperation; ROV; RPV; UAV; UGV
+human robot interaction; mobile robots; multisensor displays; remote  driving; vehicle teleoperation
+modular robots; self-reconfiguration; metamorphic robots; collective  robotics; mechatronics
+INTELLIGENT
+MECHANICAL MODELS; INSECT LOCOMOTION; HORIZONTAL PLANE; MONOPED RUNNER;  STABILITY; DYNAMICS
+COMMUNICATION; COOPERATION; AGENT
+TREMOR
+TOWER; HANOI; TASK
+SLIDING-MODE CONTROL; NEURAL-NETWORK; NONLINEAR-SYSTEMS; FEEDFORWARD  NETWORKS; ADAPTIVE-CONTROL; TRACKING CONTROL; ALGORITHM; ROBOT;  IDENTIFICATION; CONTROLLER
+LEARNING ALGORITHM
+autonomous; mobile; robot; nanorobot; microrobot; minirobot; sensing;  remote sensing; teleoperation; proprioception
+MOBILE ROBOTS
+mobile robots; dead reckoning; odometry; position estimation; error  dynamics
+sensor fusion; vector field histogram; autonomous vehicles; mobile  robots
+OBSTACLE AVOIDANCE; MOBILE ROBOTS
+distributed robotics; free market architecture; cooperative stereo; 3-D  mapping; robot colony
+COMMUNICATION; COOPERATION; MARKET
+millimeter-wave radar; constant false alarm; evidence grids; robot  sensing; mobile robots; FMCW radar
+sensor fusion; Kalman filter; dead reckoning; autonomous vehicles;  mobile robots
+ERRORS
+microsurgery; accuracy; tremor; robotics
+microsurgery; accuracy; tremor; robotics
+fuzzy control; adaptive control; robotics; mechatronics
+INSTRUCTION
+OBSERVABLE MARKOV-PROCESSES; MOBILE ROBOTS; DYNAMIC ENVIRONMENTS;  LOCALIZATION; NAVIGATION; HORIZON
+vacuum cleaning; coverage; floor coverage; boustrophedon; cellular  decomposition; motion planning; complete; algorithm; mobile robot
+PATH
+base reaction force; center of mass space; disturbance minimization;  global optimization; path planning; redundant; space manipulator
+MANIPULATOR
+building design; case-based reasoning; derivational replay; design  environment; object-oriented database
+STRUCTURAL DESIGN
+shape grammars; expert systems; production systems; design
+GENERATION; LANGUAGE
+OBSERVABLE MARKOV-PROCESSES; MOBILE ROBOTS; DYNAMIC ENVIRONMENTS;  LOCALIZATION; NAVIGATION; RECOGNITION; HORIZON; MODELS
+mobile robots; localization; mosaicking; visual tracking; visual  odometry; image-based rendering; image registration; position  estimation; template matching
+POSE ESTIMATION; TRACKING; MOTION
+generalized disjunctive programming; mixed-integer nonlinear  programming; constraint logic programming; modeling language
+OPTIMIZATION; LOGIC; DESIGN
+impulsive manipulation; impact; robotic manipulation; motion planning;  feedback control
+RIGID-BODY COLLISIONS; DRY FRICTION; MOTION
+position estimation; computer vision; mobile robots; space robotics
+MOBILE ROBOTS; NAVIGATION; SYSTEMS; VISION; GRIDS
+gestures; human robot interaction; mobile robot navigation; service  robots; visual template matching; hidden markov models; neural networks
+TRACKING
+reinforcement learning; dynamic programming; optimal control; viscosity  solutions; finite difference and finite element methods;  Hamilton-Jacobi-Bellman equation
+HAMILTON-JACOBI EQUATIONS; CONTINUOUS-TIME
+optimal path planning; framed-quadtrees; outdoor mobile robots;  unstructured environments
+ALGORITHM
+COMPLEMENTARY LEARNING-SYSTEMS; MODEL; HIPPOCAMPUS; PERCEPTION;  NEOCORTEX; ACCOUNT; MEMORY
+mixed integer programming; constraint logic programming; hybrid MIP/CLP
+machine learning; evolutionary computation; genetic programming; signal  understanding; internal reinforcement; neural programming; bucket  brigade
+Bayesian networks; medical diagnosis; combining risk factors; leaky  noisy-OR nodes
+PROBABILISTIC DIAGNOSIS
+spidering; crawling; reinforcement learning; information extraction;  hidden Markov models; text classification; naive Bayes;  expectation-maximization; unlabeled data
+MODEL; INFORMATION; CONSTRUCTION
+multi-robot systems; heterogeneity; behavioral diversity
+MULTIAGENT
+collaborative; heterogeneous; modular; distributed; semi-autonomous
+LOCALIZATION
+mobile robots; localization; multi-robot systems; uncertainty
+MOBILE ROBOTS; NAVIGATION
+multiagent systems; machine learning; survey; robotics; intelligent  agents; robotic soccer; pursuit domain; homogeneous agents;  heterogeneous agents; communicating agents
+COMMUNICATION; ROBOTICS; TEAMWORK; SOCCER; AGENTS; ROLES; AI
+web-based robotics; autonomous mobile robots; reliable indoor navigation
+ROBOT
+reinforcement learning; multi-agent system; profit-sharing; conflict  resolution
+information extraction; machine learning; World Wide Web; knowledge  bases; web spider; text classification; relational learning
+CHALLENGE
+robotics; manipulation; mechanics; planning; minimalism; automation;  manufacturing; parts feeding
+PASSIVE JOINTS; DRY FRICTION; MANIPULATOR; DESIGN; MOTION;  CONTROLLABILITY; ALGORITHM; MECHANICS; SENSORS
+autonomous mobile robots; web-based control; telepresence
+TELEOPERATION
+CONCEPTUAL DESIGN; ISSUES
+linear logic; theorem proving; logic programming
+sensor-based exploration; skeletons; roadmap; Voronoi diagrams; motion  planning
+RETRACTION METHOD; NAVIGATION; ROBOT
+cables used for robots; electric conductors; in situ-formed metallic  fiber-reinforced copper matrix composites; elastic limit; durability
+CU-CR; STRENGTH
+JUDGMENTS
+MOBILE ROBOTS
+visual servoing; mobile robots; omni-directional cameras
+mobile robots; real-time decision making; reactive motion control;  multiple collaborating and competing agents
+VISION
+GENERATION; LANGUAGE
+PROOFS; LOGIC
+self-reconfiguration; metamorphic robots; path planning
+ROBOTS; MOTION
+MOBILE
+robots; gas; electricity
+COOPERATION; ROBOTS
+reinforcement learning; distributed system; mobile robot; traffic  control
+HIDDEN
+self-reconfiguration; modular robots; reconfiguration planning;  mechatronics; collective robotics
+OBSTACLE AVOIDANCE
+MOBILE
+lower bounds; randomized algorithms; k-server; task systems; on-line  algorithms; competitive analysis
+ONLINE ALGORITHMS; K-SERVER
+student modeling; adaptivity; intelligent tutoring systems; mastery  learning; empirical validation
+ACQUISITION; SYSTEM
+capacitated vehicle routing; capacitated delivery; maximum latency  problem; matroid intersection; approximation algorithms; traveling  salesperson problem; NP-hard
+TRAVELING SALESMAN PROBLEM; HEURISTICS
+RoboCup; grand challenge; simulation league; real robot small-size  league; real robot middle-size league
+SOCCER
+multi-agent systems; flexible teamwork; multi-agent communication;  robotic soccer
+ROBOTIC SOCCER; ROBOCUP
+classification; discrimination; detection; feature extraction; k nearest  neighbor classifier (modified); nonlinear features; product inspection;  X-ray sensors
+X-RAY IMAGES; MACHINE RECOGNITION; POSE ESTIMATION; CLASSIFICATION;  REPRESENTATION; DAMAGE
+PLANAR LINEAR MOTORS; PLATE
+NAVIGATION
+ROBOTS; MOTION
+MODEL; AUTHENTICATION
+ROBOCUP
+VISION
+ROBOCUP; SOCCER
+multiagent robotic systems; cooperation; diversity
+modular robots; self-reconfiguration; collective robotics
+modularity; distributed robotics; robot collaboration; mapping;  occupancy grid method
+MOBILE ROBOT; SYSTEM; LOCALIZATION; DESIGN
+robotics; multi-agent collaboration; reconnaissance; surveillance
+TOTAL HIP-ARTHROPLASTY; DISLOCATION; REPLACEMENT; REOPERATION
+crawlers; robots; spiders; Web automation; Web searching; Java; end-user  programming; mobile code
+laser radar; ladar; laser scanner; imaging; inspection tasks; mobile  robots
+computer-aided engineering; intelligent assistants; artificial  intelligence
+continuous planning; robotic agents; execution monitoring; replanning
+cognitive modeling; GOMS; intelligent tutoring; intelligent agents
+sensor based planning; exploration; Voronoi diagrams; mapping; mobile  robot; control law; honing
+Antarctica; GPR; robotic explorers; meteorite search
+Bayes networks; spectroscopy; pattern classification; computer vision;  meteorites; autonomous science; sensor scheduling
+RABBIT FOLLOWING STIMULATION; LONG-LASTING POTENTIATION; SYNAPTIC  TRANSMISSION; PERFORANT PATH; DENTATE AREA; HIPPOCAMPUS; AMNESIA;  MODELS; SLEEP
+COMPREHENSION
+SYSTEM
+WORD-PROBLEMS
+ICE
+sound signature; pattern recognition; frequency analysis; principal  components
+neural networks; parameter tuning; stochastic validation; mobile robot  positioning
+factory automation; precision assembly; product life cycle; modular  factory; automated manufacturing; flexible manufacturing; minifactory;  agility
+SYSTEM
+automated highways; mobile robots
+WORD-PROBLEMS
+procedural skill optimization; learning in dynamic task environments;  cognitive models of problem solving
+autonomous mobile robots; instrumental learning; operant conditioning;  reinforcement learning; shaping
+cooperative mobile robots; social behavior; reinforcement learning;  intelligence
+A-teams; agent; asynchronous; autonomous; collaboration; constraint;  cooperation; nonlinear; optimization; specialized
+probabilistic networks; path analysis; artificial intelligence
+ACCELERATION; GENERATION; CHALLENGE
+Intelligent Tutoring System; adaptive worked examples; assistance;  self-explanation
+EFFICIENCY
+dielectric elastomer actuator; soft robotics; flexible electronics
+GALLIUM-INDIUM EGAIN; LARGE-AREA; SENSOR
+building occupancy; ambient vibration; sparse sensing; localization;  tracking; event detection; anomaly detection
+High-assurance control; sensor fusion; robotics; software verification;  program generation
+SIGNAL-PROCESSING THEORY; ALGORITHMS; TRANSFORMS
+collaborative interactions; learning; computational linguistics;  Coh-Metrix
+COH-METRIX; LANGUAGE; TEXT; COHESION; DIALOGUE; WORDS
+Problem solving; collaborative learning; intelligent tutoring system
+MATHEMATICS; STUDENTS
+assistance dilemma; classroom studies; empirical studies worked  examples; erroneous examples; tutored problems to solve; problem solving
+WORKED EXAMPLES; TUTORS
+Problem solving; collaborative learning; intelligent tutoring system;  authoring tools
+Complex Adaptive Systems; Agents; Educational Data Mining
+collective cognition; social information processing; distributed  cognition; team cognition; social simulation; group performance;  cognitive modeling; cognitive architecture; ACT-R
+MEMORY; INTELLIGENCE; SIMULATION; SOAR; MIND
+human-robot interaction; neglect tolerance model; scheduling;  task-switching
+AUTOMATION
+snake robot; modal decomposition; gait; visual target tracking
+LOCOMOTION; GAIT
+Snake Robots; Compliant Control; State Estimation
+LOCOMOTION; MANIPULATOR; KINEMATICS; JOINT
+Artificial intelligence; conference
+RoboCup; Small-Size League (SSL); Rapidly-exploring Random Trees (RRT);  Safe navigation
+Rehabilitation; Residential buildings; Construction management; Decision  support systems; Expert systems; Energy retrofit; Housing; Residential  building construction; Quantitative information; Expert knowledge;  Intelligent decision support system; Expert system; Information  technologies
+KNOWLEDGE
+Internet of Things; pervasive computing; smart cities; smartphones;  wearable computing
+Innovation adoption; Electronic health records; Clinical decision  support system; Social network analysis; Usability assessments; Clinical  workflow; User interface design
+ELECTRONIC HEALTH RECORDS; PHYSICIAN ORDER ENTRY;  INFORMATION-TECHNOLOGY; PERCEIVED USEFULNESS; CARE; EXTENSION; BEHAVIOR;  ADOPTION; QUALITY; IMPACT
+language-universal feature extraction; deep maxout networks; deep  convolutional networks
+Deep neural networks; distributed learning; automatic speech recognition
+SPEECH RECOGNITION
+deep neural network; distributed optimization
+FORCE CONTROL; GENERATION; MOTION
+MANIPULATION; CLASSIFICATION; DESIGN; HANDS
+NERVOUS-SYSTEM; WALKING; PERTURBATIONS; LOCOMOTION; RECOVERY; NOISE
+INTERFACE
+DISPLAY
+ATTRIBUTION; PERCEPTION
+AUTOMATION
+image segmentation; deep learning; multi-task learning
+FACE DETECTION
+Activity Recognition; Deep Learning; Convolutional Neural Network
+Activity Recognition; Deep Learning; Convolutional Neural Network
+statics; cognitive tutor; feedback; truss
+SKILL
+MANIPULATORS
+Motion Planning; Manipulation Planning; Planning Algorithms; Heuristic  Search
+FILTERS
+CAPTURABILITY-BASED ANALYSIS; LEGGED LOCOMOTION; FORCES
+NAVIGATION
+DESIGN
+ROBOTIC MANIPULATORS
+AUTOMATION
+ANIMAL GROUPS
+Deep neural networks; speaker adaptive training; speech recognition
+spoken language understanding (SLU); relation detection; semantic  knowledge graph; entity embeddings; spoken dialogue systems (SDS)
+Kaldi; spoken term detection; keyword search; speech recognition; deep  neural networks; pitch; IARPA BABEL; OpenKWS
+MODELS
+Self-adaptive systems; Diagnostics; Monitoring
+FAULT LOCALIZATION
+Proactive adaptation; Stochastic multiplayer games; Latency
+PICKUP
+COGNITIVE-ABILITY; GOAL ORIENTATION; PROBLEM CONSTRUCTION; PERSONALITY;  ADAPTATION; DIFFICULTY; TERMS; HARD; LOAD
+Localization; navigation; long-term autonomy; indoor mobile robots;  autonomous robots
+FILTERS; SLAM
+Soft robotics; pneumatic actuation; simulation; inflation; friction
+LOCOMOTION; LITHOGRAPHY; ACTUATORS; ADHESION
+Rigidity tunable composite; Joule heating; Phase change; Low  melting-point alloy; Shape memory polymer; Latent heat accumulation
+ENERGY-INTEGRAL METHOD; PHASE-CHANGE; DIFFUSION EQUATION;  HEAT-CONDUCTION; ENTHALPY METHOD
+multi-robot coordination; task allocation; taxonomy
+GENERALIZED ASSIGNMENT PROBLEM; BRANCH-AND-PRICE; COALITION-FORMATION;  COORDINATION; ARCHITECTURE; CONSTRAINTS; PRECEDENCE; ALGORITHM
+Control theory; legged locomotion; nonlinear dynamical systems;  robustness
+SWING-LEG RETRACTION; HORIZONTAL PLANE; MECHANICAL MODELS; INSECT  LOCOMOTION; 3 DIMENSIONS; STABILITY; DYNAMICS; SPEED; ROBOT
+Capsule endoscopy; localization; magnetic microrobot; soft robotics
+Kinodynamic path planning; robotic manipulators; sampling-based path  planning; visual servoing
+DIFFERENTIAL-DRIVE VEHICLES; OF-VIEW CONSTRAINTS; IMAGE-BASED CONTROL;  MOBILE ROBOTS; MANIPULATORS; VISIBILITY; NAVIGATION; SYSTEMS; ERRORS;  POSE
+Cognitive architectures; ACT-R; Leabra; Metacognition; Expectations;  Cognitive robotics
+NASA; Planetary analogs; Intelligent Robotics Group; Robotic Field Test;  Desert Research and Technology Studies; Ground Data Systems; Gigapan  Voyage; VERVE
+MONTE-CARLO LOCALIZATION; PARTICLE FILTER; KALMAN FILTERS; MOBILE  ROBOTS; VISION; FEATURES; SYSTEM; SOCCER
+Reinforcement learning; learning control; robot; survey
+REAL ROBOT; OPERATIONAL SPACE; POLICY GRADIENT; BEHAVIOR; TIME;  ACQUISITION; PERCEPTION; LOCOMOTION; NAVIGATION; SYSTEMS
+Balancing mobile robots; underactuated systems; dynamics and control;  shape trajectory planning
+UNDERACTUATED MECHANICAL SYSTEMS; NONHOLONOMIC CONSTRAINTS; OUTPUT  TRACKING; OPTIMIZATION; COLLOCATION
+GPU; Swarm intelligence; Data clustering; CUDA
+Underactuated systems; balancing mobile robots; dynamics and control;  integrated motion planning and control
+COORDINATION; MOVEMENTS; SYSTEMS; BODIES
+Motion planning; constrained optimization; distance fields
+PROBABILISTIC ROADMAPS; DISTANCE; SEARCH; MANIPULATORS; LOCOMOTION;  ALGORITHMS; TERRAIN
+Bandit problems; Networks; Reinforcement learning; Simulating annealing;  Epsilon greedy
+MULTIARMED BANDIT PROBLEM; STRATEGIC EXPERIMENTATION;  INDIVIDUAL-DIFFERENCES; MODELS; GAMES
+Capsule endoscope; drug delivery; magnetic micro-robot; medical robotics
+ENDOSCOPE; SYSTEM; TRACT
+Collaborative learning; intelligent agents; psychology
+COLLABORATION SCRIPTS
+Digital fabrication; terahertz; THz; imaging; sensing; data; encoding;  3D printer; laser cutter; materials
+IDENTIFICATION; SPECTROSCOPY; TECHNOLOGY; RADIATION; SYSTEMS; TAGS
+calibration; model identification; wheeled mobile robots; odometry;  stochastic process
+MOBILE ROBOTS; ODOMETRY ERRORS; CALIBRATION; LOCALIZATION; VALIDATION;  TERRAIN; SYSTEM
+teleoperation; shared control; sliding autonomy; intent prediction;  arbitration; human-robot collaboration
+TELEOPERATION; INTERFACE; SYSTEMS
+FIELD
+Dexterous manipulation; medical robots and systems; micro/nanorobots;  motion control; vision-based control
+ROBOTIC SURGERY; MICRO-SURGERY; TRACKING
+Sample complexity; Markov decision processes; Reinforcement learning;  Learning theory
+MULTIARMED BANDIT
+aerial robots; swarms; vector fields
+UAV; GENERATION; ALGORITHMS; VEHICLES; PATTERNS; SYSTEMS; MOTION; FIELDS
+Developmental robotics; gaze following; head pose estimation; joint  visual attention; saliency; selective attention
+VISUAL-ATTENTION; HEAD POSE; SHARED ATTENTION; MODEL; EYE; COORDINATION;  IMITATION; CUES; MOVEMENTS; OBJECTS
+PSYCHOLOGICAL STRESS; ACHIEVEMENT GAP; INTELLECTUAL-PERFORMANCE;  STEREOTYPE THREAT; WORKING-MEMORY; RESPONSES; INSIGHT; FLEXIBILITY;  DISCOVERY; AROUSAL
+Interior modeling; 3D modeling; Scan to BIM; Lidar object recognition;  Wall analysis; Opening detection
+MOBILE ROBOTS; RANGE IMAGES; RECONSTRUCTION; ENVIRONMENTS; INDOOR; MAPS
+reconfigurable micro-robots; inter-module interactions; remotely  reversible magnetic moment; addressability; micro self-assembly
+LATERAL CAPILLARY FORCES; MICROROBOTS; DIMENSIONS; SYSTEMS
+micro; nano robots; mechanics; design and control; motion control;  dynamics
+MICRO-ROBOTS; PROPULSION; SYSTEM; MRI; GRADIENTS; CELLS
+Flapping wing; passive wing pitch reversal; simulation and design tool;  wing lift force modulation
+PIEZOELECTRIC BENDING ACTUATORS; FLYING INSECT THORAX; FLIGHT CONTROL;  AERODYNAMICS; LIFT
+Collaborative learning tools; intelligent tutoring systems; authoring  tools
+Collaborative network processing; consensus plus innovations;  distributed Q-learning; mixed time-scale dynamics; multi-agent  stochastic control; reinforcement learning
+CONVERGENCE-RATE; SENSOR NETWORKS; LINK FAILURES; ALGORITHMS;  OPTIMIZATION; COORDINATION; AGENTS
+Distributed robot systems; motion control; smoothed particle  hydrodynamics (SPH); swarm robotics
+ROBOT NAVIGATION; OBSTACLE AVOIDANCE; MULTIPLE ROBOTS; MOBILE ROBOTS;  GENERATION; MODELS; FIELD
+Causal entropy; correlated equilibrium (CE); directed information;  inverse optimal control; inverse reinforcement learning; maximum  entropy; statistical estimation
+CORRELATED EQUILIBRIUM; INFORMATION-THEORY; STATISTICAL MECHANICS;  RANDOM-FIELDS; COMMUNICATION
+REAL-TIME; PROJECT
+Partnership formation; dynamic team formation; evolutionary learning
+TASK ALLOCATION; COALITION-FORMATION; ROBOTS; BEHAVIORS; ALGORITHM;  SYSTEMS; SWARM; TEAM
+High School/Introductory Chemistry; Curriculum;  Interdisciplinary/Multidisciplinary; Laboratory Instruction; Hands-On  Learning/Manipulatives; Inquiry-Based/Discovery Learning; Problem  Solving/Decision Making; Oxidation/Reduction; Green Chemistry; UV-Vis  Spectroscopy
+IONIZATION MASS-SPECTROMETRY; CHEMISTRY; DESTRUCTION; INQUIRY;  DEGRADATION; PRODUCTS; BROMIDE
+Active tail; climbing robot; directional compliant joint; flat elastomer  adhesive; overcoming obstacle; transition
+ADHESION; WAALBOT; DESIGN
+Spectral graph matching; Correspondence problem; Approximation algorithm
+REWEIGHTED RANDOM-WALKS; GLOBAL LOCALIZATION; MOBILE ROBOTS;  REGISTRATION; ALGORITHM
+Semantic Web; Multi-Robot Interaction; Context-Awareness; Task  Transparency; Robot Behaviour
+SYSTEM
+Self-assessment; study choice; intelligent tutoring system; open learner  model; user-centered design; classroom evaluations
+FMRI; COGNITION; HANOI; BRAIN; TOWER
+BIPEDAL LOCOMOTION
+GENERATION
+STABILITY
+COMPLEXITY
+LOCOMOTION; DIMENSIONS; SURFACES; SYSTEMS; DESIGN; ROBOTS
+ROBOTS
+LOCOMOTION
+Sensor network; Data collection; Path planning
+APPROXIMATION ALGORITHMS; TSP; NEIGHBORHOODS
+SYSTEM
+SYSTEM
+COORDINATION
+WALKING; OPTIMIZATION; SPEED
+LANGUAGE
+LOCOMOTION; MANIPULATOR; KINEMATICS
+SIMULATIONS
+ROBOTS; LOCOMOTION; TERRAIN
+UNDERACTUATED MECHANICAL SYSTEMS; ROBOTIC LOCOMOTION
+Deep Neural Networks; Multi-Lingual Acoustic Modeling; Large-Vocabulary  Speech Recognition; Low-Resource Acoustic Modeling
+NEURAL-NETWORKS
+Deep maxout networks; speech recognition; low-resource conditions; deep  learning
+MODEL
+CANINE; TARDEC; autonomous; search; retrieve; perimeter; surveillance;  mine
+mobile-enabled systems; mobile systems; mobile computing; software  engineering; software architecture; systems architecture; BYOD; cloud  computing; pervasive computing; ubiquitous computing
+GOSSIP ALGORITHMS
+tremor; accuracy; microsurgery; physiological tremor; medical robotics;  smart instruments
+EYE; FREQUENCY; MOVEMENTS; ACCURACY; SURGEONS
+medical robotics; controls; path tracking; needle steering
+STEERABLE NEEDLES; ROBOT
+HARMFUL ALGAL BLOOMS
+COORDINATION; APPROXIMATION
+TASK ALLOCATION
+TEAM ORIENTEERING PROBLEM; TRAVELING SALESMAN PROBLEM; SOLVE
+Bottleneck features; Deep learning; Auto-encoders
+Linear Logic Programming; Narrative Modelling; Celf
+FAULTS
+neural network; neuroevolution; NEAT; evolution; CMA-NeuroES
+NEURAL-NETWORKS; EVOLUTION; GAITS
+information technology; information and communications technologies;  mobile sensors; energy efficiency of computing; energy harvesting;  energy storage; microelectromechanical systems (MEMS)
+LIFE-CYCLE ASSESSMENT; CARBON-NANOTUBE TRANSISTORS; POWERING TOMORROWS  SENSOR; GREENHOUSE-GAS EMISSIONS; INFORMATION TECHNOLOGY; PERSONAL  COMPUTERS; NETWORK EQUIPMENT; ENERGY; PERFORMANCE; CONSUMPTION
+educational robotics; interdisciplinary curricula; professional  development; STEAM
+PASSIVE-DYNAMIC WALKING; ENERGY; ROBOT; FOOT; GAIT; REHABILITATION;  EXOSKELETON; PROSTHESIS; ENERGETICS; FREQUENCY
+Self-monitoring; Cognitive Robotics; Cognitive Architectures
+structure light; 3D sensor; eye safety
+Semantic labeling; scene understanding; unmanned vehicles; computer  vision
+execution memory; shared memory; human-robot interaction
+AUTOMATION; RELIANCE; MISUSE; DISUSE
+Communication; dialogue; assistive robots; social robot; human-robot  interaction; politeness; mixed-method
+DISCOURSE MARKERS
+human-robot collaboration; motion planning; trajectory optimization;  formalism; manipulation; action interpretation
+GOAL-DIRECTED ACTION; ARM; COORDINATION; OBJECT; REACH
+human-robot dialogue; ethnicity; homophily
+discovery learning; direct instruction; instructional guidance;  explanation; worked-examples
+ANIMATED PEDAGOGICAL AGENTS; INTRINSIC COGNITIVE LOAD; PROBLEM-SOLVING  SKILLS; WORKED-OUT EXAMPLES; SELF-EXPLANATIONS; PROCEDURAL KNOWLEDGE;  MULTIDIGIT ADDITION; MINIMAL GUIDANCE; DISCOVERY; EXPERTISE
+Haptic interaction; collaboration; intention; action plan; decision  making; effort; performance; tracking task
+VIRTUAL-REALITY; FORCE FEEDBACK; PERFORMANCE; ROBOT; REHABILITATION;  COLLABORATION; TELEOPERATOR
+Control systems; Robots; Trajectories; Tracking; Autonomous industrial  robotics; Control industrial robotics; Automated guided vehicles;  Industrial robotics
+ENVIRONMENTS
+Service provision; ubiquitous computing; context-awareness; user  interaction modalities
+ONTOLOGY
+MARKOV DECISION-PROCESSES; COMPLEXITY
+Intelligent tutoring systems; Learning strategies; Interactive learning  environments; Architectures for educational technology system
+COGNITIVE EVALUATION THEORY; INTRINSIC MOTIVATION; DISCOVERY;  INSTRUCTION; FLEXIBILITY; ASSISTANCE; EFFICIENCY; CLASSROOM; FAILURE;  CHOICE
+3-DIMENSIONAL LADAR DATA; DATA SET; URBAN CHALLENGE; TRACKING;  ENVIRONMENTS; ALGORITHMS; PEOPLE
+Acoustic Modeling; Deep Belief Networks; Deep Bottleneck Features; Large  Vocabulary Speech Recognition
+Dropout; deep neural networks; multilingual learning; speech recognition
+Mobile Sensor Networks; Micro-Aerial Vehicle; Swarm
+ROBOTS
+Facial Expression Recognition; Mobile Health; Technologies for  Psychiatry; Human Computer Interaction
+EXPRESSION RECOGNITION; PSYCHOTHERAPY
+Multi-agent stochastic control; distributed Q-learning; reinforcement  learning; collaborative network processing; consensus plus innovations;  distributed stochastic approximation
+emotion recognition; voice and speech analysis; interaction design;  well-being
+non-convex and nonlinear optimization; travelling salesman problem with  neighbourhoods; spatial branch-and-bound
+APPROXIMATION ALGORITHMS
+INTRAPARIETAL SULCUS; COGNITIVE CONTROL; DEFAULT NETWORK; PARIETAL  CORTEX; FRONTAL-CORTEX; REPRESENTATION; NUMBER; VISUALIZATION;  ORGANIZATION; ARCHITECTURE
+Bucket-wheel; ISRU; Scale; Excavation; Soil motion; Soil preparation;  Optical flow
+CUTTING BLADES; PERFORMANCE; MECHANICS; PRESSURE; REGOLITH; FAILURE;  MODELS
+S. marcescens; Micro-robotics; Chemotaxis; Bacterial propulsion
+MICROROBOTS; CARPETS; SYSTEMS; ROBOTS
+gaits; gait regulation; gait transitions; planning; control; topology;  legged locomotion; climbing robot
+CENTRAL PATTERN GENERATORS; COUPLED OSCILLATORS; STABILITY ANALYSIS;  ROBOT; LOCOMOTION; SYSTEMS; MODEL; WALKING; SYNCHRONIZATION;  ENVIRONMENTS
+motion planning; trajectory optimization; dimensionality reduction;  dynamic programming
+CONFIGURATION-SPACES; ROUGH TERRAIN
+INSECT LOCOMOTION; HORIZONTAL PLANE; MECHANICAL MODELS; STIFFNESS;  DYNAMICS; ADJUSTMENTS; ACTUATORS; SURFACES; SPRINGS; WALKING
+Incremental learning; reinforcement learning; sparse Bayesian modeling;  statistical dialog modeling; value function approximation
+multi-vxoxel pattern recognition; algebra problem solving; intelligent  tutoring system; hidden markov models
+BRAIN ACTIVITY; FMRI; CORTEX; MANIPULATION; ACTIVATION; CINGULATE;  PATTERNS
+Intelligent tutoring systems; Pen input; Handwriting recognition;  Mathematics; Cognitive tutors; Interaction design; Human-computer  interaction; Educational technology
+WORKED EXAMPLES; RECOGNITION; INPUT; USABILITY; CHILDREN; SUPPORT;  DIALOG; SYSTEM; ENTRY
+Robot learning; Mobile robots; Demonstration learning; Motion control
+Learning from human demonstration; Complementary corrective  demonstration; Multi-resolution task execution
+Mapping; mobile and distributed robotics SLAM; range sensing; sensing  and perception computer vision; animation and simulation; simulation;  interfaces and virtual reality; field robots; field and service robotics
+LADAR DATA; LASER; CLASSIFICATION; PERFORMANCE; SYSTEM
+CONTRACT; Norms; Monitoring; BDI; ATN
+Configuration space; connectivity; free space; path planning
+Capsule endoscopy; drug delivery; magnetic actuation; medical robotics;  soft robotics
+MATTER
+Cognitive architecture principles; Cognitive Robotics; Requirements for  cognitive robotics
+Manipulation among movable obstacles; Manipulation under uncertainty;  Non-prehensile manipulation; Pushing
+MOTION; REARRANGEMENT; MECHANICS; OBJECTS; ROBOT
+Robot path planning; Topological constraints; Graph search; Homotopy;  Homology
+MULTIROBOT COORDINATION; MULTIAGENT SYSTEMS; TASK ALLOCATION; AGENT  TEAMS; ENVIRONMENTS; COVERAGE; TEAMWORK; COLLABORATION; COMMUNICATION;  ARCHITECTURE
+Nonholonomic motion planning; mobile and distributed robotics SLAM;  motion control; mechanics; design and control; adaptive control
+PROBABILISTIC ROADMAP PLANNERS; MATHEMATICAL-THEORY; PRM; COMMUNICATION;  EXPLORATION; INFORMATION; MODELS
+Aerial robotics; sensing and perception; computer vision; motion  planning
+MOBILE ROBOT LOCALIZATION; HELICOPTER; SPACES; EXPLORATION; NAVIGATION;  LANDMARKS; TRACKING; VISION; MOTION; SLAM
+Distributed robot systems; multirobot coordination; networked robots;  path planning for multiple mobile robot systems; robotic search
+NETWORKS; ROBOTS; SLAM
+Human-robot interaction; mobile manipulation; motion planning;  perception; personal robotics; trajectory optimization
+ENVIRONMENTS; ROBOTS
+Data fusion; Artificial intelligence; Automated planning; Information  management; Algorithms; Productivity; Construction; Planning
+FORMALISM; SYSTEM; MODEL
+Compilation; Abstract Logic Programming; Hereditary Harrop Formulas;  Well-Moded Logic Programs
+FOUNDATION
+Declarative Networking; Correctness; Logic Programming; Distributed  Datalog
+Flapping wing flight; miniature aerial robots; bio-inspired robots;  scaling analysis; design optimization
+HOVERING INSECT FLIGHT; AERODYNAMICS; LIFT; MECHANISMS; ROTATION
+Robot safety; Safety assessment; Motion planning
+SEQUENTIAL MONTE-CARLO; REFLECTIVE NAVIGATION; VELOCITY OBSTACLES;  MOTION
+Semantic Web; Policies; Norms; Conflict resolution; Multi-agent systems
+NORMATIVE CONFLICT; SYSTEMS
+Human-robot interaction; Asking for help; User studies
+Self-assembly; morphology; magnetism; embodiment; autonomous distributed  system
+MACHINES; ROBOTICS; OBJECTS
+Human-robot interaction; User study; Asking for help; Planning
+ROBOT
+gecko-inspired materials; dry adhesion; micromanipulation; soft  robotics; elastomeric stamps
+MICRO-FIBER ARRAYS; DRY ADHESIVE; FOOT-HAIR; FIBRILLAR ADHESIVES;  REVERSIBLE ADHESION; POLYMER NANOHAIRS; WET ADHESION; MECHANICS;  SURFACES; CONTACT
+Problem solving; Multi-voxel pattern analysis; Hidden Markov Models;  Intelligent tutoring systems; Model discovery
+BRAIN ACTIVITY; CORTEX; EDUCATION
+Functional magnetic resonance imaging; Hidden Markov Models; Multivoxel  pattern matching; Problem solving; Statistical methods
+SPATIAL MEMORY; HYPOTHESIS; STREAM; CORTEX
+Topology; SLAM; localization; Bayesian filtering; mapping
+TOPOLOGICAL SLAM; MOBILE ROBOTS; MODEL
+Pre-grasp interaction; Object manipulation; Humanoid robotics; Pushing;  Sliding
+INVERSE KINEMATICS; RECOGNITION
+Distributed robot systems; micro/nanorobots; parallel robots
+PROPULSION; SYSTEMS
+Capsule endoscopy; magnetic actuation; medical robotics; miniature  robotics; soft robotics
+MANIPULATION; FABRICATION
+Compensation; medical robotics; optical tracking; piezoelectric devices
+INTERNAL MODEL CONTROL; PHYSIOLOGICAL TREMOR; RETINAL MICROSURGERY;  ROBOTIC SURGERY; SURGICAL SYSTEM; PERFORMANCE; FEEDBACK; FORCE;  MANIPULATOR; DESIGN
+BRAIN-COMPUTER-INTERFACE; VIRTUAL ENVIRONMENT; EEG; COMMUNICATION;  SYSTEM; POTENTIALS; WHEELCHAIR; NAVIGATION; APARTMENT; WORLDS
+AI reasoning methods; cognitive robotics; mobile and distributed  robotics; nonholonomic motion planning; path planning for manipulators;  SLAM
+MOBILE ROBOTS; ENVIRONMENTS; GENERATION; OBSTACLES; ROADMAPS; CAR
+Dynamics approximation; Kinematics approximation; Robotic locomotion;  Nonholonomic constraints
+UNDERACTUATED MECHANICAL SYSTEMS; RIGID BODIES; MOTION; CONTROLLABILITY;  MANIPULATORS; ROBOT
+Knowledge representation; Semantic Web; Ontological reasoning; Logic  Programming; Multi-agent systems
+LOGIC; OWL
+LOCOMOTION; WALKING
+tree pruning; SLAM with kinect; agricultural robotics
+Snake robots; USAR; Canine delivery; marsupial robotics
+snake robot; kinesthetic input; search and rescue; parameterized  trajectories; failure detection
+POWER-SYSTEMS; MARKOV-CHAINS; FREQUENCY; LOADS
+DESIGN
+human-swarm interaction; bandwidth limitation
+PLANETARY EXPLORATION ROVERS
+NAVIGATION SYSTEMS; EXECUTION
+AUTOMATION; MECHANISMS
+PRIMITIVES; GENERATION
+MECHANISMS
+HUMAN-ROBOT INTERACTION
+Humanoid robots; push recovery; convex optimization
+OPTIMIZATION; SYSTEMS; SQUARES; SUM
+TASK ALLOCATION
+medical robotics; control; surgical simulation; finite element analysis;  needle steering; design optimization
+SOFT-TISSUE
+Differential dynamic logic; Distributed hybrid systems; Axiomatization;  Theorem proving; Quantified differential equations; Proof theory
+PROGRAM VERIFICATION
+VARIABLE STIFFNESS; BOUNCING GAITS; SPRINGS; DESIGN
+component; Random walks; collective dynamics; competitive behavior;  dense networks of swarms; disease diagnosis; drug delivery
+Algorithms; Experimentation; Performance; Activity recognition; plan  recognition; multi-agent systems; teamwork
+topology; graph; complex; strategy; robotics; planning; uncertainty
+MANIPULATION; EXPLORATION; STRATEGIES; COMPLEXES; ROBOTS; PARTS
+Humanoid robot; optimal falling strategy; pseudospectral optimal control
+ROBOTS
+Medical robotics; minimally invasive surgery; cardiac surgery;  instrumentation
+ADIPOSE-TISSUE
+snake robot; body frame; gaits; state estimation
+SIDEWINDING LOCOMOTION; MOTION; KINEMATICS; SIMULATIONS
+TERRAIN
+HUMANOID ROBOTS
+SIMULTANEOUS LOCALIZATION; EXPLORATION; SLAM
+EQUALITY CONSTRAINTS; LEFT ATRIUM; ULTRASOUND; TRACKING; SYSTEM;  SURGERY; PROBE
+MOBILE ROBOTS; ODOMETRY
+LOCOMOTION
+Multi-robot assignment; Task allocation; Auction algorithm; Online  algorithm; Competitive analysis
+COORDINATION
+multi-agent systems; challenge; communication; autonomy; path-planning;  coordination; task-allocation
+MULTIROBOT COOPERATION; COORDINATION
+logic of dynamical systems; dynamic logic; differential dynamic logic;  hybrid systems; axiomatization; deduction
+HYBRID SYSTEMS; ABSTRACTION REFINEMENT; SAFETY VERIFICATION; FORMAL  VERIFICATION; INVARIANTS; FRAMEWORK; MODEL
+accuracy; computer-assisted surgery; precision freehand sculpting; saw  bones; surgical robotics; UKR; validation
+ARTHROPLASTY; SYSTEM; ROBOT; BONE
+Path Planning; Dynamic Environments; Human-Populated Environments
+DYNAMIC ENVIRONMENTS; COMPLEXITY
+Legged Robot; Modular Payload; Flexible Spine; Robot Architecture;  Actuator Selection
+LOCOMOTION
+Perception; recognition; semantic labeling; tracking; unmanned ground  vehicle
+human robot teams; human robot interaction; shared mental models;  situation awareness; teamwork; cognitive modeling; ACT-R; simulation
+DYNAMIC-SYSTEMS
+Artificial intelligence; conference
+Surveillance; Diseases; Artificial intelligence; Pattern recognition;  Complexity theory; Identity management systems; semantic scan statistic;  event detection; disease surveillance; public health surveillance;  spatial and subset scanning
+DISEASE SURVEILLANCE
+SHARED CONTROL; HUMAN HAND; TELEOPERATION; MANIPULATOR
+MODEL
+erroneous examples; interactive problem solving; adaptation of problems;  self-explanation; decimals; mathematics education
+MODEL
+geometric mechanics; sand-swimming; gait
+ROBOTIC LOCOMOTION
+Multi-robot operators; interface design; information presentation;  design research
+IN-GROUP; SITUATION AWARENESS; PERFORMANCE
+assistive robotics; human-robot interaction; tele-operation
+Personalization; social robot; human-robot interaction; service design;  organization; mixed-method; field trial; HRI
+Acting Methodology; Entertainment Robots; Gesture; Robot Theater; Social  Robots
+Neural Networks; Incremental Evolution; Navigation; Robotics
+Human-swarm interaction; swarm robotics; human-robot interaction
+Cellular and modular robots; micro/nano robots; parallel robots
+MICROROBOTS
+Common-sense reasoning; Semantic model; Multi-agent system; Context  modeling; Ambient intelligence
+KNOWLEDGE; ENVIRONMENTS; FRAMEWORK; ONTOLOGY; CYC
+MEDIAL FRONTAL-CORTEX; INDIVIDUAL-DIFFERENCES; BRAIN POTENTIALS;  PREDICTION ERROR; NEURAL SYSTEMS; REWARD; DOPAMINE; SIGNALS; HUMANS;  MODEL
+Conflict behavior; Game theory; Multi-cultural society; Multi-agent  systems; Oscillation; Prisoner's dilemma; Social network; Social  simulation; Steady state
+PRISONERS-DILEMMA; VIOLENCE
+Human-robot coordination; Large teams; Distributed coordination;  Autonomous path planning
+Micro/nano robots; micro-actuation; wireless magnetic actuation;  multi-agent control
+MICROROBOTS
+SLAM; Mapping; HRI; Teleoperation; Operator assistance
+LARGE-SCALE; LOCALIZATION; FILTERS
+Data fusion; Applications; Construction engineering
+FREQUENCY IDENTIFICATION TECHNOLOGY; INDUSTRIAL PROJECTS; TRACKING;  RECOGNITION; WIRELESS; GPS
+Path planning for manipulators; manipulation planning; domestic robots
+Sense-and-avoid; UAV; field robotics; perception
+ALGORITHM
+Actuators; creep; elasticity; force control; force measurement; haptic  interfaces
+STROKE; ROBOTS; ARM
+Family of skewed distributions; skewness; transformation of random  variables; Lambert W; latent variables; stylized facts of asset returns;  value at risk; GARCH
+AUTOREGRESSIVE CONDITIONAL HETEROSCEDASTICITY; STOCHASTIC VOLATILITY;  MODEL
+Mathematical model; Hidden Markov models; Behavioral science; Brain  modeling; Problem-solving; Informatiics; Bioinformatics; Biomedical  image processing; human brain imaging; Intelligent systems; brain  informatics; cognitive simulation; intelligent tutoring systems; pattern  recognition
+Languages; Software engineering; Theorem proving; Tools; Verification
+OBJECT-ORIENTED PROGRAMS; DECISION PROCEDURES; DESIGN; VERIFICATION;  SPECIFICATION; EXTENSIONS; COMPONENTS; SYSTEM
+Object recognition; pose estimation; scene complexity; efficiency  analysis; scalability analysis; architecture optimization; robotic  manipulation; personal robotics
+MAXIMUM-LIKELIHOOD; EM ALGORITHM; FEATURES
+ARCHITECTURE; NETWORKS
+Data paper; field robotics; laser; moving object detection;  localization; mapping; mobile robotics; navigation
+Geometric mechanics; kinematics; locomotion; nonholonomic motion  planning; underactuated robots; undulatory systems
+UNDERACTUATED MECHANICAL SYSTEMS; ROBOTIC LOCOMOTION
+Multiagent coordination; Sparse interaction; Decentralized Markov  decision processes
+MARKOV DECISION-PROCESSES; COMPLEXITY; FRAMEWORK; MODELS
+adaptive control; robot control; neural network; dead-zone
+ADAPTIVE-CONTROL; TRACKING CONTROL; CONTROL-SYSTEMS; RBF NETWORKS;  CONTROL LAWS; PD CONTROL; MANIPULATORS; FEEDFORWARD; EXCITATION;  STABILITY
+BAYESIAN EXPERIMENTAL-DESIGN; EXPLORATION; INFORMATION; TITAN
+ENVIRONMENTS; CLASSIFICATION; CHALLENGE; TERRAIN; FOREST
+ELDERLY-PATIENTS; RECALL; DISCREPANCIES; INFORMATION; ACCURACY; MODELS;  CARE
+Languages; Theory; Distributed predicates; Distributed computing;  snapshots; consistency
+STABLE PROPERTIES; SNAPSHOTS; SYSTEMS; TIME
+Cooperative multi-agent systems; exploration; optimization; Distributed  Constraint Optimization (DCOP); Distributed Coordination of Exploration  and Exploitation (DCEE)
+CONSTRAINT SATISFACTION
+SOAR
+Predictive state representations; POMDPs; point based value iteration;  subspace identification; singular value decomposition; latent variable  discovery; planning under uncertainty
+POMDPS
+design for quality; evolutionary computation; multi-agent systems;  packaging; production engineering computing; search problems
+3-DIMENSIONAL COMPONENT LAYOUT; PATTERN SEARCH; CONFIGURATION-DESIGN;  ALGORITHM; OPTIMIZATION; PERFORMANCE; PACKING; TEAMS; ARCHITECTURE;  PROJECTS
+User interests retention; Unifying search and reasoning; Granularity;  Starting point; Multi-level completeness; Multi-level specificity;  Multiple perspectives
+WEB-SCALE; SEARCH; LOGIC; MEMORY
+Actor/critic; Credit assignment; Eligibility traces; Event-related  potentials; Q-learning; SARSA; Temporal difference learning
+ANTERIOR CINGULATE CORTEX; MEDIAL FRONTAL-CORTEX; STIMULUS-PRECEDING  NEGATIVITY; ERROR-RELATED NEGATIVITY; DOPAMINE NEURONS ENCODE;  TIME-ESTIMATION TASK; REWARD PREDICTION; BRAIN POTENTIALS;  DECISION-MAKING; BAD OUTCOMES
+reinforcement learning; Bayesian inference; partially observable Markov  decision processes
+HORIZON; POMDPS
+Piezoelectric Polymer; Fiber Array; Tactile Sensor
+POLY(VINYLIDENE FLUORIDE); SENSOR; ADHESION; FINGER; TOUCH
+Reinforcement learning; Pedagogical strategy; Machine learning; Human  learning
+INTELLIGENT TUTORING SYSTEMS; CONVERSATIONAL CUES; COGNITIVE TUTORS;  DIALOGUE SYSTEM; FEATURES; MANAGEMENT
+Mobile robots; Hybrid controls; Sequential composition
+POLYGONAL ENVIRONMENTS; HYBRID SYSTEMS; FEEDBACK; REACHABILITY;  STABILITY
+Intelligent tutoring systems; Interactive learning environments; Media  in education; Pedagogical issues
+FEEDBACK; STRATEGIES
+BAYESIAN-INFERENCE; PROBABILISTIC MODELS; CAUSAL INDUCTION; COGNITION;  UNCERTAINTY; JUDGMENT; MEMORY; BIASES
+Metacognition; Problem solving; Prefrontal cortex; Numerical cognition;  Parietal cortex
+SPATIAL WORKING-MEMORY; INTRAPARIETAL SULCUS; SYMBOL MANIPULATION;  CORTEX INVOLVEMENT; FRONTAL-CORTEX; RHESUS-MONKEY; FMRI; REPRESENTATION;  ACTIVATION; NUMBER
+activity recognition; activity theory; context-awareness; RFID
+SYSTEM; HOME
+weighted logic programming; program transformations; natural language  processing
+EFFICIENT COMPUTATION; ENTROPY
+asthma; stress; child; psychosocial; relaxation; stress management
+INNER-CITY ASTHMA; CHILDHOOD ASTHMA; UNITED-STATES; LIFE EVENTS;  NATIONAL-HEALTH; CHILDREN; PREVALENCE; RACE/ETHNICITY; DISPARITIES;  PREDICTORS
+Antenna; automated design; computational design; evolutionary design;  generative representation; spacecraft
+MODULAR PHYSICAL ROBOTS; GENETIC ALGORITHMS; DESIGN
+Algorithms; Measurement; Sensor networks; communication cost; link  quality; information theory; spatial monitoring; sensor placement;  approximation algorithms; Gaussian processes
+ALGORITHM; NETWORKS
+EVOLUTIONARY OPTIMIZATION; COMPONENT LAYOUT; PATTERN SEARCH; ALGORITHMS;  PORTFOLIOS; DESIGN; TEAMS
+Legged robots; motion control; adaptive control; nonholonomic motion  planning; mobile robotics
+MOTION
+Programmable matter; Evolutionary algorithms; Material computing;  Automated design synthesis
+Modular robotics; Tangible interaction; Hyperforms; Programmable matter
+erroneous examples; decimal; math education
+WORKED EXAMPLES; ERRORS; KNOWLEDGE
+computational linguistics; dialogue analysis; usability heuristics
+DYNAMIC LOGIC; VERIFICATION
+computer vision; path planning; kinematics; Tekkotsu
+pedagogy; critical thinking
+humanoid robotics; interdisciplinary teams; animatronics; art;  human-robot interaction; entertainment technology; android
+Parkinson's Disease (PD); movement disorder; motion capture (mocap);  Support Vector Machine (SVM); deep brain stimulation (DBS); biomechanics  and robotics
+PROPULSION
+ADHESIVES
+Collaborative learning; intelligent agents; natural language interfaces;  software architectures
+TUTORING SYSTEM; DIALOGUE
+Tangible interface; facial expression; gesture; ambient display; user  interface; ubiquitous computing; awareness
+Multi-robot coordination; Scheduling; Path planning
+Intelligent tutoring system; Politeness; Learning
+STUDENTS; MESSAGES
+Event analysis; Learning; Problem solving; Performance improvement
+PSYCHOLOGICAL SAFETY; IMPROVEMENT; TEAMS
+GOSSIP ALGORITHMS
+Buoyancy; Direct Instruction; Science Learning; Self-guided exploration
+CONCEPTUAL CHANGE; INSTRUCTION; DISCOVERY; STRATEGIES; KNOWLEDGE
+COORDINATION
+NOISY POINT CLOUDS; RECONSTRUCTION
+URBAN-CHALLENGE; DESIGN; BOSS
+Distributed Coverage; Anisotropic Sensing
+ENVIRONMENTS
+NOVELTY DETECTION; FOREST; IMAGE
+LOCOMOTION; SIMULATIONS
+GLOBAL OPTIMIZATION
+SIMULATIONS; LOCOMOTION
+MICROROBOTS; PROPULSION
+SEARCH
+MOBILE ROBOTS; ENVIRONMENTS
+OPTICAL TWEEZERS; FLAGELLA; CARPETS
+S. marcescens; micro-robotics; chemotaxis; bacterial propulsion
+CARPETS
+CURVES
+PROBABILISTIC ROADMAPS; MOBILE ROBOTS
+FRAMEWORK
+Algorithms; Measurement; Information gathering; submodular functions;  environmental monitoring; information overload; blogs; active learning;  sensor networks; computational sustainability
+Learning by teaching; teachable agent; SimStudent; machine learning;  inductive logic programming
+audio; sound recognition; event detection; sound classification; video  analytics; MFCC; sound spectrogram
+EAR
+Al-Muhajiroun; competitive adaptation; network analysis
+Assistive robots; QolTbots; robot; rehabilitation; acceptance; design
+ASSISTIVE TECHNOLOGY; WHEELCHAIR; USERS
+Sustainable development; sustainable robotics; robot applications;  education
+Climbing robots; adhesion recovery; fiber adhesives; gecko
+DIRECTIONAL ADHESION; DRY ADHESIVE; SURFACES; ARRAYS; FRICTION; GECKOS;  FORCE
+Machine learning; data mining; routine; intelligent system;  visualization; GPS; mobile phones; families
+problem solving; hints; fixation; impasses
+RIGHT-HEMISPHERE; INSIGHT; INFORMATION; INCUBATION; MEMORY; ACTIVATION;  ACCESS; ACQUISITION; CONSTRAINTS; GENERATION
+Audit; Formal logic; Incomplete logs; Privacy policy
+MODEL-CHECKING; FRAMEWORK
+Retrieval; hand-offs; coordination; adaptive; predictability
+Privacy; human-robot interaction; social robot; workplace robot
+Deception; Entertainment; Human-Robot Interaction; Trust
+Robot-human hand-overs; fluency
+Ubiquitous computing; context-aware computing; natural language  processing; persuasive computing; human-computer interaction
+Climbing robots; elastomer adhesives; tank design
+CONTROLLABLE ADHESION; FIBRILLAR ADHESIVES; SURFACES
+Building information models; Building reconstruction; Laser scanners;  Object recognition; Geometric modeling; Relationship modeling; Shape  representation
+3D OBJECT RECOGNITION; RANGE IMAGES; MOBILE ROBOTS; MAPS;  REPRESENTATION; CONSTRUCTION; ENVIRONMENTS; REGISTRATION; ACQUISITION;  ALGORITHMS
+Multiagent MDPs; Infinite state-spaces; Simultaneous learning and  coordination; Q-learning with soft-state aggregation; Approximate biased  adaptive play
+TD-GAMMON; ALGORITHMS; COMPLEXITY; RATES; PLAY
+LATENT SEMANTIC ANALYSIS; TASK; REPRESENTATION; PERFORMANCE; GENERATION;  INCUBATION; FIXATION
+biomimetic; dry adhesion; elastomeric stamp; flexible electronics;  microelectromechanical systems
+SILICON INTEGRATED-CIRCUITS; STAMP
+Human detection; 3D LADAR sensing and perception; field and service  robotics
+Space and planetary robotics; rough-terrain mobility; autonomous  navigation; Hawaii field experiment
+Field robotics; mobile robotics; autonomous navigation; learning from  demonstration; imitation learning; inverse reinforcement learning
+ROBOT NAVIGATION; PLANETARY ROVERS; CLASSIFICATION; TRAVERSABILITY;  VEHICLES; BEHAVIOR; FIELD
+Cognitive modeling; Navigation; Path planning; Vision; Search; Cognitive  imagery; ACT-R; Multi-robot control
+Aerospace; arithmetic circuits (ACs); Bayesian networks (BNs); domain  modeling; electrical power systems (EPSs); knowledge engineering;  model-based diagnosis; real-time systems; uncertainty
+MULTIPLE-FAULT DIAGNOSIS; BAYESIAN NETWORK; BELIEF NETWORKS; INFERENCE;  COMPLEXITY
+biologically inspired robots; quadruped robot; running on water;  stability
+LOCOMOTION
+ROSETTA
+Problem-solving; Implicit; Awareness; ERP; N1; P3
+ANTERIOR CINGULATE CORTEX; FUNCTIONAL-SIGNIFICANCE; SELECTIVE ATTENTION;  RESPONSE-INHIBITION; ANTISACCADE TASK; LOBE LESIONS; ERRORS; COMPONENTS;  P300; KNOWLEDGE
+Reinforcement learning; Transfer learning; Policy Reuse
+Belief fusion; Multi-agent systems; Statistical mechanics
+MODELS
+terrain reconstruction; regression estimation; surface estimation;  Gaussian process regression; mobile robotics
+ENVIRONMENTS
+DECISION-MAKING; GAME; STRATEGIES
+Robot learning; learning control; reinforcement learning; optimal  control
+REINFORCEMENT; IMITATION; ALGORITHM; BEHAVIOR; MODELS; SPACE
+robotics; machine learning
+ROBOT; ENVIRONMENTS; CHALLENGE
+robotics; topology; planning; uncertainty; graph; non-determinism;  homotopy; manipulation; strategy; simplicial complex; graph complex
+ERROR-DETECTION; ROBOT TASKS; MOTION; UNCERTAINTY; PARTS; RANDOMIZATION;  MANIPULATION; EXPLORATION; COMPLEXITY; RECOVERY
+Learning from demonstration; Multi-robot learning; Human-robot  interaction; Multi-robot systems
+Gait planning; Quadruped model; Kinematics; Redundancy; Transition of  direction
+ROBOT; LOCOMOTION; WALKING
+Augmented reality; 3D application prototyping; Human-computer  interaction; Ubiquitous computing
+AUGMENTED-REALITY; VISUALIZATION; SIMULATION; ISSUES; SYSTEM
+cognitive modeling; functional MRI; hidden Markov model
+BRAIN ACTIVITY; PATTERNS; CORTEX
+THINKING
+Snake robot; Gait; Curve discretization
+HUMAN-ROBOT INTERACTION; TEAMS; PERFORMANCE; ENVIRONMENTS; AUTOMATION;  RESCUE; LEVEL
+concept; metacognition; problem-solving strategy; statics
+PHYSICS PROBLEMS; STUDENTS
+cognitive systems; design engineering; engineering education
+IDEA GENERATION; FUNCTIONAL BASIS; EXAMPLES; ANALOGY; REPRESENTATION;  INFORMATION; CREATIVITY; ACQUISITION; PROTOTYPES; SIMILARITY
+basal ganglia; neural networks; computational modeling; procedural  learning
+TONICALLY ACTIVE NEURONS; POSITRON-EMISSION-TOMOGRAPHY; MULTIPLE-TASK  PERFORMANCE; SPINY PROJECTION NEURONS; CAUDATE-NUCLEUS LESIONS; PARS  RETICULATA NEURONS; DELAYED-RESPONSE TASK; NEURAL-NETWORK MODEL;  WORKING-MEMORY; PARKINSONS-DISEASE
+Human-robot interaction; Social robots; Emotions; Moods; Affective  modeling
+EMOTION; MOOD; EXPRESSIONS
+Autonomous; Robotics; Microbial diversity; 16S rRNA
+16S RIBOSOMAL-RNA; PHYLOGENETIC DIVERSITY; SPECIES RICHNESS; CARIACO  BASIN; SP-NOV; BACTERIAL; DATABASE; SEQUENCE; SULFATE; ENERGY
+SURGERY; MANIPULATORS; ROBOTICS
+retinal photocoagulation; robotics; visual servoing; micromanipulation
+PHOTO-COAGULATION; MACULAR EDEMA; RETINOPATHY; PHOTOCOAGULATION; IMAGE
+CONSTRAINT SATISFACTION; GLOBAL OPTIMIZATION; COLUMN GENERATION; HYBRID  METHOD; INTEGER; LOGIC; PROGRAMS
+Connectivity; Decentralized control; Graph theory; Numerical algorithms;  Autonomous mobile robots
+COORDINATION; AGENTS; MOTION
+Climbing robots; contact mechanics; elastomers; miniature robots
+GECKO ADHESIVE; SURFACES; SCALE; SETAE
+Robotics; Inverted Pendulum; Control
+Mobile robots; robot sensing systems; telerobotics
+Distributed Vision; Multi-Robot; Localizatioin; Navigation
+SYSTEM
+Agent; robot; schemas; scripts; dialogue; cooperation; human-robot  interaction (HRI); conversational interface; speech interface; social  robots; design
+SENSEMAKING; TASK
+ENVIRONMENTS; CLASSIFICATION; CHALLENGE; ROBOT
+PROBABILISTIC ROADMAPS; ROBOTS
+DIRECTIONAL ADHESION; ELASTOMER ADHESIVES; GECKO; FRICTION
+Biologically Inspired Robots; Mobile Robotics; Surface Tension;  Miniature Robots
+LOCOMOTION; LEGS
+OCCLUSION BOUNDARIES; FEATURES; COLOR
+robotic networks; network reconfiguration; second order cone program  (socp); convex optimization
+OPTIMIZATION
+OBSTACLES; ROADMAPS; ROBOTS
+Mobile manipulation; Personal robotics; Robotic manipulation; Computer  vision; Search; Navigation
+OBJECTS; TRACKING
+EVENT-RELATED FMRI; TOWER-OF-LONDON; PERFORMANCE; SCHIZOPHRENIA;  ACTIVATION; CAPACITY; HANOI; TASK; PET
+Argument Mapping; IBIS; Compendium; Brahms; Multi-Agent Systems
+Countermine; robotics; real-time; data processing
+Payload; Countermine; robotics; human-in-the-loop; demining;  teleoperated; Talon; Packbot
+Countermine; robotics; human-in-the-loop; demining; teleoperated
+ROVERS
+video analytics; video intelligence; artificial intelligence; pattern  recognition; surveillance; multimedia; forensics
+Human-robot interaction; metrics; evaluation; multi-robot system;  autonomy; team organization

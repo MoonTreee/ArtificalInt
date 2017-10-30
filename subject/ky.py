@@ -4,7 +4,7 @@ from nltk.stem import WordNetLemmatizer
 
 # DE：作者关键字
 # ID：扩展关键字（大写）
-
+# 弃用
 
 # 读取文件，并将DE和ID字段提取出来
 def readFiles(path):

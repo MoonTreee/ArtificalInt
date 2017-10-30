@@ -1,0 +1,6168 @@
+swarm	swarm	4
+swarm	energy	1
+swarm	distributed algorithm	1
+swarm	system	2
+swarm	field	1
+swarm	motion	1
+swarm	algorithm	2
+swarm	generation	1
+swarm	pattern	1
+swarm	uav	1
+swarm	task allocation	1
+swarm	behavior	1
+swarm	vehicle	1
+swarm	coalition formation	1
+swarm	team	1
+swarm	robot	3
+swarm	self reconfiguration	1
+activation	activation	11
+activation	episodic memory retrieval	1
+activation	manipulation	1
+activation	attention	1
+activation	intraparietal sulcus	2
+activation	brain activity	1
+activation	tower	1
+activation	symbol manipulation	2
+activation	event related fmri	3
+activation	cortex	2
+activation	experience	1
+activation	planning	1
+activation	pet	3
+activation	prefrontal cortex	3
+activation	memory	2
+activation	information	2
+activation	acquisition	1
+activation	intelligent tutoring system	1
+activation	individual difference	2
+activation	fmri	6
+activation	basal ganglion	1
+activation	generation	1
+activation	metacognition	1
+activation	choice	1
+activation	pattern	1
+activation	task	2
+activation	spatial working memory	3
+activation	insight	1
+activation	representation	1
+activation	brain	1
+activation	constraint	1
+activation	selection	1
+activation	incubation	2
+activation	problem solving	6
+activation	parietal cortex	2
+activation	hanoi	1
+activation	hidden markov model	2
+activation	anterior cingulate cortex	1
+activation	cognitive control	1
+activation	working memory	2
+activation	frontal cortex	2
+activation	visualization	2
+activation	blind variation	1
+activation	performance	1
+activation	fixation	1
+activation	selective retention	1
+rearrangement	rearrangement	3
+rearrangement	manipulation	1
+rearrangement	navigation	1
+rearrangement	planning	1
+rearrangement	movable obstacle	1
+rearrangement	mechanic	1
+rearrangement	motion	2
+rearrangement	robot	1
+rearrangement	object	1
+cardiac surgery	cardiac surgery	3
+cardiac surgery	minimally invasive surgery	2
+cardiac surgery	therapy	1
+cardiac surgery	system	1
+cardiac surgery	motion	1
+cardiac surgery	medical robotics	2
+roadmap	roadmap	7
+roadmap	generalized voronoi graph	3
+roadmap	navigation	1
+roadmap	sensor based planning	3
+roadmap	steerable needle	1
+roadmap	mobile robot	3
+roadmap	time obstacle avoidance	2
+roadmap	construction	3
+roadmap	motion	2
+roadmap	cognitive robotics	1
+roadmap	probabilistic roadmap	1
+roadmap	voronoi diagram	3
+roadmap	generation	1
+roadmap	exploration	2
+roadmap	dynamic environment	1
+roadmap	car	1
+roadmap	sensor based exploration	1
+roadmap	robot	2
+roadmap	nonholonomic motion planning	1
+roadmap	motion planning	4
+roadmap	environment	1
+roadmap	obstacle	3
+roadmap	slam	1
+roadmap	optimization	1
+stretchable electronics	stretchable electronics	4
+stretchable electronics	soft robotics	2
+stretchable electronics	pressure	1
+stretchable electronics	design	1
+stretchable electronics	transparent	1
+stretchable electronics	orientation	1
+stretchable electronics	motion capture	1
+stretchable electronics	reconstruction	1
+stretchable electronics	skin	1
+stretchable electronics	exoskeleton	1
+stretchable electronics	alloy	1
+stretchable electronics	strain sensor	1
+stretchable electronics	mechanical property	2
+stretchable electronics	carbon nanotube	2
+image segmentation	image segmentation	4
+image segmentation	recognition	1
+image segmentation	anomaly detection	1
+image segmentation	mobile robot	1
+image segmentation	deep learning	2
+image segmentation	automation	1
+image segmentation	image	1
+image segmentation	robotics	1
+image segmentation	gp	1
+dead reckoning	dead reckoning	3
+dead reckoning	mobile robot	3
+dead reckoning	sensor fusion	1
+dead reckoning	kalman filter	1
+dead reckoning	odometry	2
+dead reckoning	error	1
+dead reckoning	autonomous vehicle	1
+dead reckoning	position estimation	2
+dead reckoning	calibration	1
+dead reckoning	localization	1
+episodic memory retrieval	episodic memory retrieval	3
+episodic memory retrieval	symbol manipulation	1
+episodic memory retrieval	pet	1
+episodic memory retrieval	prefrontal cortex	1
+episodic memory retrieval	individual difference	1
+episodic memory retrieval	fmri	2
+episodic memory retrieval	spatial working memory	1
+episodic memory retrieval	working memory	1
+actuator	actuator	8
+actuator	mechanical model	1
+actuator	soft robot	3
+actuator	walking	1
+actuator	soft robotics	2
+actuator	programmable matter	1
+actuator	design	1
+actuator	network	1
+actuator	system	1
+actuator	transparent	1
+actuator	horizontal plane	1
+actuator	evolution	1
+actuator	flow	1
+actuator	miniature robotics	1
+actuator	surface	1
+actuator	simulation	1
+actuator	locomotion	1
+actuator	generation	1
+actuator	insect locomotion	1
+actuator	friction	1
+actuator	haptic interface	1
+actuator	dynamic	1
+actuator	biomimetic robotics	1
+actuator	arm	1
+actuator	force control	1
+actuator	piezoelectric actuator	1
+actuator	robot	2
+actuator	stroke	1
+actuator	artificial muscle	1
+actuator	object	1
+actuator	stability	1
+actuator	surface tension	1
+actuator	performance	1
+actuator	magnetic actuation	1
+actuator	adhesion	2
+simultaneous localization and mapping	simultaneous localization and mapping	3
+simultaneous localization and mapping	simultaneous localization	3
+simultaneous localization and mapping	generalized voronoi graph	1
+simultaneous localization and mapping	mobile robot	1
+simultaneous localization and mapping	information	1
+simultaneous localization and mapping	algorithm	1
+simultaneous localization and mapping	mobile robotics	1
+simultaneous localization and mapping	machine learning	1
+simultaneous localization and mapping	sensor based exploration	1
+simultaneous localization and mapping	graph	1
+simultaneous localization and mapping	robot	1
+simultaneous localization and mapping	long term autonomy	1
+simultaneous localization and mapping	computer vision	1
+simultaneous localization and mapping	alignment	2
+simultaneous localization and mapping	optimization	1
+capsule endoscopy	capsule endoscopy	6
+capsule endoscopy	manipulation	1
+capsule endoscopy	minimally invasive surgery	1
+capsule endoscopy	soft robotics	3
+capsule endoscopy	actuated soft capsule	2
+capsule endoscopy	system	1
+capsule endoscopy	gecko foot hair	1
+capsule endoscopy	miniature robotics	1
+capsule endoscopy	motion	1
+capsule endoscopy	orientation	1
+capsule endoscopy	drug delivery	1
+capsule endoscopy	tracking	1
+capsule endoscopy	accuracy	1
+capsule endoscopy	fabrication	1
+capsule endoscopy	medical robotics	3
+capsule endoscopy	localization	2
+capsule endoscopy	magnetic actuation	3
+capsule endoscopy	adhesion	1
+manipulation	manipulation	23
+manipulation	humanoid	2
+manipulation	brain activity	1
+manipulation	trajectory generation	1
+manipulation	complexity	2
+manipulation	navigation	2
+manipulation	cortex	1
+manipulation	planning	6
+manipulation	mechanism design	1
+manipulation	soft robotics	1
+manipulation	hand	2
+manipulation	grasping	1
+manipulation	classification	1
+manipulation	path planning	1
+manipulation	manipulator	1
+manipulation	design	2
+manipulation	automation	1
+manipulation	system	1
+manipulation	intelligent tutoring system	1
+manipulation	model	1
+manipulation	movable obstacle	3
+manipulation	mechanic	1
+manipulation	humanoid robot	1
+manipulation	flow	1
+manipulation	miniature robotics	1
+manipulation	motion	4
+manipulation	strategy	3
+manipulation	motion generation	1
+manipulation	surface	1
+manipulation	algorithm	1
+manipulation	simulation	1
+manipulation	sphere	1
+manipulation	fmri	1
+manipulation	uncertainty	3
+manipulation	topology	3
+manipulation	telerobotics	1
+manipulation	pattern	1
+manipulation	segmentation	1
+manipulation	manipulation planning	1
+manipulation	dynamic	2
+manipulation	heuristic search	1
+manipulation	exploration	3
+manipulation	controllability	1
+manipulation	constraint	1
+manipulation	part	4
+manipulation	robotics	6
+manipulation	fabrication	1
+manipulation	trajectory optimization	1
+manipulation	micro/nanorobot	1
+manipulation	rehabilitation	1
+manipulation	compliant control	2
+manipulation	recovery	2
+manipulation	arm	1
+manipulation	sensor	1
+manipulation	graph	3
+manipulation	vision	1
+manipulation	medical robotics	1
+manipulation	hidden markov model	1
+manipulation	robot	2
+manipulation	human robot collaboration	1
+manipulation	object	4
+manipulation	coordination	1
+manipulation	motion planning	3
+manipulation	learning	1
+manipulation	magnetic actuation	1
+manipulation	dry friction	2
+attention	attention	3
+attention	cortex	1
+attention	planning	1
+attention	reward	1
+attention	individual difference	1
+attention	fmri	2
+attention	task	1
+attention	spatial working memory	1
+attention	human brain	1
+attention	problem solving	1
+attention	reinforcement learning	1
+attention	activity recognition	1
+endoscope	endoscope	3
+endoscope	mechanism	1
+endoscope	actuated soft capsule	1
+endoscope	design	1
+endoscope	system	2
+endoscope	drug delivery	1
+endoscope	fabrication	1
+endoscope	surgery	1
+endoscope	medical robotics	3
+endoscope	robot design	1
+kinematics	kinematics	16
+kinematics	nonholonomic	1
+kinematics	mechanism	1
+kinematics	walking	1
+kinematics	mobile robot	1
+kinematics	path planning	1
+kinematics	manipulator	4
+kinematics	design	1
+kinematics	system	1
+kinematics	model	2
+kinematics	mechanic	1
+kinematics	state estimation	2
+kinematics	robotic locomotion	1
+kinematics	motion	1
+kinematics	snake robot	4
+kinematics	underactuated mechanical system	1
+kinematics	gait	1
+kinematics	simulation	1
+kinematics	locomotion	6
+kinematics	terrain	2
+kinematics	geometric mechanic	1
+kinematics	tool	1
+kinematics	dynamic	3
+kinematics	underactuated robot	1
+kinematics	constraint	1
+kinematics	wheeled mobile robot	2
+kinematics	compliant control	1
+kinematics	robot	2
+kinematics	rover	3
+kinematics	hyper redundant robot	1
+kinematics	hyper redundant mechanism	1
+kinematics	nonholonomic motion planning	1
+kinematics	motion planning	1
+kinematics	computer vision	1
+kinematics	legged locomotion	1
+human robot interaction	human robot interaction	58
+human robot interaction	humanoid	3
+human robot interaction	rehabilitation robotics	3
+human robot interaction	architecture	1
+human robot interaction	recognition	2
+human robot interaction	service robot	1
+human robot interaction	anthropomorphism	2
+human robot interaction	human robot team	1
+human robot interaction	planning	1
+human robot interaction	therapy	1
+human robot interaction	mobile robot	4
+human robot interaction	sensor fusion	1
+human robot interaction	technology	1
+human robot interaction	interface	2
+human robot interaction	mobile robot navigation	1
+human robot interaction	user study	2
+human robot interaction	educational robotics	3
+human robot interaction	judgment	1
+human robot interaction	autonomous robot	1
+human robot interaction	personal robotics	1
+human robot interaction	search and rescue	1
+human robot interaction	design	3
+human robot interaction	teamwork	1
+human robot interaction	learning from demonstration	1
+human robot interaction	human factor	1
+human robot interaction	monitoring	1
+human robot interaction	multirobot system	1
+human robot interaction	automation	3
+human robot interaction	communication	3
+human robot interaction	perception	3
+human robot interaction	swarm robotics	2
+human robot interaction	response	2
+human robot interaction	autonomy	2
+human robot interaction	gait	1
+human robot interaction	simulation	1
+human robot interaction	agent	3
+human robot interaction	computer	2
+human robot interaction	human walking	1
+human robot interaction	remote driving	3
+human robot interaction	humanoid robotics	1
+human robot interaction	neural network	1
+human robot interaction	tracking	1
+human robot interaction	rescue	1
+human robot interaction	task	1
+human robot interaction	impact	1
+human robot interaction	multiagent system	1
+human robot interaction	sliding autonomy	1
+human robot interaction	component	1
+human robot interaction	dialogue	6
+human robot interaction	adaptive control	1
+human robot interaction	uav	1
+human robot interaction	cognitive modeling	1
+human robot interaction	robotics	1
+human robot interaction	behavior	3
+human robot interaction	other	3
+human robot interaction	trajectory optimization	1
+human robot interaction	gesture	1
+human robot interaction	semi autonomous	1
+human robot interaction	knowledge	3
+human robot interaction	autonomous	1
+human robot interaction	vehicle	1
+human robot interaction	exoskeleton	1
+human robot interaction	recovery	1
+human robot interaction	emotion	1
+human robot interaction	team	1
+human robot interaction	hidden markov model	1
+human robot interaction	vehicle teleoperation	4
+human robot interaction	robot design	1
+human robot interaction	robot	3
+human robot interaction	movement	1
+human robot interaction	social robot	15
+human robot interaction	act r	1
+human robot interaction	sensor network	1
+human robot interaction	norm	1
+human robot interaction	assistive robot	2
+human robot interaction	multi robot system	3
+human robot interaction	coordination	1
+human robot interaction	motion planning	2
+human robot interaction	environment	2
+human robot interaction	computer vision	1
+human robot interaction	organization	2
+human robot interaction	performance	1
+human robot interaction	human swarm interaction	2
+human robot interaction	cooperation	1
+human robot interaction	scheduling	1
+human robot interaction	teleoperation	1
+humanoid	humanoid	6
+humanoid	trajectory generation	1
+humanoid	walking	1
+humanoid	communication	2
+humanoid	model	1
+humanoid	movable obstacle	1
+humanoid	perception	2
+humanoid	response	2
+humanoid	agent	1
+humanoid	computer	2
+humanoid	dialogue	3
+humanoid	behavior	1
+humanoid	other	3
+humanoid	knowledge	3
+humanoid	social robot	3
+humanoid	motion planning	1
+nonholonomic	nonholonomic	4
+nonholonomic	trajectory generation	2
+nonholonomic	mobile robot	4
+nonholonomic	robot control	1
+nonholonomic	design	1
+nonholonomic	dynamic	1
+nonholonomic	constraint	1
+nonholonomic	rough terrain	1
+nonholonomic	optimal control	1
+nonholonomic	rover	1
+nonholonomic	motion planning	1
+frequency	frequency	4
+frequency	energy	1
+frequency	microsurgery	1
+frequency	load	1
+frequency	physiological tremor	1
+frequency	gait	2
+frequency	locomotion	1
+frequency	accuracy	1
+frequency	rehabilitation	1
+frequency	exoskeleton	1
+frequency	medical robotics	1
+frequency	robot	1
+frequency	movement	1
+frequency	tremor	1
+fibrillar adhesive	fibrillar adhesive	3
+fibrillar adhesive	soft robotics	1
+fibrillar adhesive	dry adhesive	1
+fibrillar adhesive	mechanic	1
+fibrillar adhesive	micromanipulation	1
+fibrillar adhesive	gecko foot hair	1
+fibrillar adhesive	surface	2
+fibrillar adhesive	behavior	1
+fibrillar adhesive	alloy	1
+fibrillar adhesive	contact	2
+fibrillar adhesive	climbing robot	1
+education	education	8
+education	brain activity	1
+education	cortex	1
+education	mobile robot	1
+education	proof	1
+education	design	1
+education	distributed algorithm	1
+education	intelligent tutoring system	1
+education	robotics	1
+education	problem solving	2
+education	hidden markov model	1
+education	robot	1
+convolutional neural network	convolutional neural network	7
+convolutional neural network	recognition	1
+convolutional neural network	deep neural network	1
+convolutional neural network	array	1
+convolutional neural network	classification	1
+convolutional neural network	deep learning	5
+convolutional neural network	network	1
+convolutional neural network	algorithm	1
+convolutional neural network	automatic speech recognition	1
+convolutional neural network	neural network	1
+convolutional neural network	science	1
+convolutional neural network	knowledge representation	1
+convolutional neural network	activity recognition	2
+primitive	primitive	3
+primitive	experience	1
+primitive	system	1
+primitive	perception	1
+primitive	generation	1
+primitive	developmental robotics	1
+primitive	imitation	1
+intraparietal sulcus	intraparietal sulcus	3
+intraparietal sulcus	architecture	1
+intraparietal sulcus	symbol manipulation	1
+intraparietal sulcus	prefrontal cortex	2
+intraparietal sulcus	fmri	2
+intraparietal sulcus	metacognition	1
+intraparietal sulcus	spatial working memory	1
+intraparietal sulcus	representation	2
+intraparietal sulcus	brain	1
+intraparietal sulcus	problem solving	1
+intraparietal sulcus	parietal cortex	3
+intraparietal sulcus	hidden markov model	1
+intraparietal sulcus	cognitive control	1
+intraparietal sulcus	frontal cortex	2
+intraparietal sulcus	visualization	2
+intraparietal sulcus	organization	1
+human computer interaction	human computer interaction	9
+human computer interaction	recognition	1
+human computer interaction	augmented reality	1
+human computer interaction	care	1
+human computer interaction	worked example	1
+human computer interaction	design	1
+human computer interaction	human factor	1
+human computer interaction	system	2
+human computer interaction	intelligent tutoring system	1
+human computer interaction	child	1
+human computer interaction	simulation	1
+human computer interaction	telerobotics	1
+human computer interaction	cognitive tutor	1
+human computer interaction	issue	1
+human computer interaction	user centered design	2
+human computer interaction	ubiquitous computing	2
+human computer interaction	problem solving	1
+human computer interaction	language	1
+human computer interaction	visualization	1
+human computer interaction	context aware computing	1
+human computer interaction	learning	1
+mobile	mobile	4
+mobile	user	1
+mobile	microrobot	1
+mobile	information	1
+mobile	remote sensing	1
+mobile	sensing	1
+mobile	pattern	1
+mobile	autonomous	1
+mobile	software	1
+mobile	framework	1
+mobile	robot	1
+mobile	performance	1
+mobile	teleoperation	1
+rehabilitation robotics	rehabilitation robotics	6
+rehabilitation robotics	mechanism	1
+rehabilitation robotics	therapy	2
+rehabilitation robotics	hand	1
+rehabilitation robotics	biomechanics	1
+rehabilitation robotics	information	1
+rehabilitation robotics	design	2
+rehabilitation robotics	humanoid robot	1
+rehabilitation robotics	gait	1
+rehabilitation robotics	human walking	1
+rehabilitation robotics	adaptive control	1
+rehabilitation robotics	feedback distortion	2
+rehabilitation robotics	exoskeleton	1
+rehabilitation robotics	vision	2
+rehabilitation robotics	stroke	2
+rehabilitation robotics	movement	1
+rehabilitation robotics	stability	1
+rehabilitation robotics	reliability	1
+simultaneous localization	simultaneous localization	5
+simultaneous localization	generalized voronoi graph	1
+simultaneous localization	map	1
+simultaneous localization	mobile robot	1
+simultaneous localization	information	1
+simultaneous localization	algorithm	2
+simultaneous localization	mobile robotics	1
+simultaneous localization	exploration	1
+simultaneous localization	machine learning	1
+simultaneous localization	sensor based exploration	1
+simultaneous localization	graph	1
+simultaneous localization	robot	1
+simultaneous localization	long term autonomy	1
+simultaneous localization	computer vision	1
+simultaneous localization	alignment	2
+simultaneous localization	slam	1
+simultaneous localization	optimization	1
+motion control	motion control	11
+motion control	architecture	1
+motion control	robot navigation	1
+motion control	mobile robot	2
+motion control	information	1
+motion control	obstacle avoidance	1
+motion control	system	1
+motion control	communication	1
+motion control	field	1
+motion control	robot learning	1
+motion control	model	2
+motion control	mechanic	2
+motion control	swarm robotics	1
+motion control	motion	1
+motion control	multirobot	1
+motion control	locomotion	2
+motion control	mobile robotics	1
+motion control	generation	1
+motion control	tracking	1
+motion control	propulsion	1
+motion control	dynamic	1
+motion control	exploration	1
+motion control	legged robot	1
+motion control	mathematical theory	1
+motion control	adaptive control	2
+motion control	underactuated robot	1
+motion control	task allocation	1
+motion control	behavior	1
+motion control	micro/nanorobot	1
+motion control	animation	1
+motion control	robot	2
+motion control	design and control	2
+motion control	nonholonomic motion planning	2
+motion control	multiple robot	1
+motion control	distributed robot system	1
+mechanism	mechanism	10
+mechanism	recognition	1
+mechanism	inspection	1
+mechanism	cortex	1
+mechanism	therapy	1
+mechanism	memory	1
+mechanism	judgment	1
+mechanism	actuated soft capsule	1
+mechanism	information	1
+mechanism	design	2
+mechanism	automation	1
+mechanism	waalbot	1
+mechanism	adhesive	1
+mechanism	fabrication	1
+mechanism	feedback distortion	1
+mechanism	knowledge	1
+mechanism	vision	1
+mechanism	medical robotics	1
+mechanism	robot design	1
+mechanism	robot	1
+mechanism	stroke	1
+generalized voronoi graph	generalized voronoi graph	9
+generalized voronoi graph	navigation	1
+generalized voronoi graph	sensor based planning	3
+generalized voronoi graph	mobile robot	4
+generalized voronoi graph	time obstacle avoidance	2
+generalized voronoi graph	construction	5
+generalized voronoi graph	motion	1
+generalized voronoi graph	probabilistic roadmap	2
+generalized voronoi graph	voronoi diagram	4
+generalized voronoi graph	mapping	1
+generalized voronoi graph	exploration	4
+generalized voronoi graph	sensor based exploration	4
+generalized voronoi graph	robot	3
+generalized voronoi graph	localization	2
+generalized voronoi graph	motion planning	4
+generalized voronoi graph	obstacle	4
+online	online	3
+online	intelligent agent	1
+online	information	1
+online	intelligent tutoring system	1
+online	agent	1
+online	collaborative learning	1
+online	problem solving	1
+online	visual tracking	1
+online	object	1
+distributed cognition	distributed cognition	3
+distributed cognition	decision making	1
+distributed cognition	memory	1
+distributed cognition	model	1
+distributed cognition	situated cognition	1
+distributed cognition	simulation	1
+distributed cognition	choice	1
+distributed cognition	representation	1
+distributed cognition	intelligence	2
+distributed cognition	cognitive modeling	2
+distributed cognition	selection	1
+distributed cognition	problem solving	1
+distributed cognition	act r	1
+distributed cognition	cognitive architecture	2
+distributed cognition	virtual environment	1
+innovation	innovation	4
+innovation	decision making	2
+innovation	memory	1
+innovation	information	2
+innovation	teamwork	2
+innovation	hard	1
+innovation	creativity	3
+innovation	insight	1
+innovation	problem solving	3
+innovation	performance	2
+mechanical model	mechanical model	5
+mechanical model	balance	1
+mechanical model	walking	1
+mechanical model	mechanism design	1
+mechanical model	horizontal plane	5
+mechanical model	surface	1
+mechanical model	insect locomotion	5
+mechanical model	dynamic	4
+mechanical model	legged robot	1
+mechanical model	robot	2
+mechanical model	stability	4
+mechanical model	climbing robot	1
+mechanical model	environment	1
+mechanical model	legged locomotion	2
+brain activity	brain activity	3
+brain activity	cortex	3
+brain activity	intelligent tutoring system	2
+brain activity	fmri	1
+brain activity	pattern	2
+brain activity	cognitive modeling	1
+brain activity	problem solving	1
+brain activity	hidden markov model	3
+challenge	challenge	9
+challenge	navigation	1
+challenge	mobile robot	1
+challenge	classification	2
+challenge	path planning	1
+challenge	communication	1
+challenge	autonomy	1
+challenge	path	1
+challenge	terrain	2
+challenge	generation	1
+challenge	car	1
+challenge	multi agent system	1
+challenge	task allocation	1
+challenge	robotics	1
+challenge	machine learning	1
+challenge	robot	2
+challenge	coordination	1
+challenge	environment	3
+challenge	avoidance	1
+mem	mem	3
+mem	microrobot	1
+mem	system	2
+mem	field	1
+mem	model	1
+mem	micromanipulation	1
+mem	surface	1
+mem	sphere	1
+mem	electronics	1
+mem	friction	1
+mem	microelectromechanical system	1
+mem	scale	1
+mem	contact	1
+mem	micro/nano robot	1
+mem	design and control	1
+mem	adhesion	1
+energy	energy	4
+energy	distributed algorithm	1
+energy	gait	1
+energy	microelectromechanical system	1
+energy	information technology	1
+energy	robotics	1
+energy	autonomous	1
+energy	rehabilitation	1
+energy	exoskeleton	1
+energy	robot	2
+energy	performance	1
+energy	self reconfiguration	1
+rigid body	rigid body	3
+rigid body	nonholonomic constraint	1
+rigid body	mobile robot	1
+rigid body	manipulator	1
+rigid body	mechanic	1
+rigid body	robotic locomotion	1
+rigid body	motion	2
+rigid body	underactuated mechanical system	1
+rigid body	sphere	1
+rigid body	mobility	1
+rigid body	control	1
+rigid body	legged robot	1
+rigid body	controllability	1
+rigid body	constraint	1
+rigid body	animation	1
+rigid body	robot	1
+rigid body	motion planning	1
+architecture	architecture	11
+architecture	pattern search	1
+architecture	collaboration	1
+architecture	coverage	1
+architecture	teamwork	1
+architecture	case based reasoning	2
+architecture	network	1
+architecture	system	1
+architecture	intelligent tutoring system	1
+architecture	communication	1
+architecture	management	1
+architecture	multirobot	1
+architecture	autonomy	1
+architecture	algorithm	2
+architecture	agent	1
+architecture	multirobot coordination	1
+architecture	multi robot coordination	1
+architecture	heuristic search	1
+architecture	representation	1
+architecture	multiagent system	2
+architecture	sliding autonomy	1
+architecture	multi agent system	1
+architecture	constraint	1
+architecture	task allocation	3
+architecture	parietal cortex	1
+architecture	coalition formation	1
+architecture	team	1
+architecture	context awareness	1
+architecture	software	1
+architecture	efficiency	1
+architecture	robot	1
+architecture	cognitive control	1
+architecture	frontal cortex	1
+architecture	stability	1
+architecture	visualization	1
+architecture	coordination	2
+architecture	environment	1
+architecture	organization	1
+architecture	performance	1
+architecture	teleoperation	1
+architecture	optimization	1
+microsurgery	microsurgery	6
+microsurgery	system	1
+microsurgery	physiological tremor	2
+microsurgery	tracking	1
+microsurgery	control system	1
+microsurgery	accuracy	3
+microsurgery	robotics	2
+microsurgery	surgery	1
+microsurgery	medical robotics	4
+microsurgery	movement	1
+microsurgery	tremor	6
+trajectory generation	trajectory generation	9
+trajectory generation	complexity	1
+trajectory generation	mobile robot	4
+trajectory generation	path planning	1
+trajectory generation	robot control	1
+trajectory generation	system	1
+trajectory generation	model	1
+trajectory generation	time optimal trajectory	1
+trajectory generation	curvature	1
+trajectory generation	algorithm	1
+trajectory generation	path	1
+trajectory generation	probabilistic roadmap	1
+trajectory generation	dynamic environment	1
+trajectory generation	car	1
+trajectory generation	constraint	1
+trajectory generation	vehicle	3
+trajectory generation	team	1
+trajectory generation	rough terrain	3
+trajectory generation	optimal control	2
+trajectory generation	avoidance	1
+trajectory generation	optimization	2
+robot navigation	robot navigation	3
+robot navigation	mobile robot	1
+robot navigation	classification	1
+robot navigation	obstacle avoidance	1
+robot navigation	learning from demonstration	1
+robot navigation	field	2
+robot navigation	model	1
+robot navigation	autonomous navigation	1
+robot navigation	swarm robotics	1
+robot navigation	field robotics	1
+robot navigation	mobile robotics	1
+robot navigation	generation	1
+robot navigation	behavior	1
+robot navigation	vehicle	1
+robot navigation	multiple robot	1
+robot navigation	inverse reinforcement learning	1
+robot navigation	distributed robot system	1
+expert system	expert system	6
+expert system	design	1
+expert system	generation	1
+expert system	identification	1
+expert system	information technology	2
+expert system	bayesian network	1
+expert system	knowledge	2
+expert system	rehabilitation	2
+expert system	machine learning	1
+expert system	language	1
+expert system	artificial intelligence	1
+discovery	discovery	4
+discovery	assistance	1
+discovery	worked example	1
+discovery	intelligent tutoring system	1
+discovery	response	1
+discovery	strategy	1
+discovery	choice	1
+discovery	insight	1
+discovery	explanation	1
+discovery	knowledge	1
+discovery	efficiency	1
+discovery	self explanation	1
+discovery	working memory	1
+discovery	expertise	1
+discovery	instruction	2
+pattern search	pattern search	3
+pattern search	design	2
+pattern search	algorithm	2
+pattern search	multi agent system	1
+pattern search	team	3
+pattern search	performance	2
+pattern search	cooperation	1
+pattern search	optimization	1
+semantic web	semantic web	4
+semantic web	logic	1
+semantic web	conflict resolution	1
+semantic web	design	1
+semantic web	case based reasoning	1
+semantic web	system	2
+semantic web	model	1
+semantic web	logic programming	1
+semantic web	multi agent system	2
+semantic web	context awareness	1
+semantic web	knowledge representation	1
+semantic web	norm	1
+grid	grid	4
+grid	navigation	1
+grid	mobile robot	2
+grid	sensor fusion	1
+grid	system	1
+grid	particle filter	1
+grid	mobile robotics	1
+grid	distributed	1
+grid	position estimation	2
+grid	semi autonomous	1
+grid	guidance	1
+grid	tour guide robot	2
+grid	vision	1
+grid	robot	1
+grid	localization	2
+grid	multi robot system	1
+grid	computer vision	1
+grid	heterogeneous	1
+brain computer interface	brain computer interface	3
+brain computer interface	user	1
+brain computer interface	navigation	1
+brain computer interface	priority	1
+brain computer interface	system	1
+brain computer interface	communication	1
+brain computer interface	assistive technology	1
+brain computer interface	spinal cord injury	1
+brain computer interface	constraint	1
+brain computer interface	arm	1
+brain computer interface	wheelchair	1
+brain computer interface	vision	1
+brain computer interface	world	1
+brain computer interface	shared control	1
+brain computer interface	performance	1
+brain computer interface	virtual environment	1
+complexity	complexity	9
+complexity	planning	1
+complexity	path planning	1
+complexity	model	1
+complexity	inference	1
+complexity	curvature	1
+complexity	motion	1
+complexity	strategy	1
+complexity	algorithm	2
+complexity	path	1
+complexity	probabilistic roadmap	1
+complexity	uncertainty	2
+complexity	topology	1
+complexity	exploration	1
+complexity	dynamic environment	1
+complexity	car	1
+complexity	part	1
+complexity	bayesian network	1
+complexity	robotics	1
+complexity	vehicle	1
+complexity	recovery	1
+complexity	graph	1
+complexity	framework	1
+complexity	markov decision processe	3
+intelligent agent	intelligent agent	8
+intelligent agent	memory	1
+intelligent agent	information	1
+intelligent agent	teamwork	1
+intelligent agent	communication	1
+intelligent agent	agent	2
+intelligent agent	multiagent system	1
+intelligent agent	dialogue	1
+intelligent agent	cognitive modeling	1
+intelligent agent	robotics	1
+intelligent agent	collaborative learning	2
+intelligent agent	machine learning	1
+intelligent agent	act r	1
+intelligent agent	cognitive architecture	1
+intelligent agent	robotic soccer	1
+intelligent agent	software architecture	1
+intelligent agent	soccer	1
+intelligent agent	virtual environment	1
+replanning	replanning	3
+replanning	search	1
+replanning	heuristic search	1
+replanning	graph	2
+nonholonomic constraint	nonholonomic constraint	5
+nonholonomic constraint	mobile robot	1
+nonholonomic constraint	manipulator	1
+nonholonomic constraint	system	1
+nonholonomic constraint	dynamic and control	1
+nonholonomic constraint	time optimal trajectory	1
+nonholonomic constraint	robotic locomotion	1
+nonholonomic constraint	motion	1
+nonholonomic constraint	underactuated mechanical system	3
+nonholonomic constraint	locomotion	1
+nonholonomic constraint	car	1
+nonholonomic constraint	controllability	1
+nonholonomic constraint	wheeled mobile robot	1
+nonholonomic constraint	optimal control	1
+nonholonomic constraint	robot	1
+nonholonomic constraint	underactuated system	1
+nonholonomic constraint	optimization	1
+recognition	recognition	20
+recognition	term	1
+recognition	navigation	2
+recognition	cortex	1
+recognition	mobile robot	1
+recognition	sensor fusion	2
+recognition	technology	1
+recognition	hand	1
+recognition	interface	1
+recognition	classification	2
+recognition	deep learning	4
+recognition	worked example	1
+recognition	design	1
+recognition	multirobot system	1
+recognition	system	1
+recognition	intelligent tutoring system	1
+recognition	child	1
+recognition	model	3
+recognition	perception	1
+recognition	metacognition	1
+recognition	humanoid robotics	1
+recognition	neural network	2
+recognition	pattern	1
+recognition	tracking	4
+recognition	scale	1
+recognition	reconstruction	1
+recognition	representation	2
+recognition	dynamic environment	1
+recognition	cognitive tutor	1
+recognition	intelligence	1
+recognition	robotics	1
+recognition	selection	1
+recognition	science	1
+recognition	ubiquitous computing	1
+recognition	chemistry	1
+recognition	machine learning	1
+recognition	feature	1
+recognition	emotion	1
+recognition	horizon	1
+recognition	sensor	1
+recognition	localization	2
+recognition	theory	1
+recognition	computer vision	1
+recognition	unmanned ground vehicle	1
+recognition	stress	1
+recognition	inverse kinematics	1
+recognition	cognition	1
+recognition	gp	1
+recognition	distributed system	1
+excavation	excavation	3
+excavation	pressure	1
+excavation	design	1
+excavation	model	1
+excavation	mechanic	1
+excavation	regolith	2
+excavation	force	1
+excavation	tool	1
+excavation	scale	1
+excavation	robotics	1
+excavation	rover	1
+excavation	performance	2
+terrain classification	terrain classification	3
+terrain classification	navigation	3
+terrain classification	obstacle avoidance	1
+terrain classification	mapping	2
+terrain classification	field robot	2
+terrain classification	ladar data	2
+minimally invasive surgery	minimally invasive surgery	6
+minimally invasive surgery	microrobot	1
+minimally invasive surgery	therapy	1
+minimally invasive surgery	soft robotics	1
+minimally invasive surgery	steerable needle	1
+minimally invasive surgery	manipulator	1
+minimally invasive surgery	kalman filter	1
+minimally invasive surgery	actuated soft capsule	2
+minimally invasive surgery	system	1
+minimally invasive surgery	state estimation	1
+minimally invasive surgery	motion	1
+minimally invasive surgery	snake robot	1
+minimally invasive surgery	algorithm	1
+minimally invasive surgery	identification	1
+minimally invasive surgery	guidance	1
+minimally invasive surgery	medical robotics	4
+minimally invasive surgery	hyper redundant robot	1
+minimally invasive surgery	localization	1
+minimally invasive surgery	inverse kinematics	1
+minimally invasive surgery	adhesion	1
+inspection	inspection	4
+inspection	array	1
+inspection	design	1
+inspection	waalbot	1
+inspection	adhesive	1
+inspection	dynamic	1
+inspection	modular robot	1
+soft robot	soft robot	5
+soft robot	soft robotics	1
+soft robot	programmable matter	2
+soft robot	design	1
+soft robot	system	1
+soft robot	evolution	1
+soft robot	curvature	1
+soft robot	flow	1
+soft robot	surface	2
+soft robot	modular robot	1
+soft robot	dimension	1
+soft robot	stability	2
+soft robot	magnetic actuation	1
+soft robot	adhesion	2
+tower	tower	3
+tower	pet	1
+tower	information	1
+tower	fmri	2
+tower	task	1
+tower	brain	1
+tower	problem solving	1
+tower	hanoi	2
+tower	working memory	1
+tower	frontal cortex	1
+tower	cognition	1
+map	map	5
+map	navigation	1
+map	registration	1
+map	cooperative localization	1
+map	mobile robot	2
+map	construction	1
+map	acquisition	1
+map	network	1
+map	algorithm	3
+map	terrain	1
+map	object recognition	1
+map	reconstruction	1
+map	exploration	2
+map	representation	1
+map	graph	2
+map	environment	2
+map	slam	1
+balance	balance	3
+balance	mechanism design	1
+balance	horizontal plane	1
+balance	gait	1
+balance	locomotion	1
+balance	human walking	1
+balance	insect locomotion	1
+balance	dynamic	1
+balance	legged robot	1
+balance	robot	2
+balance	stability	1
+balance	climbing robot	1
+balance	environment	1
+balance	legged locomotion	1
+symbol manipulation	symbol manipulation	4
+symbol manipulation	event related fmri	1
+symbol manipulation	prefrontal cortex	2
+symbol manipulation	model	1
+symbol manipulation	fmri	3
+symbol manipulation	basal ganglion	1
+symbol manipulation	metacognition	1
+symbol manipulation	spatial working memory	1
+symbol manipulation	representation	1
+symbol manipulation	selection	1
+symbol manipulation	problem solving	2
+symbol manipulation	parietal cortex	2
+symbol manipulation	anterior cingulate cortex	2
+symbol manipulation	cognitive control	1
+symbol manipulation	working memory	2
+symbol manipulation	frontal cortex	1
+service robot	service robot	8
+service robot	mobile robot	1
+service robot	mobile robot navigation	2
+service robot	manipulator	1
+service robot	system	1
+service robot	model	2
+service robot	management	1
+service robot	strategy	1
+service robot	neural network	1
+service robot	tracking	1
+service robot	gesture	1
+service robot	compliant control	1
+service robot	hidden markov model	1
+service robot	software engineering	1
+service robot	stability	1
+user	user	3
+user	priority	1
+user	information	1
+user	design	1
+user	assistive technology	2
+user	pattern	1
+user	spinal cord injury	1
+user	rehabilitation	1
+user	software	1
+user	wheelchair	1
+user	framework	1
+user	robot	1
+user	assistive robot	1
+user	performance	1
+miniature robot	miniature robot	5
+miniature robot	design	1
+miniature robot	surface	1
+miniature robot	waalbot	1
+miniature robot	locomotion	2
+miniature robot	mobile robotics	1
+miniature robot	adhesive	1
+miniature robot	scale	1
+miniature robot	biologically inspired robot	2
+miniature robot	piezoelectric actuator	1
+miniature robot	surface tension	2
+miniature robot	climbing robot	2
+miniature robot	adhesion	1
+deep neural network	deep neural network	18
+deep neural network	adaptation	1
+deep neural network	classification	1
+deep neural network	model	1
+deep neural network	automatic speech recognition	3
+deep neural network	neural network	3
+deep neural network	object recognition	2
+deep neural network	extension	1
+deep neural network	representation	2
+deep neural network	verification	2
+deep neural network	speech recognition	5
+deep neural network	human brain	2
+deep neural network	recurrent neural network	1
+deep neural network	expertise	2
+anthropomorphism	anthropomorphism	3
+anthropomorphism	judgment	1
+distributed coverage	distributed coverage	3
+distributed coverage	sensor based planning	2
+distributed coverage	multi robot	2
+pose estimation	pose estimation	4
+pose estimation	mobile robot	1
+pose estimation	robotic manipulation	1
+pose estimation	classification	1
+pose estimation	personal robotics	1
+pose estimation	design	1
+pose estimation	motion	1
+pose estimation	object recognition	1
+pose estimation	tracking	1
+pose estimation	representation	1
+pose estimation	position estimation	1
+pose estimation	visual odometry	1
+pose estimation	feature	1
+pose estimation	visual tracking	1
+pose estimation	object	1
+pose estimation	localization	1
+event related fmri	event related fmri	3
+event related fmri	pet	1
+event related fmri	individual difference	1
+event related fmri	fmri	1
+event related fmri	basal ganglion	1
+event related fmri	choice	1
+event related fmri	task	1
+event related fmri	selection	1
+event related fmri	problem solving	1
+event related fmri	hanoi	1
+event related fmri	anterior cingulate cortex	1
+event related fmri	cognitive control	1
+event related fmri	working memory	1
+event related fmri	visualization	1
+event related fmri	performance	1
+term	term	3
+term	adaptation	2
+term	classification	1
+term	load	2
+term	hard	2
+term	pattern	1
+term	intelligence	1
+term	ubiquitous computing	1
+term	problem solving	1
+term	emotion	1
+term	sensor	1
+term	stress	1
+human robot team	human robot team	3
+human robot team	teamwork	1
+human robot team	simulation	1
+human robot team	sliding autonomy	1
+human robot team	cognitive modeling	1
+human robot team	robot	1
+human robot team	act r	1
+navigation	navigation	51
+navigation	decision making	1
+navigation	planning	2
+navigation	cooperative localization	1
+navigation	coverage	1
+navigation	mobile robot	17
+navigation	sensor fusion	1
+navigation	adaptation	1
+navigation	prefrontal cortex	1
+navigation	robotic manipulation	1
+navigation	path planning	2
+navigation	manipulator	1
+navigation	kalman filter	1
+navigation	autonomous robot	1
+navigation	personal robotics	1
+navigation	construction	1
+navigation	obstacle avoidance	4
+navigation	acquisition	1
+navigation	multirobot system	1
+navigation	system	10
+navigation	obstacle detection	2
+navigation	communication	1
+navigation	model	3
+navigation	movable obstacle	1
+navigation	perception	1
+navigation	motion	4
+navigation	field robotics	1
+navigation	multirobot	2
+navigation	time	1
+navigation	algorithm	1
+navigation	simulation	1
+navigation	locomotion	1
+navigation	space	2
+navigation	mobile robotics	1
+navigation	terrain	4
+navigation	search	3
+navigation	uncertainty	1
+navigation	voronoi diagram	2
+navigation	genetic algorithm	1
+navigation	robotic manipulator	1
+navigation	mapping	4
+navigation	error	1
+navigation	neural network	2
+navigation	tracking	4
+navigation	filter	2
+navigation	field robot	1
+navigation	developmental robotics	1
+navigation	exploration	5
+navigation	laser	1
+navigation	brain	1
+navigation	dynamic environment	2
+navigation	ladar data	1
+navigation	uav	2
+navigation	autonomous vehicle	3
+navigation	position estimation	1
+navigation	cognitive modeling	1
+navigation	robotics	3
+navigation	behavior	3
+navigation	visual servoing	1
+navigation	multi robot	1
+navigation	autonomous	1
+navigation	wheeled mobile robot	1
+navigation	surgery	1
+navigation	horizon	2
+navigation	sensor based exploration	2
+navigation	wheelchair	1
+navigation	graph	1
+navigation	vision	8
+navigation	world	2
+navigation	artificial intelligence	1
+navigation	robot	5
+navigation	object	1
+navigation	localization	9
+navigation	act r	1
+navigation	long term autonomy	2
+navigation	multi robot system	1
+navigation	motion planning	5
+navigation	environment	2
+navigation	computer vision	3
+navigation	alignment	1
+navigation	learning	1
+navigation	reinforcement learning	2
+navigation	virtual environment	1
+navigation	obstacle	1
+navigation	slam	2
+navigation	avoidance	1
+microrobot	microrobot	14
+microrobot	actuated soft capsule	1
+microrobot	design	2
+microrobot	system	3
+microrobot	remote sensing	1
+microrobot	field	1
+microrobot	micromanipulation	1
+microrobot	parallel robot	1
+microrobot	surface	1
+microrobot	waalbot	1
+microrobot	locomotion	1
+microrobot	force	1
+microrobot	sensing	1
+microrobot	friction	1
+microrobot	propulsion	3
+microrobot	carpet	1
+microrobot	autonomous	1
+microrobot	microrobotics	1
+microrobot	robot	3
+microrobot	micro/nano robot	2
+microrobot	dimension	2
+microrobot	magnetic actuation	1
+microrobot	adhesion	2
+microrobot	teleoperation	1
+decision making	decision making	10
+decision making	collaboration	2
+decision making	prediction	1
+decision making	prefrontal cortex	1
+decision making	information	2
+decision making	teamwork	1
+decision making	case based reasoning	1
+decision making	communication	1
+decision making	model	1
+decision making	strategy	1
+decision making	agent	1
+decision making	creativity	1
+decision making	individual difference	1
+decision making	basal ganglion	1
+decision making	choice	1
+decision making	robot soccer	1
+decision making	representation	2
+decision making	brain	1
+decision making	behavior	2
+decision making	selection	1
+decision making	problem solving	2
+decision making	rehabilitation	1
+decision making	virtual reality	1
+decision making	world	1
+decision making	robot	1
+decision making	anterior cingulate cortex	1
+decision making	performance	2
+decision making	reinforcement learning	2
+decision making	game	1
+mechatronics	mechatronics	6
+mechatronics	dry adhesive	1
+mechatronics	mobile robot	1
+mechatronics	manipulator	1
+mechatronics	perception	1
+mechatronics	gecko foot hair	1
+mechatronics	miniature robotics	1
+mechatronics	snake robot	1
+mechatronics	collective robotics	2
+mechatronics	mobile robotics	1
+mechatronics	tool	1
+mechatronics	adaptive control	1
+mechatronics	modular robot	2
+mechatronics	robotics	1
+mechatronics	hyper redundant mechanism	1
+mechatronics	self reconfiguration	2
+collaboration	collaboration	9
+collaboration	coverage	1
+collaboration	information	1
+collaboration	design	1
+collaboration	teamwork	1
+collaboration	communication	2
+collaboration	agent	3
+collaboration	multirobot coordination	1
+collaboration	representation	1
+collaboration	multiagent system	1
+collaboration	constraint	1
+collaboration	task allocation	1
+collaboration	autonomous	1
+collaboration	rehabilitation	2
+collaboration	team	1
+collaboration	virtual reality	2
+collaboration	robot	2
+collaboration	environment	1
+collaboration	performance	2
+collaboration	cooperation	1
+collaboration	scheduling	1
+collaboration	optimization	1
+walking	walking	18
+walking	planning	1
+walking	nonlinear system	1
+walking	mechanical system	1
+walking	robot control	2
+walking	design	1
+walking	system	1
+walking	horizontal plane	1
+walking	model	1
+walking	surface	2
+walking	gait	1
+walking	locomotion	5
+walking	force	1
+walking	topology	1
+walking	insect locomotion	1
+walking	control	1
+walking	dynamic	2
+walking	legged robot	2
+walking	robotics	1
+walking	exoskeleton	1
+walking	recovery	2
+walking	framework	1
+walking	robot	4
+walking	movement	1
+walking	stability	1
+walking	coordination	1
+walking	climbing robot	3
+walking	environment	1
+walking	reinforcement learning	1
+walking	adhesion	1
+walking	legged locomotion	3
+walking	optimization	1
+sensor based planning	sensor based planning	5
+sensor based planning	mobile robot	2
+sensor based planning	time obstacle avoidance	1
+sensor based planning	construction	2
+sensor based planning	motion	1
+sensor based planning	probabilistic roadmap	1
+sensor based planning	voronoi diagram	2
+sensor based planning	mapping	1
+sensor based planning	exploration	2
+sensor based planning	multi robot	2
+sensor based planning	motion planning	2
+sensor based planning	obstacle	1
+registration	registration	3
+registration	mobile robot	2
+registration	construction	1
+registration	acquisition	1
+registration	algorithm	2
+registration	object recognition	1
+registration	representation	1
+registration	laser	1
+registration	environment	1
+registration	approximation algorithm	1
+cortex	cortex	7
+cortex	planning	1
+cortex	intelligent tutoring system	2
+cortex	individual difference	1
+cortex	fmri	2
+cortex	image	1
+cortex	pattern	2
+cortex	task	1
+cortex	spatial working memory	1
+cortex	cognitive modeling	1
+cortex	problem solving	3
+cortex	hidden markov model	4
+static	static	5
+static	feedback	2
+static	strategy	1
+static	student	1
+static	metacognition	2
+static	cognitive tutor	1
+static	problem solving	1
+static	skill	1
+experience	experience	3
+experience	feedback	1
+experience	memory	1
+experience	system	1
+experience	perception	1
+experience	developmental robotics	1
+experience	imitation	1
+experience	incubation	1
+experience	problem solving	1
+experience	real time	1
+experience	blind variation	1
+experience	reinforcement learning	1
+experience	selective retention	1
+planning	planning	13
+planning	grasping	1
+planning	manipulator	1
+planning	user study	1
+planning	construction	1
+planning	design	1
+planning	learning from demonstration	1
+planning	automation	1
+planning	system	2
+planning	model	2
+planning	movable obstacle	1
+planning	mechanic	1
+planning	autonomous navigation	1
+planning	motion	3
+planning	strategy	2
+planning	algorithm	2
+planning	gait	1
+planning	locomotion	1
+planning	path	1
+planning	individual difference	1
+planning	fmri	1
+planning	uncertainty	2
+planning	topology	3
+planning	control	1
+planning	task	1
+planning	spatial working memory	1
+planning	heuristic search	1
+planning	exploration	2
+planning	controllability	1
+planning	part	2
+planning	robotics	4
+planning	problem solving	1
+planning	recovery	1
+planning	sensor	1
+planning	graph	2
+planning	vision	1
+planning	artificial intelligence	1
+planning	framework	1
+planning	robot	4
+planning	climbing robot	1
+planning	environment	1
+planning	ambient intelligence	1
+planning	dry friction	1
+planning	legged locomotion	1
+therapy	therapy	4
+therapy	finger	1
+therapy	information	1
+therapy	system	1
+therapy	motion	1
+therapy	adaptive control	1
+therapy	robotics	1
+therapy	feedback distortion	2
+therapy	rehabilitation	1
+therapy	exoskeleton	1
+therapy	vision	1
+therapy	medical robotics	1
+therapy	stroke	1
+therapy	coordination	1
+augmented reality	augmented reality	5
+augmented reality	system	2
+augmented reality	simulation	2
+augmented reality	issue	2
+augmented reality	ubiquitous computing	3
+augmented reality	artificial intelligence	1
+augmented reality	visualization	2
+augmented reality	computer vision	2
+cooperative localization	cooperative localization	3
+cooperative localization	network	1
+cooperative localization	algorithm	1
+cooperative localization	space	1
+cooperative localization	filter	1
+cooperative localization	exploration	2
+cooperative localization	graph	1
+cooperative localization	robot	1
+cooperative localization	localization	1
+cooperative localization	multi robot system	1
+cooperative localization	slam	2
+robocup	robocup	6
+robocup	humanoid robot	1
+robocup	multi agent system	1
+robocup	world	1
+robocup	robotic soccer	1
+robocup	soccer	2
+logic	logic	15
+logic	tp	1
+logic	theorem proving	1
+logic	knowledge base	1
+logic	memory	1
+logic	proof	3
+logic	design	1
+logic	global optimization	1
+logic	system	1
+logic	program	1
+logic	logic programming	1
+logic	constraint logic programming	1
+logic	search	1
+logic	abstraction	1
+logic	verification	1
+logic	multi agent system	1
+logic	language	2
+logic	knowledge representation	1
+logic	framework	1
+logic	formal verification	1
+logic	norm	1
+logic	model checking	1
+logic	ontology	1
+logic	optimization	1
+mechanism design	mechanism design	4
+mechanism design	manipulator	1
+mechanism design	system	1
+mechanism design	horizontal plane	1
+mechanism design	mechanic	1
+mechanism design	flow	1
+mechanism design	parallel robot	1
+mechanism design	gait	1
+mechanism design	locomotion	1
+mechanism design	sphere	1
+mechanism design	telerobotics	1
+mechanism design	insect locomotion	1
+mechanism design	field and service robotics	1
+mechanism design	manipulation planning	1
+mechanism design	dynamic	1
+mechanism design	legged robot	2
+mechanism design	underactuated robot	1
+mechanism design	robotics	1
+mechanism design	micro/nanorobot	1
+mechanism design	biologically inspired robot	2
+mechanism design	robot	1
+mechanism design	design and control	1
+mechanism design	stability	1
+mechanism design	climbing robot	1
+mechanism design	environment	1
+mechanism design	legged locomotion	1
+prediction	prediction	4
+prediction	classification	1
+prediction	reward	1
+prediction	design	1
+prediction	case based reasoning	1
+prediction	response	1
+prediction	agent	1
+prediction	robot soccer	1
+prediction	speech recognition	1
+prediction	behavior	1
+prediction	feature	1
+prediction	hidden markov model	1
+prediction	performance	1
+care	care	3
+care	information	1
+care	model	1
+care	extension	1
+care	information technology	1
+care	accuracy	1
+care	impact	1
+care	behavior	1
+care	user centered design	1
+pet	pet	3
+pet	prefrontal cortex	1
+pet	information	1
+pet	fmri	1
+pet	task	1
+pet	spatial working memory	1
+pet	problem solving	1
+pet	hanoi	1
+pet	working memory	1
+pet	frontal cortex	1
+pet	performance	1
+tp	tp	3
+tp	proof	2
+soft robotics	soft robotics	15
+soft robotics	dry adhesive	1
+soft robotics	steerable needle	1
+soft robotics	grasping	1
+soft robotics	pressure	1
+soft robotics	manipulator	1
+soft robotics	assistance	1
+soft robotics	design	2
+soft robotics	system	1
+soft robotics	transparent	2
+soft robotics	mechanic	1
+soft robotics	micromanipulation	1
+soft robotics	integration	1
+soft robotics	miniature robotics	1
+soft robotics	snake robot	1
+soft robotics	surface	1
+soft robotics	gait	1
+soft robotics	simulation	1
+soft robotics	locomotion	1
+soft robotics	electronics	1
+soft robotics	orientation	1
+soft robotics	friction	1
+soft robotics	motion capture	1
+soft robotics	drug delivery	1
+soft robotics	in vitro	1
+soft robotics	reconstruction	1
+soft robotics	spinal cord injury	1
+soft robotics	adaptive control	1
+soft robotics	fabrication	1
+soft robotics	skeletal muscle	1
+soft robotics	skin	3
+soft robotics	animation	1
+soft robotics	exoskeleton	1
+soft robotics	sensor	1
+soft robotics	alloy	1
+soft robotics	medical robotics	2
+soft robotics	contact	1
+soft robotics	hyper redundant robot	1
+soft robotics	strain sensor	1
+soft robotics	localization	1
+soft robotics	performance	1
+soft robotics	inverse kinematics	1
+soft robotics	magnetic actuation	2
+soft robotics	adhesion	1
+soft robotics	computational design	1
+anomaly detection	anomaly detection	3
+anomaly detection	motion	1
+anomaly detection	event detection	1
+anomaly detection	tracking	1
+anomaly detection	robotics	1
+anomaly detection	localization	1
+anomaly detection	sensor network	1
+dry adhesive	dry adhesive	3
+dry adhesive	array	1
+dry adhesive	mechanic	1
+dry adhesive	micromanipulation	1
+dry adhesive	gecko foot hair	1
+dry adhesive	miniature robotics	1
+dry adhesive	surface	2
+dry adhesive	force	1
+dry adhesive	mobile robotics	1
+dry adhesive	friction	1
+dry adhesive	contact	1
+dry adhesive	gecko	1
+dry adhesive	climbing robot	1
+steerable needle	steerable needle	3
+steerable needle	manipulator	1
+steerable needle	snake robot	1
+steerable needle	control	1
+steerable needle	dynamic environment	1
+steerable needle	medical robotics	1
+steerable needle	robot	1
+steerable needle	hyper redundant robot	1
+steerable needle	inverse kinematics	1
+steerable needle	optimization	1
+coverage	coverage	7
+coverage	mobile robot	2
+coverage	teamwork	1
+coverage	automation	1
+coverage	communication	1
+coverage	morse decomposition	1
+coverage	algorithm	1
+coverage	path	1
+coverage	multirobot coordination	1
+coverage	segmentation	1
+coverage	exploration	1
+coverage	multiagent system	1
+coverage	task allocation	1
+coverage	robotics	1
+coverage	multi robot	1
+coverage	coordination	1
+coverage	motion planning	1
+coverage	environment	2
+mobile robot	mobile robot	96
+mobile robot	sensor fusion	4
+mobile robot	adaptation	1
+mobile robot	interface	1
+mobile robot	distributed robotics	1
+mobile robot	path planning	1
+mobile robot	manipulator	2
+mobile robot	feedback	1
+mobile robot	kalman filter	3
+mobile robot	time obstacle avoidance	2
+mobile robot	priority	1
+mobile robot	robot control	2
+mobile robot	construction	4
+mobile robot	obstacle avoidance	9
+mobile robot	design	2
+mobile robot	odometry	4
+mobile robot	acquisition	1
+mobile robot	multirobot system	3
+mobile robot	automation	1
+mobile robot	system	10
+mobile robot	obstacle detection	2
+mobile robot	field	1
+mobile robot	robot learning	2
+mobile robot	model	4
+mobile robot	time optimal trajectory	1
+mobile robot	mechanic	1
+mobile robot	curvature	1
+mobile robot	autonomous navigation	3
+mobile robot	perception	3
+mobile robot	program	1
+mobile robot	swarm robotics	1
+mobile robot	motion	5
+mobile robot	particle filter	3
+mobile robot	multirobot	1
+mobile robot	surface	1
+mobile robot	algorithm	5
+mobile robot	locomotion	2
+mobile robot	force	1
+mobile robot	cognitive robotics	1
+mobile robot	path	1
+mobile robot	sphere	1
+mobile robot	mobile robotics	1
+mobile robot	terrain	3
+mobile robot	probabilistic roadmap	1
+mobile robot	mobility	1
+mobile robot	uncertainty	2
+mobile robot	voronoi diagram	3
+mobile robot	generation	2
+mobile robot	genetic algorithm	1
+mobile robot	robotic manipulator	1
+mobile robot	mapping	7
+mobile robot	remote driving	3
+mobile robot	topology	1
+mobile robot	error	2
+mobile robot	telerobotics	1
+mobile robot	object recognition	1
+mobile robot	image	1
+mobile robot	tracking	2
+mobile robot	filter	1
+mobile robot	field robot	1
+mobile robot	dynamic	1
+mobile robot	developmental robotics	1
+mobile robot	reconstruction	1
+mobile robot	exploration	4
+mobile robot	representation	1
+mobile robot	legged robot	1
+mobile robot	dynamic environment	2
+mobile robot	component	1
+mobile robot	car	2
+mobile robot	uav	3
+mobile robot	constraint	2
+mobile robot	task allocation	2
+mobile robot	autonomous vehicle	4
+mobile robot	position estimation	6
+mobile robot	modular robot	1
+mobile robot	visual odometry	2
+mobile robot	robotics	1
+mobile robot	behavior	2
+mobile robot	visual servoing	3
+mobile robot	semi autonomous	1
+mobile robot	autonomous	1
+mobile robot	vehicle	2
+mobile robot	wheeled mobile robot	1
+mobile robot	compliant control	1
+mobile robot	feature	1
+mobile robot	guidance	1
+mobile robot	horizon	2
+mobile robot	rough terrain	4
+mobile robot	sensor based exploration	3
+mobile robot	calibration	2
+mobile robot	tour guide robot	2
+mobile robot	vision	7
+mobile robot	optimal control	3
+mobile robot	vehicle teleoperation	3
+mobile robot	sequential composition	1
+mobile robot	robot	4
+mobile robot	rover	1
+mobile robot	visual tracking	1
+mobile robot	localization	15
+mobile robot	nonholonomic motion planning	1
+mobile robot	stability	2
+mobile robot	long term autonomy	1
+mobile robot	multi robot system	4
+mobile robot	motion planning	7
+mobile robot	reachability	1
+mobile robot	environment	6
+mobile robot	computer vision	2
+mobile robot	unmanned ground vehicle	2
+mobile robot	alignment	1
+mobile robot	multiple robot	2
+mobile robot	soccer	1
+mobile robot	distributed robot system	1
+mobile robot	reinforcement learning	1
+mobile robot	reliability	3
+mobile robot	obstacle	2
+mobile robot	slam	3
+mobile robot	approximation algorithm	1
+mobile robot	avoidance	1
+mobile robot	gp	1
+mobile robot	hybrid system	1
+mobile robot	optimization	1
+mobile robot	distributed system	1
+sensor fusion	sensor fusion	11
+sensor fusion	technology	1
+sensor fusion	kalman filter	1
+sensor fusion	obstacle avoidance	1
+sensor fusion	obstacle detection	1
+sensor fusion	algorithm	1
+sensor fusion	mapping	1
+sensor fusion	error	1
+sensor fusion	distributed	1
+sensor fusion	autonomous vehicle	2
+sensor fusion	position estimation	1
+sensor fusion	robotics	2
+sensor fusion	semi autonomous	1
+sensor fusion	feature	1
+sensor fusion	framework	1
+sensor fusion	robot	1
+sensor fusion	localization	1
+sensor fusion	computer vision	1
+sensor fusion	heterogeneous	1
+adaptation	adaptation	7
+adaptation	classification	1
+adaptation	load	2
+adaptation	hard	2
+adaptation	genetic algorithm	1
+adaptation	developmental robotics	1
+adaptation	representation	1
+adaptation	verification	1
+adaptation	speech recognition	1
+adaptation	behavior	1
+adaptation	ubiquitous computing	1
+adaptation	problem solving	1
+adaptation	software	1
+adaptation	pattern recognition	1
+adaptation	self adaptive system	1
+predictability	predictability	3
+predictability	trajectory optimization	1
+predictability	arm	1
+predictability	retrieval	1
+predictability	human robot collaboration	1
+predictability	object	1
+predictability	coordination	1
+technology	technology	4
+technology	pressure	1
+technology	design	1
+technology	system	1
+technology	sensing	1
+technology	identification	1
+technology	ubiquitous computing	1
+technology	skin	1
+technology	strain sensor	1
+technology	computer vision	1
+technology	adhesion	1
+hand	hand	6
+hand	grasping	1
+hand	classification	1
+hand	biomechanics	1
+hand	finger	1
+hand	design	1
+hand	humanoid robot	1
+hand	mobility	1
+hand	representation	1
+hand	part	1
+hand	feedback distortion	1
+hand	body	1
+hand	vision	1
+hand	contact	1
+hand	stroke	1
+hand	movement	1
+hand	object	1
+hand	reliability	1
+prefrontal cortex	prefrontal cortex	8
+prefrontal cortex	memory	2
+prefrontal cortex	acquisition	1
+prefrontal cortex	model	2
+prefrontal cortex	integration	1
+prefrontal cortex	algorithm	1
+prefrontal cortex	individual difference	1
+prefrontal cortex	fmri	4
+prefrontal cortex	error	1
+prefrontal cortex	metacognition	1
+prefrontal cortex	spatial working memory	2
+prefrontal cortex	representation	1
+prefrontal cortex	brain	2
+prefrontal cortex	complementary learning system	1
+prefrontal cortex	cognitive modeling	1
+prefrontal cortex	behavior	1
+prefrontal cortex	problem solving	2
+prefrontal cortex	parietal cortex	3
+prefrontal cortex	retrieval	1
+prefrontal cortex	world	1
+prefrontal cortex	hidden markov model	2
+prefrontal cortex	anterior cingulate cortex	1
+prefrontal cortex	cognitive control	1
+prefrontal cortex	working memory	1
+prefrontal cortex	frontal cortex	1
+prefrontal cortex	visualization	2
+prefrontal cortex	cognitive architecture	1
+prefrontal cortex	reinforcement learning	1
+programmable matter	programmable matter	6
+programmable matter	design	1
+programmable matter	distributed algorithm	1
+programmable matter	system	1
+programmable matter	flow	1
+programmable matter	motion	1
+programmable matter	surface	2
+programmable matter	modular robot	2
+programmable matter	dimension	2
+programmable matter	magnetic actuation	1
+grasping	grasping	5
+grasping	robotic manipulation	1
+grasping	design	1
+grasping	robot learning	1
+grasping	autonomous navigation	1
+grasping	strategy	1
+grasping	path	1
+grasping	electronics	1
+grasping	mobility	1
+grasping	uncertainty	1
+grasping	robotics	1
+grasping	skin	1
+grasping	rehabilitation	1
+grasping	body	1
+grasping	robot	2
+grasping	contact	1
+grasping	object	1
+robotic manipulation	robotic manipulation	5
+robotic manipulation	personal robotics	2
+robotic manipulation	robot learning	1
+robotic manipulation	motion	1
+robotic manipulation	strategy	1
+robotic manipulation	search	1
+robotic manipulation	uncertainty	1
+robotic manipulation	object recognition	1
+robotic manipulation	tracking	1
+robotic manipulation	impact	1
+robotic manipulation	feature	1
+robotic manipulation	robot	1
+robotic manipulation	object	2
+robotic manipulation	motion planning	1
+robotic manipulation	computer vision	1
+robotic manipulation	cognitive architecture	1
+robotic manipulation	dry friction	1
+theorem proving	theorem proving	9
+theorem proving	knowledge base	1
+theorem proving	differential dynamic logic	1
+theorem proving	design	2
+theorem proving	system	1
+theorem proving	model	1
+theorem proving	logic programming	1
+theorem proving	tool	1
+theorem proving	extension	1
+theorem proving	verification	2
+theorem proving	component	1
+theorem proving	language	1
+theorem proving	linear logic	1
+theorem proving	formal verification	1
+theorem proving	software engineering	1
+theorem proving	experimentation	1
+theorem proving	theory	1
+theorem proving	model checking	4
+theorem proving	ontology	1
+theorem proving	reliability	1
+theorem proving	hybrid system	1
+array	array	3
+array	deep learning	1
+array	network	1
+array	surface	1
+array	force	1
+array	friction	1
+array	knowledge representation	1
+array	gecko	1
+array	climbing robot	1
+interface	interface	4
+interface	system	1
+interface	sliding autonomy	1
+interface	component	1
+interface	semi autonomous	1
+interface	autonomous	1
+interface	shared control	1
+interface	human robot collaboration	1
+interface	teleoperation	1
+distributed robotics	distributed robotics	3
+distributed robotics	design	1
+distributed robotics	system	1
+distributed robotics	communication	1
+distributed robotics	snake	1
+distributed robotics	mobility	1
+distributed robotics	mapping	1
+distributed robotics	robot	1
+distributed robotics	localization	1
+distributed robotics	cooperation	1
+mobile robot navigation	mobile robot navigation	3
+mobile robot navigation	path planning	1
+mobile robot navigation	system	1
+mobile robot navigation	strategy	1
+mobile robot navigation	time	1
+mobile robot navigation	multi robot coordination	1
+mobile robot navigation	neural network	1
+mobile robot navigation	tracking	1
+mobile robot navigation	gesture	1
+mobile robot navigation	hidden markov model	1
+pressure	pressure	4
+pressure	design	2
+pressure	transparent	1
+pressure	model	1
+pressure	mechanic	1
+pressure	regolith	1
+pressure	orientation	1
+pressure	motion capture	1
+pressure	scale	1
+pressure	reconstruction	2
+pressure	skin	2
+pressure	exoskeleton	1
+pressure	alloy	1
+pressure	strain sensor	3
+pressure	performance	1
+pressure	adhesion	1
+classification	classification	18
+classification	design	2
+classification	teamwork	1
+classification	learning from demonstration	1
+classification	system	1
+classification	remote sensing	1
+classification	field	1
+classification	autonomous navigation	1
+classification	state estimation	1
+classification	field robotics	1
+classification	algorithm	3
+classification	simulation	1
+classification	space	1
+classification	mobile robotics	1
+classification	terrain	1
+classification	mapping	1
+classification	field and service robotics	1
+classification	pattern	1
+classification	accuracy	1
+classification	field robot	1
+classification	reconstruction	1
+classification	representation	3
+classification	laser	1
+classification	intelligence	1
+classification	ladar data	1
+classification	behavior	1
+classification	ubiquitous computing	2
+classification	vehicle	1
+classification	machine learning	1
+classification	feature	1
+classification	emotion	1
+classification	sensor	1
+classification	framework	1
+classification	robot	1
+classification	pattern recognition	1
+classification	localization	1
+classification	environment	2
+classification	alignment	1
+classification	performance	1
+classification	stress	1
+classification	inverse reinforcement learning	1
+classification	reinforcement learning	1
+classification	game	1
+classification	hybrid system	1
+nonlinear system	nonlinear system	5
+nonlinear system	mechanical system	1
+nonlinear system	design	2
+nonlinear system	algorithm	2
+nonlinear system	model predictive control	2
+nonlinear system	neural network	2
+nonlinear system	identification	2
+nonlinear system	dynamic environment	1
+nonlinear system	adaptive control	1
+nonlinear system	robotics	1
+nonlinear system	robot	3
+nonlinear system	formal verification	1
+nonlinear system	tracking control	2
+nonlinear system	reachability	1
+biomechanics	biomechanics	4
+biomechanics	finger	1
+biomechanics	design	1
+biomechanics	humanoid robot	3
+biomechanics	snake	1
+biomechanics	control	1
+biomechanics	dynamic	1
+biomechanics	robotics	1
+biomechanics	stability	1
+biomechanics	legged locomotion	1
+path planning	path planning	16
+path planning	manipulator	1
+path planning	robot control	1
+path planning	global optimization	1
+path planning	system	1
+path planning	communication	1
+path planning	autonomy	1
+path planning	time	1
+path planning	morse decomposition	1
+path planning	algorithm	1
+path planning	search	1
+path planning	multi robot coordination	2
+path planning	heuristic search	1
+path planning	dynamic environment	1
+path planning	multi agent system	1
+path planning	constraint	1
+path planning	task allocation	1
+path planning	cognitive modeling	2
+path planning	robotics	1
+path planning	demining	1
+path planning	connectivity	1
+path planning	configuration space	1
+path planning	autonomous	1
+path planning	vehicle	1
+path planning	rough terrain	1
+path planning	vision	1
+path planning	optimal control	1
+path planning	act r	1
+path planning	sensor network	1
+path planning	coordination	1
+path planning	motion planning	1
+path planning	computer vision	1
+path planning	self reconfiguration	1
+path planning	approximation algorithm	1
+path planning	scheduling	1
+path planning	optimization	1
+knowledge base	knowledge base	3
+knowledge base	model	1
+knowledge base	verification	1
+knowledge base	machine learning	1
+knowledge base	ontology	2
+manipulator	manipulator	26
+manipulator	feedback	1
+manipulator	time obstacle avoidance	1
+manipulator	robot control	1
+manipulator	design	2
+manipulator	global optimization	1
+manipulator	automation	1
+manipulator	system	1
+manipulator	model	1
+manipulator	mechanic	1
+manipulator	state estimation	1
+manipulator	robotic locomotion	1
+manipulator	physiological tremor	1
+manipulator	motion	3
+manipulator	snake robot	5
+manipulator	underactuated mechanical system	1
+manipulator	algorithm	2
+manipulator	gait	1
+manipulator	locomotion	4
+manipulator	force	1
+manipulator	terrain	1
+manipulator	probabilistic roadmap	1
+manipulator	search	1
+manipulator	robotic manipulator	1
+manipulator	error	1
+manipulator	neural network	1
+manipulator	tool	3
+manipulator	control system	1
+manipulator	legged robot	1
+manipulator	adaptive control	1
+manipulator	controllability	2
+manipulator	robotics	2
+manipulator	visual servoing	1
+manipulator	biologically inspired robot	1
+manipulator	compliant control	2
+manipulator	surgery	1
+manipulator	sensor	1
+manipulator	medical robotics	1
+manipulator	robot	4
+manipulator	contact	1
+manipulator	hyper redundant robot	2
+manipulator	shared control	1
+manipulator	tracking control	1
+manipulator	hyper redundant mechanism	3
+manipulator	stability	2
+manipulator	motion planning	2
+manipulator	performance	1
+manipulator	inverse kinematics	1
+manipulator	dry friction	1
+manipulator	legged locomotion	1
+manipulator	teleoperation	1
+feedback	feedback	6
+feedback	design	1
+feedback	intelligent tutoring system	1
+feedback	physiological tremor	1
+feedback	strategy	1
+feedback	force	1
+feedback	cognitive tutor	1
+feedback	real time	1
+feedback	medical robotics	1
+feedback	sequential composition	1
+feedback	stability	1
+feedback	reachability	1
+feedback	performance	1
+feedback	skill	1
+feedback	reinforcement learning	1
+feedback	hybrid system	1
+load	load	3
+load	hard	2
+load	problem solving	1
+mechanical system	mechanical system	3
+mechanical system	design	1
+mechanical system	rigid body dynamic	1
+mechanical system	robotic locomotion	1
+mechanical system	simulation	1
+mechanical system	geometric mechanic	1
+mechanical system	friction	1
+mechanical system	dynamic	1
+mechanical system	constraint	1
+mechanical system	robotics	1
+mechanical system	robot	1
+mechanical system	nonholonomic motion planning	1
+mechanical system	legged locomotion	1
+user study	user study	3
+user study	mobile computing	1
+user study	robot	1
+user study	self adaptive system	1
+user study	software architecture	1
+conflict resolution	conflict resolution	5
+conflict resolution	system	1
+conflict resolution	program	1
+conflict resolution	dynamic logic	1
+conflict resolution	verification	1
+conflict resolution	multi agent system	2
+conflict resolution	formal verification	2
+conflict resolution	norm	1
+conflict resolution	reinforcement learning	1
+conflict resolution	hybrid system	2
+educational robotics	educational robotics	11
+educational robotics	personal robotics	1
+educational robotics	curriculum	1
+educational robotics	transdisciplinary	3
+educational robotics	science	1
+educational robotics	middle school	4
+educational robotics	social robot	1
+memory	memory	13
+memory	judgment	2
+memory	information	1
+memory	worked example	1
+memory	design	1
+memory	acquisition	2
+memory	intelligent tutoring system	1
+memory	model	2
+memory	integration	1
+memory	perception	2
+memory	situated cognition	1
+memory	algorithm	1
+memory	simulation	1
+memory	hard	1
+memory	creativity	1
+memory	fmri	2
+memory	search	1
+memory	uncertainty	1
+memory	generation	1
+memory	error	1
+memory	hippocampus	1
+memory	insight	2
+memory	complementary learning system	2
+memory	intelligence	1
+memory	constraint	1
+memory	cognitive modeling	2
+memory	incubation	2
+memory	problem solving	3
+memory	knowledge	1
+memory	retrieval	2
+memory	hidden markov model	1
+memory	framework	1
+memory	cognitive control	1
+memory	act r	2
+memory	visualization	1
+memory	blind variation	1
+memory	cognitive architecture	3
+memory	fixation	1
+memory	cognition	1
+memory	selective retention	1
+deep learning	deep learning	16
+deep learning	design	1
+deep learning	network	1
+deep learning	remote sensing	1
+deep learning	communication	1
+deep learning	model	1
+deep learning	backpropagation	1
+deep learning	automatic speech recognition	1
+deep learning	neural network	4
+deep learning	tracking	1
+deep learning	scale	1
+deep learning	representation	1
+deep learning	speech recognition	1
+deep learning	science	1
+deep learning	knowledge representation	1
+deep learning	heterogeneous	1
+deep learning	activity recognition	2
+finger	finger	3
+finger	humanoid robot	1
+finger	robotics	1
+finger	feedback distortion	1
+finger	rehabilitation	1
+finger	sensor	1
+finger	coordination	1
+finger	adhesion	1
+kalman filter	kalman filter	6
+kalman filter	system	2
+kalman filter	robot learning	1
+kalman filter	state estimation	2
+kalman filter	particle filter	1
+kalman filter	algorithm	2
+kalman filter	mobile robotics	1
+kalman filter	mapping	1
+kalman filter	error	1
+kalman filter	neural network	1
+kalman filter	identification	1
+kalman filter	filter	1
+kalman filter	autonomous vehicle	1
+kalman filter	feature	1
+kalman filter	guidance	1
+kalman filter	vision	1
+kalman filter	artificial intelligence	1
+kalman filter	medical robotics	1
+kalman filter	localization	2
+kalman filter	multi robot system	1
+kalman filter	soccer	1
+kalman filter	slam	1
+judgment	judgment	4
+judgment	uncertainty	1
+judgment	knowledge	1
+judgment	cognition	1
+game theory	game theory	4
+game theory	system	1
+game theory	multi agent system	2
+game theory	reinforcement	1
+game theory	reinforcement learning	2
+auction algorithm	auction algorithm	5
+auction algorithm	design	2
+auction algorithm	distributed algorithm	4
+auction algorithm	approximation	2
+auction algorithm	allocation	4
+auction algorithm	task allocation	3
+auction algorithm	coalition formation	2
+auction algorithm	coordination	5
+autonomous robot	autonomous robot	3
+autonomous robot	agent	1
+autonomous robot	multi robot coordination	1
+autonomous robot	filter	1
+autonomous robot	team	1
+autonomous robot	robot	1
+autonomous robot	social robot	1
+autonomous robot	localization	1
+autonomous robot	long term autonomy	1
+autonomous robot	slam	1
+countermine	countermine	3
+countermine	robotics	3
+countermine	demining	2
+countermine	real time	1
+time obstacle avoidance	time obstacle avoidance	3
+time obstacle avoidance	construction	2
+time obstacle avoidance	motion	1
+time obstacle avoidance	voronoi diagram	1
+time obstacle avoidance	exploration	1
+time obstacle avoidance	sensor based exploration	1
+time obstacle avoidance	robot	1
+time obstacle avoidance	motion planning	1
+priority	priority	3
+priority	obstacle avoidance	2
+priority	assistive technology	1
+priority	spinal cord injury	1
+priority	multiple robot	2
+personal robotics	personal robotics	5
+personal robotics	learning from demonstration	1
+personal robotics	perception	1
+personal robotics	search	1
+personal robotics	object recognition	1
+personal robotics	tracking	1
+personal robotics	curriculum	1
+personal robotics	trajectory optimization	1
+personal robotics	feature	1
+personal robotics	robot	1
+personal robotics	object	1
+personal robotics	motion planning	1
+personal robotics	environment	1
+personal robotics	computer vision	1
+personal robotics	skill	1
+robot control	robot control	7
+robot control	obstacle avoidance	1
+robot control	curvature	1
+robot control	surface	1
+robot control	force	1
+robot control	genetic algorithm	1
+robot control	neural network	1
+robot control	control system	1
+robot control	dynamic	1
+robot control	adaptive control	1
+robot control	cognitive modeling	1
+robot control	exoskeleton	1
+robot control	rough terrain	1
+robot control	piezoelectric actuator	1
+robot control	robot	1
+robot control	movement	1
+robot control	tracking control	1
+robot control	stability	1
+robot control	coordination	1
+robot control	climbing robot	1
+robot control	adhesion	1
+robot control	legged locomotion	1
+construction	construction	8
+construction	information	1
+construction	acquisition	1
+construction	system	1
+construction	model	2
+construction	motion	1
+construction	algorithm	2
+construction	probabilistic roadmap	1
+construction	voronoi diagram	2
+construction	mapping	1
+construction	object recognition	1
+construction	exploration	2
+construction	representation	1
+construction	sensor based exploration	2
+construction	artificial intelligence	1
+construction	robot	1
+construction	localization	1
+construction	motion planning	3
+construction	environment	1
+construction	obstacle	1
+genetic programming	genetic programming	3
+genetic programming	robotics	1
+genetic programming	machine learning	1
+differential dynamic logic	differential dynamic logic	5
+differential dynamic logic	model	1
+differential dynamic logic	automated theorem proving	2
+differential dynamic logic	dynamic logic	1
+differential dynamic logic	framework	1
+differential dynamic logic	formal verification	4
+differential dynamic logic	hybrid system	2
+proof	proof	4
+proof	framework	1
+reward	reward	5
+reward	model	1
+reward	response	1
+reward	individual difference	1
+reward	fmri	1
+reward	human brain	1
+reward	performance	1
+reward	reinforcement learning	3
+actuated soft capsule	actuated soft capsule	4
+actuated soft capsule	design	1
+actuated soft capsule	system	1
+actuated soft capsule	motion	1
+actuated soft capsule	orientation	1
+actuated soft capsule	tracking	1
+actuated soft capsule	accuracy	1
+actuated soft capsule	fabrication	1
+actuated soft capsule	medical robotics	2
+actuated soft capsule	robot design	1
+actuated soft capsule	localization	1
+actuated soft capsule	magnetic actuation	1
+actuated soft capsule	adhesion	1
+information	information	14
+information	teamwork	1
+information	acquisition	2
+information	communication	2
+information	model	3
+information	mechanic	1
+information	algorithm	1
+information	agent	1
+information	creativity	2
+information	fmri	1
+information	generation	1
+information	pattern	1
+information	accuracy	1
+information	task	1
+information	insight	1
+information	exploration	2
+information	representation	3
+information	mathematical theory	1
+information	adaptive control	1
+information	constraint	1
+information	incubation	1
+information	example	1
+information	idea generation	1
+information	problem solving	3
+information	feedback distortion	1
+information	machine learning	1
+information	software	1
+information	graph	1
+information	vision	1
+information	framework	1
+information	stroke	1
+information	design and control	1
+information	working memory	1
+information	nonholonomic motion planning	1
+information	frontal cortex	1
+information	computer vision	1
+information	alignment	1
+information	performance	2
+information	skill	1
+information	fixation	1
+information	optimization	1
+assistance	assistance	4
+assistance	system	1
+assistance	intelligent tutoring system	3
+assistance	gait	1
+assistance	choice	1
+assistance	spinal cord injury	1
+assistance	adaptive control	1
+assistance	cognitive tutor	1
+assistance	efficiency	3
+assistance	self explanation	2
+assistance	expertise	1
+assistance	instruction	2
+assistance	performance	1
+worked example	worked example	7
+worked example	design	1
+worked example	system	1
+worked example	intelligent tutoring system	3
+worked example	child	1
+worked example	perception	1
+worked example	situated cognition	1
+worked example	authoring tool	1
+worked example	erroneous example	3
+worked example	error	1
+worked example	explanation	1
+worked example	cognitive tutor	2
+worked example	problem solving	2
+worked example	knowledge	1
+worked example	self explanation	1
+worked example	framework	1
+worked example	expertise	1
+formal method	formal method	3
+formal method	system	1
+formal method	abstraction	1
+formal method	verification	1
+formal method	authentication	1
+formal method	software engineering	1
+formal method	model checking	1
+formal method	adaptive system	1
+obstacle avoidance	obstacle avoidance	15
+obstacle avoidance	design	1
+obstacle avoidance	system	1
+obstacle avoidance	obstacle detection	2
+obstacle avoidance	field	1
+obstacle avoidance	model	1
+obstacle avoidance	humanoid robot	3
+obstacle avoidance	curvature	1
+obstacle avoidance	autonomous navigation	1
+obstacle avoidance	swarm robotics	1
+obstacle avoidance	motion	2
+obstacle avoidance	terrain	2
+obstacle avoidance	generation	1
+obstacle avoidance	dynamic	1
+obstacle avoidance	controllability	1
+obstacle avoidance	uav	1
+obstacle avoidance	autonomous vehicle	3
+obstacle avoidance	visual servoing	1
+obstacle avoidance	configuration space	1
+obstacle avoidance	vision	2
+obstacle avoidance	motion planning	2
+obstacle avoidance	multiple robot	3
+obstacle avoidance	distributed robot system	1
+search and rescue	search and rescue	3
+search and rescue	snake robot	1
+search and rescue	distributed	1
+search and rescue	multi robot	1
+design	design	66
+design	distributed algorithm	1
+design	case based reasoning	1
+design	human factor	2
+design	network	1
+design	automation	1
+design	system	8
+design	transparent	1
+design	intelligent tutoring system	1
+design	communication	1
+design	model	1
+design	backpropagation	1
+design	mechanic	1
+design	humanoid robot	2
+design	flow	1
+design	perception	1
+design	situated cognition	1
+design	physiological tremor	1
+design	motion	2
+design	regolith	1
+design	constraint logic programming	1
+design	surface	2
+design	algorithm	5
+design	waalbot	4
+design	locomotion	3
+design	force	3
+design	agent	2
+design	electronics	2
+design	orientation	1
+design	search	1
+design	assistive technology	1
+design	generation	1
+design	genetic algorithm	1
+design	mapping	1
+design	adhesive	2
+design	friction	1
+design	metacognition	1
+design	motion capture	1
+design	neural network	1
+design	tool	2
+design	extension	1
+design	identification	1
+design	distributed computing	1
+design	task	1
+design	approximation	1
+design	dynamic	2
+design	reconstruction	1
+design	verification	2
+design	component	1
+design	dialogue	1
+design	controllability	2
+design	multi agent system	2
+design	allocation	1
+design	constraint	2
+design	robotics	5
+design	fabrication	1
+design	idea generation	2
+design	problem solving	3
+design	chemistry	1
+design	skin	3
+design	rehabilitation	1
+design	exoskeleton	1
+design	biologically inspired robot	1
+design	machine learning	1
+design	feature	1
+design	language	5
+design	team	3
+design	sensor	1
+design	wheelchair	1
+design	artificial intelligence	1
+design	medical robotics	2
+design	optimal control	1
+design	robot design	1
+design	framework	2
+design	robot	6
+design	linear logic	1
+design	rover	2
+design	strain sensor	2
+design	tracking control	1
+design	social robot	1
+design	software engineering	1
+design	object	1
+design	localization	1
+design	dimension	1
+design	experimentation	1
+design	stability	1
+design	theory	1
+design	assistive robot	1
+design	model checking	1
+design	coordination	1
+design	surface tension	1
+design	climbing robot	1
+design	organization	1
+design	performance	4
+design	mechanical property	2
+design	learning	1
+design	magnetic actuation	1
+design	reliability	1
+design	heterogeneous	1
+design	adhesion	3
+design	cooperation	2
+design	dry friction	1
+design	dynamic programming	1
+design	optimization	3
+design	distributed system	1
+design	computational design	1
+distributed algorithm	distributed algorithm	6
+distributed algorithm	motion	1
+distributed algorithm	algorithm	1
+distributed algorithm	approximation	1
+distributed algorithm	allocation	2
+distributed algorithm	task allocation	1
+distributed algorithm	coalition formation	1
+distributed algorithm	robot	1
+distributed algorithm	coordination	2
+distributed algorithm	self reconfiguration	1
+teamwork	teamwork	7
+teamwork	communication	2
+teamwork	algorithm	2
+teamwork	simulation	1
+teamwork	agent	1
+teamwork	creativity	1
+teamwork	multirobot coordination	1
+teamwork	generation	1
+teamwork	multiagent system	2
+teamwork	multi agent system	1
+teamwork	task allocation	1
+teamwork	cognitive modeling	1
+teamwork	robotics	1
+teamwork	problem solving	1
+teamwork	machine learning	1
+teamwork	framework	1
+teamwork	act r	1
+teamwork	experimentation	1
+teamwork	environment	1
+teamwork	robotic soccer	1
+teamwork	performance	2
+teamwork	soccer	1
+teamwork	activity recognition	1
+teamwork	game	1
+teamwork	optimization	1
+learning from demonstration	learning from demonstration	5
+learning from demonstration	field	1
+learning from demonstration	autonomous navigation	1
+learning from demonstration	field robotics	1
+learning from demonstration	mobile robotics	1
+learning from demonstration	imitation	1
+learning from demonstration	robotics	1
+learning from demonstration	behavior	1
+learning from demonstration	vehicle	1
+learning from demonstration	machine learning	1
+learning from demonstration	movement	1
+learning from demonstration	multi robot system	1
+learning from demonstration	skill	1
+learning from demonstration	inverse reinforcement learning	1
+odometry	odometry	4
+odometry	system	1
+odometry	terrain	1
+odometry	position estimation	2
+odometry	wheeled mobile robot	1
+odometry	calibration	2
+odometry	localization	2
+global optimization	global optimization	3
+global optimization	program	1
+case based reasoning	case based reasoning	6
+case based reasoning	intelligent tutoring system	1
+case based reasoning	model	1
+case based reasoning	management	1
+case based reasoning	agent	2
+case based reasoning	robot soccer	1
+case based reasoning	behavior	1
+case based reasoning	context awareness	1
+case based reasoning	retrieval	1
+case based reasoning	coordination	1
+human factor	human factor	3
+human factor	multirobot system	1
+human factor	problem solving	1
+human factor	language	2
+human factor	learning	1
+acquisition	acquisition	9
+acquisition	system	2
+acquisition	intelligent tutoring system	1
+acquisition	integration	1
+acquisition	perception	2
+acquisition	time	1
+acquisition	algorithm	1
+acquisition	locomotion	1
+acquisition	creativity	1
+acquisition	fmri	1
+acquisition	basal ganglion	1
+acquisition	generation	1
+acquisition	object recognition	1
+acquisition	insight	1
+acquisition	representation	2
+acquisition	constraint	1
+acquisition	cognitive modeling	1
+acquisition	behavior	1
+acquisition	incubation	1
+acquisition	example	1
+acquisition	idea generation	1
+acquisition	problem solving	1
+acquisition	retrieval	1
+acquisition	hidden markov model	1
+acquisition	robot	1
+acquisition	movement	1
+acquisition	cognitive control	1
+acquisition	visualization	1
+acquisition	environment	1
+acquisition	performance	1
+acquisition	fixation	1
+acquisition	reinforcement learning	1
+network	network	18
+network	transparent	1
+network	model	1
+network	algorithm	2
+network	electronics	1
+network	individual difference	1
+network	multirobot coordination	1
+network	generation	1
+network	exploration	1
+network	uav	1
+network	graph	1
+network	knowledge representation	1
+network	robot	2
+network	artificial muscle	1
+network	gaussian processe	1
+network	localization	1
+network	sensor network	1
+network	recurrent neural network	1
+network	performance	1
+network	mechanical property	1
+network	distributed robot system	1
+network	reinforcement learning	1
+network	slam	2
+network	approximation algorithm	1
+network	game	1
+monitoring	monitoring	3
+monitoring	self adaptive system	1
+monitoring	norm	2
+multirobot system	multirobot system	5
+multirobot system	model	1
+multirobot system	tracking	1
+multirobot system	task allocation	2
+multirobot system	reliability	3
+automation	automation	12
+automation	mechanic	1
+automation	swarm robotics	1
+automation	motion	1
+automation	algorithm	1
+automation	intelligibility	1
+automation	image	1
+automation	segmentation	1
+automation	rescue	1
+automation	explanation	1
+automation	controllability	1
+automation	robotics	2
+automation	issue	1
+automation	behavior	1
+automation	vehicle	1
+automation	team	1
+automation	sensor	1
+automation	sensor network	1
+automation	multi robot system	1
+automation	coordination	1
+automation	environment	1
+automation	performance	1
+automation	human swarm interaction	1
+automation	scheduling	1
+automation	dry friction	1
+automation	gp	1
+system	system	92
+system	transparent	1
+system	intelligent tutoring system	4
+system	communication	1
+system	field	2
+system	dynamic and control	1
+system	child	1
+system	model	6
+system	mechanic	1
+system	micromanipulation	1
+system	integration	1
+system	humanoid robot	2
+system	flow	2
+system	autonomous navigation	1
+system	perception	2
+system	parallel robot	1
+system	motion	6
+system	particle filter	1
+system	strategy	1
+system	multirobot	1
+system	time	3
+system	student	1
+system	surface	2
+system	algorithm	6
+system	gait	1
+system	simulation	4
+system	locomotion	3
+system	model predictive control	1
+system	sphere	1
+system	agent	1
+system	mobile robotics	1
+system	terrain	1
+system	orientation	1
+system	generation	2
+system	robotic manipulator	1
+system	mapping	3
+system	topology	1
+system	intelligibility	1
+system	error	1
+system	telerobotics	1
+system	sensing	1
+system	control	3
+system	friction	1
+system	neural network	3
+system	tool	1
+system	field and service robotics	1
+system	drug delivery	1
+system	extension	1
+system	pattern	1
+system	abstraction	2
+system	identification	1
+system	segmentation	1
+system	manipulation planning	1
+system	tracking	4
+system	distributed computing	2
+system	propulsion	2
+system	accuracy	2
+system	carpet	1
+system	field robot	1
+system	approximation	1
+system	dynamic	2
+system	scale	1
+system	developmental robotics	1
+system	heuristic search	2
+system	laser	1
+system	spinal cord injury	1
+system	imitation	1
+system	verification	2
+system	sliding autonomy	1
+system	component	1
+system	dialogue	1
+system	cognitive tutor	2
+system	ladar data	1
+system	multi agent system	5
+system	uav	2
+system	constraint	1
+system	task allocation	1
+system	autonomous vehicle	1
+system	position estimation	1
+system	robotics	3
+system	issue	1
+system	behavior	2
+system	visual servoing	1
+system	ubiquitous computing	2
+system	self adaptation	1
+system	skin	1
+system	micro/nanorobot	2
+system	multi robot	1
+system	vehicle	2
+system	rehabilitation	1
+system	wheeled mobile robot	3
+system	coalition formation	1
+system	body	1
+system	feature	1
+system	language	3
+system	surgery	5
+system	team	2
+system	context awareness	2
+system	horizon	1
+system	rough terrain	1
+system	wheelchair	1
+system	efficiency	2
+system	calibration	1
+system	vision	3
+system	self explanation	1
+system	world	1
+system	artificial intelligence	2
+system	medical robotics	4
+system	optimal control	2
+system	force control	1
+system	framework	1
+system	robot	7
+system	movement	1
+system	shared control	1
+system	micro/nano robot	1
+system	human robot collaboration	1
+system	software engineering	2
+system	self adaptive system	1
+system	localization	4
+system	dimension	2
+system	design and control	2
+system	sensor network	2
+system	norm	1
+system	visualization	1
+system	theory	2
+system	markov decision processe	1
+system	model checking	2
+system	coordination	1
+system	expertise	1
+system	instruction	1
+system	motion planning	1
+system	context aware computing	1
+system	climbing robot	1
+system	environment	2
+system	computer vision	1
+system	unmanned ground vehicle	1
+system	cognitive architecture	1
+system	performance	2
+system	underactuated system	1
+system	learning	1
+system	tremor	1
+system	multiple robot	1
+system	magnetic actuation	2
+system	soccer	1
+system	distributed robot system	1
+system	reinforcement learning	4
+system	virtual environment	1
+system	adhesion	1
+system	activity recognition	1
+system	avoidance	1
+system	dynamic programming	1
+system	legged locomotion	1
+system	teleoperation	1
+system	optimization	3
+transparent	transparent	3
+transparent	integration	1
+transparent	orientation	1
+transparent	generation	1
+transparent	motion capture	1
+transparent	reconstruction	1
+transparent	skin	2
+transparent	exoskeleton	1
+transparent	robot	1
+transparent	strain sensor	1
+transparent	artificial muscle	1
+transparent	performance	1
+intelligent tutoring system	intelligent tutoring system	25
+intelligent tutoring system	child	1
+intelligent tutoring system	management	1
+intelligent tutoring system	perception	1
+intelligent tutoring system	situated cognition	1
+intelligent tutoring system	strategy	1
+intelligent tutoring system	authoring tool	3
+intelligent tutoring system	student	3
+intelligent tutoring system	fmri	1
+intelligent tutoring system	choice	1
+intelligent tutoring system	pattern	1
+intelligent tutoring system	dialogue	1
+intelligent tutoring system	cognitive tutor	5
+intelligent tutoring system	example	1
+intelligent tutoring system	collaborative learning	5
+intelligent tutoring system	user centered design	1
+intelligent tutoring system	problem solving	6
+intelligent tutoring system	knowledge	1
+intelligent tutoring system	machine learning	1
+intelligent tutoring system	feature	1
+intelligent tutoring system	efficiency	3
+intelligent tutoring system	self explanation	3
+intelligent tutoring system	hidden markov model	3
+intelligent tutoring system	framework	1
+intelligent tutoring system	pattern recognition	1
+intelligent tutoring system	expertise	1
+intelligent tutoring system	instruction	2
+intelligent tutoring system	learning	1
+intelligent tutoring system	reinforcement learning	2
+horizontal plane	horizontal plane	5
+horizontal plane	surface	1
+horizontal plane	insect locomotion	5
+horizontal plane	dynamic	4
+horizontal plane	legged robot	1
+horizontal plane	robot	2
+horizontal plane	stability	4
+horizontal plane	climbing robot	1
+horizontal plane	environment	1
+horizontal plane	legged locomotion	2
+obstacle detection	obstacle detection	3
+obstacle detection	perception	1
+obstacle detection	program	1
+obstacle detection	terrain	1
+obstacle detection	autonomous vehicle	1
+obstacle detection	position estimation	1
+obstacle detection	visual odometry	1
+mobile computing	mobile computing	5
+mobile computing	pervasive computing	1
+mobile computing	ubiquitous computing	3
+mobile computing	software engineering	1
+mobile computing	self adaptive system	2
+mobile computing	software architecture	3
+remote sensing	remote sensing	3
+remote sensing	sensing	1
+remote sensing	accuracy	1
+remote sensing	autonomous	1
+remote sensing	machine learning	1
+remote sensing	robot	1
+remote sensing	teleoperation	1
+communication	communication	18
+communication	model	1
+communication	backpropagation	1
+communication	mechanic	1
+communication	perception	1
+communication	response	1
+communication	autonomy	1
+communication	agent	2
+communication	multirobot coordination	1
+communication	computer	1
+communication	uncertainty	2
+communication	multi robot coordination	1
+communication	entropy	2
+communication	exploration	1
+communication	representation	1
+communication	mathematical theory	4
+communication	multiagent system	2
+communication	dialogue	3
+communication	adaptive control	1
+communication	multi agent system	1
+communication	task allocation	2
+communication	robotics	1
+communication	behavior	1
+communication	other	2
+communication	knowledge	2
+communication	machine learning	1
+communication	wheelchair	1
+communication	world	1
+communication	artificial intelligence	2
+communication	social robot	3
+communication	robot architecture	1
+communication	design and control	1
+communication	nonholonomic motion planning	1
+communication	assistive robot	1
+communication	coordination	1
+communication	environment	1
+communication	robotic soccer	1
+communication	inverse reinforcement learning	1
+communication	soccer	1
+communication	virtual environment	1
+communication	heterogeneous	1
+communication	cooperation	3
+field	field	8
+field	model	1
+field	micromanipulation	1
+field	flow	1
+field	autonomous navigation	1
+field	swarm robotics	1
+field	motion	2
+field	field robotics	1
+field	algorithm	1
+field	mobile robotics	1
+field	generation	2
+field	pattern	1
+field	scale	1
+field	uav	1
+field	part	1
+field	behavior	2
+field	vehicle	2
+field	sensor	1
+field	multiple robot	1
+field	inverse reinforcement learning	1
+field	distributed robot system	1
+field	adhesion	1
+dynamic and control	dynamic and control	3
+dynamic and control	underactuated mechanical system	1
+dynamic and control	body	1
+dynamic and control	movement	1
+dynamic and control	coordination	1
+dynamic and control	underactuated system	3
+dynamic and control	optimization	1
+child	child	5
+child	basal ganglion	1
+child	cognitive tutor	1
+child	language	1
+child	social robot	1
+child	stress	2
+robot learning	robot learning	4
+robot learning	model	1
+robot learning	strategy	1
+robot learning	algorithm	2
+robot learning	space	1
+robot learning	mobile robotics	1
+robot learning	uncertainty	1
+robot learning	mapping	1
+robot learning	filter	1
+robot learning	imitation	1
+robot learning	behavior	1
+robot learning	optimal control	1
+robot learning	robot	1
+robot learning	object	1
+robot learning	reinforcement	1
+robot learning	multi robot system	1
+robot learning	reinforcement learning	1
+robot learning	slam	1
+model	model	52
+model	mechanic	3
+model	inference	1
+model	management	1
+model	humanoid robot	3
+model	perception	3
+model	swarm robotics	1
+model	motion	2
+model	regolith	1
+model	time	1
+model	algorithm	3
+model	gait	2
+model	simulation	1
+model	locomotion	1
+model	space	1
+model	sphere	1
+model	electronics	1
+model	hard	1
+model	erroneous example	1
+model	individual difference	2
+model	fmri	1
+model	human walking	1
+model	generation	2
+model	mapping	1
+model	topology	2
+model	error	1
+model	control	2
+model	microelectromechanical system	1
+model	choice	1
+model	neural network	2
+model	pattern	1
+model	identification	1
+model	tracking	1
+model	accuracy	1
+model	hippocampus	2
+model	scale	1
+model	developmental robotics	1
+model	exploration	2
+model	representation	1
+model	spinal cord injury	1
+model	imitation	2
+model	dynamic logic	1
+model	speech recognition	2
+model	mathematical theory	1
+model	dynamic environment	1
+model	complementary learning system	2
+model	adaptive control	1
+model	multi agent system	1
+model	bayesian network	1
+model	behavior	2
+model	selection	2
+model	ubiquitous computing	1
+model	problem solving	2
+model	parietal cortex	1
+model	knowledge	1
+model	rehabilitation	1
+model	machine learning	1
+model	compliant control	1
+model	horizon	1
+model	sensor	1
+model	self explanation	1
+model	awareness	1
+model	artificial intelligence	1
+model	optimal control	1
+model	hidden markov model	1
+model	authentication	1
+model	framework	2
+model	robot	4
+model	contact	1
+model	formal verification	1
+model	movement	2
+model	social robot	1
+model	object	1
+model	reinforcement	2
+model	anterior cingulate cortex	1
+model	gaussian processe	1
+model	localization	2
+model	design and control	1
+model	nonholonomic motion planning	1
+model	stability	1
+model	theory	2
+model	markov decision processe	2
+model	coordination	1
+model	motion planning	1
+model	climbing robot	1
+model	environment	1
+model	cognitive architecture	2
+model	ontology	1
+model	performance	3
+model	learning	1
+model	inverse kinematics	1
+model	multiple robot	1
+model	distributed robot system	1
+model	reinforcement learning	4
+model	slam	2
+model	avoidance	1
+model	game	1
+model	hybrid system	1
+model	legged locomotion	2
+model	optimization	1
+model	distributed system	1
+evolution	evolution	3
+evolution	gait	2
+evolution	neural network	2
+evolution	stability	1
+evolution	adhesion	1
+movable obstacle	movable obstacle	3
+movable obstacle	motion	1
+movable obstacle	motion generation	1
+movable obstacle	robot	1
+movable obstacle	motion planning	1
+time optimal trajectory	time optimal trajectory	3
+time optimal trajectory	path	1
+time optimal trajectory	wheel	1
+time optimal trajectory	dynamic environment	1
+time optimal trajectory	car	2
+time optimal trajectory	vehicle	1
+time optimal trajectory	optimal control	2
+time optimal trajectory	robot	1
+time optimal trajectory	avoidance	1
+time optimal trajectory	optimization	1
+backpropagation	backpropagation	4
+backpropagation	time	1
+backpropagation	stability	1
+backpropagation	heterogeneous	1
+mechanic	mechanic	12
+mechanic	micromanipulation	1
+mechanic	parallel robot	1
+mechanic	motion	5
+mechanic	particle filter	1
+mechanic	regolith	1
+mechanic	surface	1
+mechanic	algorithm	2
+mechanic	locomotion	1
+mechanic	space	1
+mechanic	sphere	1
+mechanic	mobility	1
+mechanic	field and service robotics	1
+mechanic	propulsion	1
+mechanic	task	1
+mechanic	approximation	1
+mechanic	dynamic	1
+mechanic	scale	1
+mechanic	exploration	1
+mechanic	legged robot	1
+mechanic	mathematical theory	1
+mechanic	pomdp	1
+mechanic	adaptive control	1
+mechanic	controllability	2
+mechanic	underactuated robot	1
+mechanic	robotics	2
+mechanic	biologically inspired robot	1
+mechanic	sensor	2
+mechanic	framework	1
+mechanic	robot	2
+mechanic	contact	1
+mechanic	object	1
+mechanic	design and control	3
+mechanic	nonholonomic motion planning	1
+mechanic	performance	1
+mechanic	dry friction	2
+mechanic	legged locomotion	1
+inference	inference	4
+inference	integration	2
+inference	constraint logic programming	2
+inference	uncertainty	1
+inference	constraint	1
+inference	bayesian network	1
+inference	mixed integer programming	2
+inference	hidden markov model	1
+inference	slam	1
+micromanipulation	micromanipulation	5
+micromanipulation	surface	1
+micromanipulation	image	1
+micromanipulation	pattern	1
+micromanipulation	robotics	2
+micromanipulation	visual servoing	2
+micromanipulation	robot	1
+micromanipulation	contact	1
+micromanipulation	object	1
+micromanipulation	adhesion	1
+integration	integration	6
+integration	constraint logic programming	2
+integration	fmri	1
+integration	constraint	1
+integration	cognitive modeling	1
+integration	mixed integer programming	2
+integration	ubiquitous computing	1
+integration	skin	1
+integration	retrieval	1
+integration	hidden markov model	1
+integration	cognitive control	1
+integration	visualization	1
+management	management	4
+management	simulation	1
+management	agent	1
+management	cognitive tutor	1
+management	machine learning	1
+management	feature	1
+management	context awareness	1
+management	coordination	1
+management	reinforcement learning	1
+humanoid robot	humanoid robot	21
+humanoid robot	motion	1
+humanoid robot	motion generation	1
+humanoid robot	generation	1
+humanoid robot	dynamic	1
+humanoid robot	developmental robotics	1
+humanoid robot	controllability	1
+humanoid robot	constraint	1
+humanoid robot	configuration space	2
+humanoid robot	vision	1
+humanoid robot	world	1
+humanoid robot	force control	1
+humanoid robot	framework	1
+humanoid robot	robot	2
+humanoid robot	movement	1
+humanoid robot	reinforcement	1
+humanoid robot	gaussian processe	1
+humanoid robot	robot architecture	1
+humanoid robot	stability	1
+humanoid robot	coordination	1
+humanoid robot	motion planning	3
+humanoid robot	environment	1
+humanoid robot	inverse kinematics	1
+humanoid robot	reinforcement learning	1
+humanoid robot	optimization	4
+curvature	curvature	3
+curvature	surface	1
+curvature	algorithm	1
+curvature	path	1
+curvature	probabilistic roadmap	1
+curvature	car	1
+curvature	vehicle	1
+curvature	stability	1
+curvature	adhesion	1
+flow	flow	3
+flow	motion	1
+flow	sphere	1
+flow	telerobotics	1
+flow	manipulation planning	1
+flow	dynamic	1
+flow	scale	1
+flow	robotics	1
+flow	behavior	1
+flow	micro/nanorobot	1
+flow	magnetic actuation	1
+autonomous navigation	autonomous navigation	8
+autonomous navigation	field robotics	2
+autonomous navigation	path	1
+autonomous navigation	mobile robotics	1
+autonomous navigation	terrain	1
+autonomous navigation	image	1
+autonomous navigation	ladar data	1
+autonomous navigation	visual odometry	1
+autonomous navigation	robotics	1
+autonomous navigation	behavior	1
+autonomous navigation	visual servoing	1
+autonomous navigation	vehicle	1
+autonomous navigation	robot	2
+autonomous navigation	localization	1
+autonomous navigation	environment	1
+autonomous navigation	unmanned ground vehicle	2
+autonomous navigation	inverse reinforcement learning	1
+perception	perception	17
+perception	program	1
+perception	situated cognition	1
+perception	motion	1
+perception	response	2
+perception	field robotics	1
+perception	time	1
+perception	algorithm	1
+perception	locomotion	1
+perception	agent	1
+perception	hard	1
+perception	computer	2
+perception	pattern	1
+perception	tracking	1
+perception	hippocampus	2
+perception	developmental robotics	1
+perception	exploration	1
+perception	imitation	1
+perception	complementary learning system	1
+perception	dialogue	2
+perception	uav	1
+perception	visual odometry	1
+perception	behavior	3
+perception	other	2
+perception	trajectory optimization	1
+perception	knowledge	3
+perception	framework	1
+perception	robot	3
+perception	movement	1
+perception	social robot	3
+perception	working memory	1
+perception	motion planning	1
+perception	environment	1
+perception	unmanned ground vehicle	1
+perception	performance	1
+perception	reinforcement learning	1
+program	program	3
+program	dynamic logic	1
+program	visual odometry	1
+program	formal verification	1
+state estimation	state estimation	5
+state estimation	motion	1
+state estimation	snake robot	2
+state estimation	algorithm	1
+state estimation	gait	1
+state estimation	simulation	1
+state estimation	locomotion	1
+state estimation	identification	1
+state estimation	compliant control	1
+state estimation	guidance	1
+state estimation	medical robotics	1
+state estimation	localization	2
+state estimation	hybrid system	1
+snake	snake	3
+snake	mobility	1
+snake	control	1
+snake	dynamic	2
+snake	robotics	1
+snake	robot	1
+snake	legged locomotion	2
+parallel robot	parallel robot	4
+parallel robot	locomotion	1
+parallel robot	field and service robotics	1
+parallel robot	propulsion	1
+parallel robot	representation	1
+parallel robot	underactuated robot	1
+parallel robot	micro/nanorobot	1
+parallel robot	biologically inspired robot	1
+parallel robot	micro/nano robot	1
+parallel robot	design and control	1
+parallel robot	distributed robot system	1
+gecko foot hair	gecko foot hair	3
+gecko foot hair	miniature robotics	1
+gecko foot hair	mobile robotics	1
+gecko foot hair	behavior	1
+gecko foot hair	alloy	1
+gecko foot hair	contact	1
+rigid body dynamic	rigid body dynamic	3
+rigid body dynamic	simulation	1
+rigid body dynamic	friction	2
+rigid body dynamic	dynamic	2
+rigid body dynamic	impact	1
+rigid body dynamic	body	1
+rigid body dynamic	contact	1
+rigid body dynamic	hyper redundant robot	1
+rigid body dynamic	motion planning	1
+rigid body dynamic	legged locomotion	1
+robotic locomotion	robotic locomotion	6
+robotic locomotion	motion	1
+robotic locomotion	underactuated mechanical system	3
+robotic locomotion	gait	1
+robotic locomotion	locomotion	1
+robotic locomotion	geometric mechanic	3
+robotic locomotion	controllability	1
+robotic locomotion	underactuated robot	1
+robotic locomotion	constraint	2
+robotic locomotion	robot	1
+robotic locomotion	nonholonomic motion planning	2
+swarm robotics	swarm robotics	4
+swarm robotics	generation	1
+swarm robotics	behavior	1
+swarm robotics	vehicle	1
+swarm robotics	microrobotics	1
+swarm robotics	sensor network	1
+swarm robotics	multi robot system	1
+swarm robotics	coordination	1
+swarm robotics	human swarm interaction	2
+swarm robotics	multiple robot	1
+swarm robotics	distributed robot system	1
+miniature robotics	miniature robotics	3
+miniature robotics	mobile robotics	1
+miniature robotics	biomimetic robotics	1
+miniature robotics	fabrication	1
+miniature robotics	medical robotics	1
+miniature robotics	piezoelectric actuator	1
+miniature robotics	object	1
+miniature robotics	surface tension	1
+miniature robotics	magnetic actuation	1
+situated cognition	situated cognition	3
+situated cognition	intelligence	1
+situated cognition	cognitive modeling	1
+situated cognition	framework	1
+situated cognition	cognitive architecture	1
+situated cognition	virtual environment	1
+physiological tremor	physiological tremor	3
+physiological tremor	force	1
+physiological tremor	control system	1
+physiological tremor	accuracy	1
+physiological tremor	medical robotics	3
+physiological tremor	movement	1
+physiological tremor	performance	1
+physiological tremor	tremor	2
+motion	motion	43
+motion	snake robot	1
+motion	particle filter	1
+motion	strategy	1
+motion	time	1
+motion	underactuated mechanical system	1
+motion	algorithm	2
+motion	gait	1
+motion	simulation	2
+motion	space	2
+motion	sphere	1
+motion	agent	2
+motion	mobile robotics	1
+motion	orientation	1
+motion	mobility	1
+motion	uncertainty	1
+motion	voronoi diagram	1
+motion	generation	3
+motion	topology	1
+motion	control	1
+motion	autonomous mobile robot	1
+motion	neural network	1
+motion	pattern	1
+motion	tracking	3
+motion	accuracy	1
+motion	task	1
+motion	scale	1
+motion	impact	1
+motion	exploration	3
+motion	legged robot	2
+motion	spinal cord injury	1
+motion	pomdp	1
+motion	adaptive control	1
+motion	controllability	3
+motion	uav	2
+motion	part	1
+motion	position estimation	1
+motion	visual odometry	1
+motion	robotics	4
+motion	behavior	2
+motion	connectivity	1
+motion	vehicle	2
+motion	rehabilitation	1
+motion	machine learning	1
+motion	recovery	1
+motion	sensor	1
+motion	graph	1
+motion	vision	3
+motion	medical robotics	2
+motion	force control	3
+motion	framework	1
+motion	robot	8
+motion	contact	1
+motion	visual tracking	1
+motion	human robot collaboration	1
+motion	social robot	1
+motion	object	1
+motion	localization	3
+motion	sensor network	1
+motion	nonholonomic motion planning	1
+motion	coordination	3
+motion	motion planning	5
+motion	environment	2
+motion	computer vision	1
+motion	magnetic actuation	1
+motion	reinforcement learning	1
+motion	slam	1
+motion	dry friction	2
+snake robot	snake robot	11
+snake robot	gait	3
+snake robot	simulation	1
+snake robot	locomotion	4
+snake robot	tool	2
+snake robot	compliant control	1
+snake robot	hyper redundant robot	2
+snake robot	hyper redundant mechanism	2
+snake robot	motion planning	1
+snake robot	inverse kinematics	1
+logic programming	logic programming	4
+logic programming	verification	1
+logic programming	multi agent system	1
+logic programming	language	1
+logic programming	knowledge representation	1
+logic programming	linear logic	1
+response	response	4
+response	agent	1
+response	computer	2
+response	insight	1
+response	dialogue	2
+response	behavior	1
+response	other	2
+response	knowledge	2
+response	social robot	2
+response	working memory	1
+response	performance	1
+collective robotics	collective robotics	3
+collective robotics	modular robot	3
+collective robotics	self reconfiguration	3
+particle filter	particle filter	5
+particle filter	space	1
+particle filter	entropy	1
+particle filter	task	1
+particle filter	pomdp	1
+particle filter	position estimation	1
+particle filter	modular robot	1
+particle filter	robotics	1
+particle filter	multi robot	1
+particle filter	feature	1
+particle filter	guidance	1
+particle filter	tour guide robot	1
+particle filter	vision	1
+particle filter	framework	1
+particle filter	robot	2
+particle filter	localization	2
+particle filter	multi robot system	1
+particle filter	soccer	1
+field robotics	field robotics	4
+field robotics	algorithm	1
+field robotics	mobile robotics	2
+field robotics	mapping	1
+field robotics	image	1
+field robotics	laser	1
+field robotics	uav	1
+field robotics	visual odometry	1
+field robotics	behavior	1
+field robotics	vehicle	1
+field robotics	robot	1
+field robotics	localization	2
+field robotics	inverse reinforcement learning	1
+regolith	regolith	3
+regolith	force	2
+regolith	tool	2
+regolith	scale	1
+regolith	robotics	2
+regolith	rover	2
+regolith	performance	3
+strategy	strategy	10
+strategy	uncertainty	4
+strategy	topology	3
+strategy	metacognition	1
+strategy	exploration	3
+strategy	part	3
+strategy	robotics	3
+strategy	problem solving	1
+strategy	knowledge	1
+strategy	recovery	1
+strategy	graph	3
+strategy	robot	3
+strategy	object	1
+strategy	stability	1
+strategy	instruction	1
+strategy	reinforcement learning	1
+strategy	game	2
+multirobot	multirobot	4
+multirobot	search	1
+multirobot	exploration	1
+multirobot	task allocation	1
+multirobot	team	1
+multirobot	robot	1
+multirobot	motion planning	1
+multirobot	environment	1
+multirobot	obstacle	1
+constraint logic programming	constraint logic programming	4
+constraint logic programming	constraint	1
+constraint logic programming	mixed integer programming	3
+constraint logic programming	optimization	1
+autonomy	autonomy	7
+autonomy	multiagent system	1
+autonomy	sliding autonomy	1
+autonomy	multi agent system	1
+autonomy	task allocation	1
+autonomy	robotics	1
+autonomy	world	1
+autonomy	robot	1
+autonomy	multi robot system	1
+autonomy	coordination	2
+autonomy	teleoperation	1
+time	time	7
+time	simulation	1
+time	locomotion	1
+time	multi robot coordination	1
+time	control	1
+time	distributed computing	1
+time	spinal cord injury	1
+time	behavior	1
+time	rehabilitation	1
+time	language	1
+time	robot	1
+time	theory	1
+time	inverse reinforcement learning	1
+time	reinforcement learning	2
+authoring tool	authoring tool	4
+authoring tool	cognitive tutor	1
+authoring tool	collaborative learning	1
+authoring tool	problem solving	1
+student	student	6
+student	computer	1
+student	metacognition	1
+student	dialogue	1
+student	collaborative learning	1
+student	problem solving	1
+student	skill	1
+student	learning	1
+student	reinforcement learning	1
+motion generation	motion generation	3
+motion generation	constraint	1
+motion generation	animation	1
+motion generation	force control	1
+motion generation	robot	1
+motion generation	environment	1
+surface	surface	14
+surface	waalbot	1
+surface	simulation	1
+surface	locomotion	3
+surface	force	3
+surface	insect locomotion	1
+surface	friction	3
+surface	dynamic	3
+surface	scale	2
+surface	constraint	1
+surface	modular robot	1
+surface	robotics	1
+surface	robot	2
+surface	contact	1
+surface	movement	1
+surface	micro/nano robot	1
+surface	gecko	1
+surface	dimension	2
+surface	design and control	1
+surface	stability	1
+surface	coordination	1
+surface	climbing robot	4
+surface	alignment	1
+surface	adhesion	3
+surface	dry friction	1
+surface	legged locomotion	1
+morse decomposition	morse decomposition	3
+morse decomposition	algorithm	1
+morse decomposition	exploration	1
+morse decomposition	robotics	1
+morse decomposition	demining	1
+morse decomposition	multi robot	1
+morse decomposition	robot	1
+morse decomposition	coordination	1
+morse decomposition	environment	1
+underactuated mechanical system	underactuated mechanical system	5
+underactuated mechanical system	locomotion	2
+underactuated mechanical system	geometric mechanic	1
+underactuated mechanical system	controllability	1
+underactuated mechanical system	underactuated robot	1
+underactuated mechanical system	robot	1
+underactuated mechanical system	nonholonomic motion planning	1
+underactuated mechanical system	underactuated system	1
+underactuated mechanical system	optimization	1
+algorithm	algorithm	56
+algorithm	locomotion	1
+algorithm	space	2
+algorithm	path	2
+algorithm	agent	1
+algorithm	mobile robotics	2
+algorithm	terrain	1
+algorithm	probabilistic roadmap	3
+algorithm	multirobot coordination	1
+algorithm	search	3
+algorithm	generation	2
+algorithm	mapping	3
+algorithm	multi robot coordination	1
+algorithm	error	1
+algorithm	neural network	3
+algorithm	object recognition	1
+algorithm	pattern	1
+algorithm	identification	3
+algorithm	segmentation	1
+algorithm	tracking	2
+algorithm	filter	1
+algorithm	exploration	1
+algorithm	representation	1
+algorithm	imitation	1
+algorithm	verification	1
+algorithm	multiagent system	1
+algorithm	complementary learning system	1
+algorithm	adaptive control	1
+algorithm	car	1
+algorithm	controllability	1
+algorithm	multi agent system	3
+algorithm	uav	2
+algorithm	constraint	3
+algorithm	task allocation	3
+algorithm	robotics	2
+algorithm	behavior	2
+algorithm	demining	1
+algorithm	vehicle	3
+algorithm	coalition formation	2
+algorithm	machine learning	1
+algorithm	arm	1
+algorithm	guidance	1
+algorithm	team	4
+algorithm	sensor	1
+algorithm	graph	2
+algorithm	artificial intelligence	2
+algorithm	medical robotics	1
+algorithm	optimal control	1
+algorithm	framework	2
+algorithm	robot	3
+algorithm	tracking control	2
+algorithm	object	1
+algorithm	reinforcement	1
+algorithm	gaussian processe	2
+algorithm	localization	3
+algorithm	experimentation	2
+algorithm	sensor network	5
+algorithm	long term autonomy	1
+algorithm	theory	1
+algorithm	multi robot system	1
+algorithm	coordination	3
+algorithm	motion planning	2
+algorithm	environment	4
+algorithm	computer vision	1
+algorithm	cognitive architecture	1
+algorithm	alignment	3
+algorithm	performance	2
+algorithm	multiple robot	2
+algorithm	reinforcement learning	2
+algorithm	slam	2
+algorithm	approximation algorithm	3
+algorithm	dry friction	1
+algorithm	activity recognition	1
+algorithm	game	1
+algorithm	optimization	4
+waalbot	waalbot	4
+waalbot	locomotion	2
+waalbot	force	1
+waalbot	adhesive	2
+waalbot	friction	1
+waalbot	biologically inspired robot	1
+waalbot	surface tension	1
+waalbot	climbing robot	1
+waalbot	adhesion	2
+gait	gait	17
+gait	simulation	1
+gait	locomotion	4
+gait	human walking	5
+gait	genetic algorithm	1
+gait	topology	1
+gait	geometric mechanic	1
+gait	control	1
+gait	neural network	1
+gait	legged robot	1
+gait	spinal cord injury	1
+gait	adaptive control	1
+gait	robotics	2
+gait	rehabilitation	1
+gait	exoskeleton	3
+gait	biologically inspired robot	1
+gait	robot	4
+gait	cost	2
+gait	climbing robot	1
+gait	environment	1
+gait	performance	1
+gait	legged locomotion	3
+simulation	simulation	16
+simulation	locomotion	3
+simulation	mapping	1
+simulation	control	1
+simulation	friction	2
+simulation	field and service robotics	1
+simulation	field robot	1
+simulation	dynamic	2
+simulation	laser	1
+simulation	spinal cord injury	1
+simulation	intelligence	1
+simulation	ladar data	1
+simulation	constraint	1
+simulation	autonomous vehicle	1
+simulation	cognitive modeling	2
+simulation	issue	1
+simulation	ubiquitous computing	1
+simulation	rehabilitation	1
+simulation	wheeled mobile robot	1
+simulation	act r	2
+simulation	visualization	1
+simulation	unmanned ground vehicle	1
+simulation	cognitive architecture	1
+simulation	performance	1
+simulation	reinforcement learning	1
+simulation	adhesion	1
+simulation	dry friction	1
+simulation	legged locomotion	1
+locomotion	locomotion	40
+locomotion	force	2
+locomotion	mobile robotics	1
+locomotion	terrain	2
+locomotion	probabilistic roadmap	1
+locomotion	search	1
+locomotion	topology	1
+locomotion	geometric mechanic	1
+locomotion	adhesive	1
+locomotion	control	1
+locomotion	friction	2
+locomotion	field and service robotics	1
+locomotion	field robot	1
+locomotion	dynamic	1
+locomotion	legged robot	2
+locomotion	underactuated robot	3
+locomotion	behavior	1
+locomotion	vehicle	1
+locomotion	biologically inspired robot	4
+locomotion	compliant control	1
+locomotion	recovery	1
+locomotion	rough terrain	1
+locomotion	robot	8
+locomotion	dimension	1
+locomotion	robot architecture	1
+locomotion	hyper redundant mechanism	1
+locomotion	design and control	1
+locomotion	nonholonomic motion planning	1
+locomotion	stability	2
+locomotion	surface tension	2
+locomotion	motion planning	2
+locomotion	climbing robot	1
+locomotion	environment	1
+locomotion	reinforcement learning	1
+locomotion	adhesion	2
+locomotion	legged locomotion	1
+model predictive control	model predictive control	6
+model predictive control	dynamic environment	1
+model predictive control	adaptive control	1
+model predictive control	multi agent system	1
+model predictive control	optimal control	1
+model predictive control	formal verification	1
+model predictive control	reachability	1
+model predictive control	reinforcement learning	1
+model predictive control	optimization	1
+space	space	8
+space	mobile robotics	1
+space	probabilistic roadmap	1
+space	tracking	1
+space	task	1
+space	exploration	2
+space	imitation	1
+space	pomdp	1
+space	behavior	1
+space	vision	1
+space	optimal control	1
+space	framework	1
+space	robot	2
+space	reinforcement	1
+space	motion planning	2
+space	computer vision	1
+space	alignment	1
+space	reinforcement learning	1
+space	slam	1
+force	force	7
+force	friction	2
+force	tool	1
+force	field robot	1
+force	dynamic	1
+force	robotics	1
+force	vehicle	1
+force	rough terrain	1
+force	medical robotics	1
+force	robot	1
+force	rover	1
+force	movement	1
+force	gecko	1
+force	coordination	1
+force	climbing robot	2
+force	performance	2
+force	adhesion	2
+force	legged locomotion	2
+cognitive robotics	cognitive robotics	5
+cognitive robotics	generation	1
+cognitive robotics	metacognition	1
+cognitive robotics	car	1
+cognitive robotics	machine learning	1
+cognitive robotics	act r	2
+cognitive robotics	nonholonomic motion planning	1
+cognitive robotics	environment	1
+cognitive robotics	cognitive architecture	2
+cognitive robotics	obstacle	1
+cognitive robotics	slam	1
+path	path	9
+path	probabilistic roadmap	1
+path	wheel	2
+path	topology	1
+path	car	4
+path	robotics	1
+path	vehicle	1
+path	optimal control	1
+path	robot	2
+path	motion planning	2
+path	avoidance	1
+sphere	sphere	3
+sphere	electronics	1
+sphere	mobility	1
+sphere	telerobotics	1
+sphere	microelectromechanical system	1
+sphere	manipulation planning	1
+sphere	dynamic	1
+sphere	legged robot	1
+sphere	robotics	1
+sphere	micro/nanorobot	1
+sphere	contact	1
+agent	agent	18
+agent	computer	1
+agent	autonomous mobile robot	1
+agent	task	1
+agent	robot soccer	1
+agent	multiagent system	1
+agent	dialogue	2
+agent	multi agent system	1
+agent	constraint	1
+agent	robotics	1
+agent	behavior	1
+agent	other	1
+agent	connectivity	1
+agent	knowledge	1
+agent	autonomous	1
+agent	machine learning	1
+agent	team	1
+agent	context awareness	1
+agent	robot	1
+agent	social robot	3
+agent	sensor network	1
+agent	coordination	4
+agent	robotic soccer	1
+agent	soccer	1
+agent	reinforcement learning	1
+agent	cooperation	3
+agent	scheduling	1
+agent	optimization	2
+electronics	electronics	4
+electronics	microelectromechanical system	1
+electronics	skin	1
+electronics	contact	1
+electronics	mechanical property	1
+hard	hard	4
+hard	creativity	1
+hard	pattern	1
+hard	insight	1
+hard	exploration	1
+hard	problem solving	2
+hard	knowledge	1
+hard	performance	1
+mobile robotics	mobile robotics	11
+mobile robotics	mapping	3
+mobile robotics	segmentation	1
+mobile robotics	tracking	1
+mobile robotics	filter	1
+mobile robotics	legged robot	1
+mobile robotics	laser	1
+mobile robotics	adaptive control	1
+mobile robotics	behavior	1
+mobile robotics	vehicle	1
+mobile robotics	biologically inspired robot	1
+mobile robotics	tour guide robot	1
+mobile robotics	localization	3
+mobile robotics	nonholonomic motion planning	1
+mobile robotics	long term autonomy	1
+mobile robotics	multi robot system	2
+mobile robotics	surface tension	1
+mobile robotics	motion planning	1
+mobile robotics	environment	2
+mobile robotics	alignment	1
+mobile robotics	inverse reinforcement learning	1
+mobile robotics	slam	1
+erroneous example	erroneous example	4
+erroneous example	error	1
+erroneous example	problem solving	2
+erroneous example	knowledge	1
+erroneous example	self explanation	1
+terrain	terrain	11
+terrain	probabilistic roadmap	1
+terrain	search	1
+terrain	dynamic	1
+terrain	exploration	1
+terrain	ladar data	1
+terrain	autonomous vehicle	1
+terrain	wheeled mobile robot	2
+terrain	graph	1
+terrain	calibration	1
+terrain	robot	1
+terrain	rover	1
+terrain	localization	1
+terrain	motion planning	1
+terrain	environment	2
+creativity	creativity	5
+creativity	insight	2
+creativity	representation	1
+creativity	incubation	1
+creativity	example	1
+creativity	idea generation	1
+creativity	problem solving	4
+creativity	knowledge	1
+creativity	blind variation	1
+creativity	performance	1
+creativity	fixation	1
+creativity	selective retention	1
+surveillance	surveillance	4
+surveillance	search	1
+surveillance	event detection	1
+surveillance	robotics	1
+surveillance	autonomous	1
+surveillance	artificial intelligence	2
+surveillance	pattern recognition	2
+individual difference	individual difference	8
+individual difference	fmri	4
+individual difference	basal ganglion	1
+individual difference	choice	1
+individual difference	task	1
+individual difference	spatial working memory	1
+individual difference	representation	1
+individual difference	problem solving	2
+individual difference	graph	1
+individual difference	working memory	2
+individual difference	visualization	1
+individual difference	reinforcement learning	2
+individual difference	game	1
+orientation	orientation	3
+orientation	motion capture	1
+orientation	tracking	1
+orientation	accuracy	1
+orientation	reconstruction	1
+orientation	skin	1
+orientation	exoskeleton	1
+orientation	strain sensor	1
+orientation	localization	1
+orientation	magnetic actuation	1
+probabilistic roadmap	probabilistic roadmap	8
+probabilistic roadmap	search	1
+probabilistic roadmap	car	1
+probabilistic roadmap	vehicle	1
+probabilistic roadmap	robot	1
+probabilistic roadmap	motion planning	2
+probabilistic roadmap	obstacle	1
+multirobot coordination	multirobot coordination	7
+multirobot coordination	multiagent system	1
+multirobot coordination	task allocation	4
+multirobot coordination	robot	1
+multirobot coordination	auction	1
+multirobot coordination	environment	1
+multirobot coordination	distributed robot system	1
+multirobot coordination	slam	1
+computer	computer	4
+computer	peer tutoring	1
+computer	explanation	1
+computer	dialogue	2
+computer	cognitive tutor	1
+computer	behavior	1
+computer	other	2
+computer	knowledge	2
+computer	social robot	2
+computer	instruction	1
+computer	environment	1
+computer	skill	1
+fmri	fmri	19
+fmri	metacognition	1
+fmri	choice	1
+fmri	pattern	1
+fmri	task	2
+fmri	spatial working memory	2
+fmri	representation	2
+fmri	brain	2
+fmri	cognitive modeling	1
+fmri	human brain	1
+fmri	problem solving	8
+fmri	parietal cortex	4
+fmri	graph	1
+fmri	retrieval	3
+fmri	hanoi	1
+fmri	hidden markov model	3
+fmri	anterior cingulate cortex	2
+fmri	cognitive control	2
+fmri	working memory	4
+fmri	frontal cortex	3
+fmri	visualization	3
+fmri	reinforcement learning	1
+fmri	cognition	1
+basal ganglion	basal ganglion	6
+basal ganglion	neural network	1
+basal ganglion	selection	1
+basal ganglion	human brain	1
+basal ganglion	language	1
+basal ganglion	anterior cingulate cortex	2
+basal ganglion	cognitive control	1
+basal ganglion	working memory	2
+basal ganglion	performance	1
+basal ganglion	reinforcement learning	2
+search	search	13
+search	tracking	1
+search	exploration	1
+search	representation	1
+search	multiagent system	1
+search	intelligence	1
+search	constraint	1
+search	cognitive modeling	1
+search	autonomous	1
+search	team	1
+search	graph	2
+search	vision	1
+search	object	1
+search	act r	1
+search	coordination	1
+search	motion planning	1
+search	computer vision	1
+search	multiple robot	1
+wheel	wheel	3
+wheel	car	2
+wheel	optimal control	1
+wheel	robot	1
+wheel	rover	1
+wheel	performance	1
+mobility	mobility	5
+mobility	approximation	1
+mobility	representation	1
+mobility	legged robot	1
+mobility	body	1
+mobility	robot	1
+mobility	contact	1
+pervasive computing	pervasive computing	3
+pervasive computing	ubiquitous computing	2
+pervasive computing	software engineering	1
+pervasive computing	software architecture	1
+uncertainty	uncertainty	10
+uncertainty	topology	3
+uncertainty	entropy	2
+uncertainty	exploration	3
+uncertainty	verification	1
+uncertainty	mathematical theory	2
+uncertainty	part	3
+uncertainty	bayesian network	1
+uncertainty	robotics	3
+uncertainty	recovery	2
+uncertainty	graph	3
+uncertainty	artificial intelligence	2
+uncertainty	robot	2
+uncertainty	object	1
+uncertainty	self adaptive system	1
+uncertainty	localization	1
+uncertainty	multi robot system	1
+uncertainty	cognition	1
+assistive technology	assistive technology	3
+assistive technology	spinal cord injury	1
+assistive technology	rehabilitation	2
+assistive technology	wheelchair	1
+assistive technology	artificial intelligence	1
+assistive technology	robot	1
+assistive technology	cost	1
+assistive technology	assistive robot	1
+voronoi diagram	voronoi diagram	5
+voronoi diagram	mapping	2
+voronoi diagram	exploration	4
+voronoi diagram	sensor based exploration	2
+voronoi diagram	robot	2
+voronoi diagram	localization	1
+voronoi diagram	motion planning	3
+voronoi diagram	obstacle	1
+human walking	human walking	4
+human walking	robotics	1
+human walking	exoskeleton	1
+human walking	robot	1
+human walking	cost	1
+human walking	legged locomotion	1
+generation	generation	18
+generation	motion capture	1
+generation	pattern	1
+generation	task	2
+generation	insight	1
+generation	representation	2
+generation	car	1
+generation	uav	1
+generation	constraint	1
+generation	incubation	3
+generation	problem solving	1
+generation	animation	1
+generation	vehicle	1
+generation	language	2
+generation	force control	2
+generation	robot	1
+generation	movement	1
+generation	artificial muscle	1
+generation	nonholonomic motion planning	1
+generation	motion planning	2
+generation	environment	1
+generation	performance	3
+generation	inverse kinematics	1
+generation	multiple robot	2
+generation	distributed robot system	1
+generation	fixation	3
+generation	obstacle	1
+generation	slam	1
+generation	optimization	2
+genetic algorithm	genetic algorithm	4
+genetic algorithm	developmental robotics	1
+genetic algorithm	behavior	1
+genetic algorithm	piezoelectric actuator	1
+genetic algorithm	computational design	1
+robotic manipulator	robotic manipulator	3
+robotic manipulator	error	1
+robotic manipulator	friction	1
+robotic manipulator	visual servoing	1
+mapping	mapping	14
+mapping	topology	1
+mapping	field and service robotics	1
+mapping	segmentation	1
+mapping	tracking	1
+mapping	filter	2
+mapping	field robot	2
+mapping	exploration	3
+mapping	laser	2
+mapping	ladar data	2
+mapping	sensor based exploration	1
+mapping	robot	1
+mapping	localization	7
+mapping	long term autonomy	1
+mapping	multi robot system	1
+mapping	motion planning	1
+mapping	environment	2
+mapping	alignment	1
+mapping	performance	1
+mapping	slam	3
+mapping	teleoperation	1
+remote driving	remote driving	3
+remote driving	uav	1
+remote driving	vehicle teleoperation	3
+topology	topology	5
+topology	control	1
+topology	exploration	2
+topology	part	2
+topology	robotics	2
+topology	recovery	1
+topology	graph	2
+topology	robot	2
+topology	localization	1
+topology	motion planning	1
+topology	climbing robot	1
+topology	environment	1
+topology	slam	1
+topology	legged locomotion	1
+intelligibility	intelligibility	3
+intelligibility	control	1
+intelligibility	explanation	1
+intelligibility	issue	1
+intelligibility	framework	1
+intelligibility	context aware computing	1
+automatic speech recognition	automatic speech recognition	4
+automatic speech recognition	neural network	1
+automatic speech recognition	speech recognition	1
+automatic speech recognition	recurrent neural network	1
+multi robot coordination	multi robot coordination	7
+multi robot coordination	robot soccer	1
+multi robot coordination	constraint	1
+multi robot coordination	task allocation	1
+multi robot coordination	coalition formation	1
+multi robot coordination	team	1
+multi robot coordination	robot	1
+multi robot coordination	robot architecture	1
+multi robot coordination	coordination	1
+multi robot coordination	cooperation	1
+multi robot coordination	scheduling	1
+error	error	5
+error	component	1
+error	complementary learning system	1
+error	autonomous vehicle	1
+error	visual servoing	1
+error	problem solving	1
+error	knowledge	2
+error	awareness	1
+error	anterior cingulate cortex	1
+error	cognitive architecture	1
+telerobotics	telerobotics	3
+telerobotics	manipulation planning	1
+telerobotics	dynamic	1
+telerobotics	robotics	1
+telerobotics	user centered design	1
+telerobotics	micro/nanorobot	1
+geometric mechanic	geometric mechanic	3
+geometric mechanic	underactuated robot	1
+geometric mechanic	constraint	1
+geometric mechanic	nonholonomic motion planning	2
+insect locomotion	insect locomotion	5
+insect locomotion	dynamic	4
+insect locomotion	legged robot	1
+insect locomotion	robot	2
+insect locomotion	stability	4
+insect locomotion	climbing robot	1
+insect locomotion	environment	1
+insect locomotion	legged locomotion	2
+sensing	sensing	3
+sensing	identification	1
+sensing	component	1
+sensing	autonomous	1
+sensing	robot	1
+sensing	teleoperation	1
+adhesive	adhesive	3
+adhesive	biologically inspired robot	1
+adhesive	surface tension	1
+control	control	8
+control	dynamic	1
+control	spinal cord injury	1
+control	constraint	1
+control	robotics	2
+control	animation	1
+control	rehabilitation	1
+control	medical robotics	2
+control	framework	1
+control	robot	2
+control	motion planning	1
+control	context aware computing	1
+control	climbing robot	1
+control	environment	1
+control	reinforcement learning	1
+control	legged locomotion	2
+friction	friction	8
+friction	dynamic	2
+friction	scale	1
+friction	impact	1
+friction	body	1
+friction	contact	1
+friction	micro/nano robot	1
+friction	gecko	2
+friction	design and control	1
+friction	motion planning	1
+friction	climbing robot	1
+friction	adhesion	2
+friction	legged locomotion	1
+motor	motor	4
+motor	carpet	1
+motor	adhesion	1
+microelectromechanical system	microelectromechanical system	4
+microelectromechanical system	information technology	1
+microelectromechanical system	distributed computing	1
+microelectromechanical system	modular robot	1
+microelectromechanical system	contact	1
+microelectromechanical system	performance	1
+metacognition	metacognition	5
+metacognition	spatial working memory	1
+metacognition	representation	1
+metacognition	problem solving	2
+metacognition	chemistry	1
+metacognition	parietal cortex	1
+metacognition	act r	1
+metacognition	frontal cortex	1
+metacognition	cognitive architecture	1
+motion capture	motion capture	3
+motion capture	reconstruction	1
+motion capture	skin	1
+motion capture	animation	1
+motion capture	exoskeleton	1
+motion capture	strain sensor	1
+motion capture	motion planning	1
+humanoid robotics	humanoid robotics	3
+humanoid robotics	imitation	1
+humanoid robotics	object	1
+humanoid robotics	inverse kinematics	1
+choice	choice	4
+choice	representation	1
+choice	cognitive modeling	1
+choice	selection	1
+choice	problem solving	3
+choice	efficiency	1
+choice	cost	1
+choice	act r	1
+choice	visualization	1
+choice	instruction	1
+choice	performance	1
+autonomous mobile robot	autonomous mobile robot	4
+autonomous mobile robot	connectivity	1
+autonomous mobile robot	robot	1
+autonomous mobile robot	coordination	1
+autonomous mobile robot	reinforcement learning	1
+autonomous mobile robot	teleoperation	1
+neural network	neural network	29
+neural network	extension	1
+neural network	identification	3
+neural network	tracking	1
+neural network	control system	1
+neural network	hippocampus	1
+neural network	complementary learning system	1
+neural network	adaptive control	2
+neural network	robotics	3
+neural network	selection	1
+neural network	science	1
+neural network	gesture	1
+neural network	machine learning	1
+neural network	feature	1
+neural network	artificial intelligence	2
+neural network	hidden markov model	1
+neural network	force control	2
+neural network	robot	2
+neural network	tracking control	3
+neural network	experimentation	1
+neural network	working memory	1
+neural network	stability	1
+neural network	recurrent neural network	1
+neural network	theory	3
+neural network	cognitive architecture	1
+neural network	distributed system	1
+event detection	event detection	4
+event detection	tracking	1
+event detection	artificial intelligence	1
+event detection	pattern recognition	1
+event detection	localization	1
+object recognition	object recognition	4
+object recognition	representation	2
+object recognition	human brain	1
+object recognition	feature	1
+object recognition	expertise	1
+object recognition	environment	1
+object recognition	learning	1
+tool	tool	5
+tool	extension	1
+tool	verification	1
+tool	component	1
+tool	robotics	1
+tool	language	1
+tool	rover	1
+tool	hyper redundant robot	1
+tool	software engineering	1
+tool	hyper redundant mechanism	2
+tool	performance	1
+field and service robotics	field and service robotics	3
+field and service robotics	field robot	1
+field and service robotics	laser	1
+field and service robotics	ladar data	1
+field and service robotics	underactuated robot	1
+field and service robotics	biologically inspired robot	1
+field and service robotics	design and control	1
+field and service robotics	performance	1
+drug delivery	drug delivery	4
+drug delivery	component	1
+drug delivery	skeletal muscle	1
+drug delivery	medical robotics	2
+drug delivery	magnetic actuation	1
+extension	extension	3
+extension	information technology	1
+extension	impact	1
+extension	verification	1
+extension	component	1
+extension	behavior	1
+extension	language	1
+extension	software engineering	1
+image	image	7
+image	visual odometry	1
+image	robotics	1
+image	visual servoing	1
+image	robot	1
+image	visual tracking	1
+image	localization	1
+image	gp	1
+pattern	pattern	7
+pattern	exploration	1
+pattern	intelligence	1
+pattern	uav	1
+pattern	cognitive modeling	1
+pattern	robotics	1
+pattern	visual servoing	1
+pattern	ubiquitous computing	1
+pattern	knowledge	1
+pattern	vehicle	1
+pattern	emotion	1
+pattern	sensor	1
+pattern	software	1
+pattern	hidden markov model	2
+pattern	framework	1
+pattern	performance	2
+pattern	stress	1
+abstraction	abstraction	3
+abstraction	verification	2
+abstraction	language	1
+abstraction	software	1
+abstraction	software engineering	1
+abstraction	model checking	1
+distributed	distributed	4
+distributed	demining	1
+distributed	semi autonomous	2
+distributed	multi robot	1
+distributed	robot	2
+distributed	localization	1
+distributed	heterogeneous	2
+identification	identification	8
+identification	adaptive control	1
+identification	bayesian network	1
+identification	guidance	1
+identification	medical robotics	1
+identification	robot	2
+identification	tracking control	2
+identification	localization	1
+information technology	information technology	6
+information technology	impact	1
+information technology	curriculum	1
+information technology	behavior	1
+information technology	knowledge	1
+information technology	rehabilitation	1
+information technology	performance	2
+segmentation	segmentation	3
+segmentation	tracking	1
+segmentation	robotics	1
+segmentation	localization	1
+segmentation	environment	1
+segmentation	learning	1
+manipulation planning	manipulation planning	4
+manipulation planning	dynamic	1
+manipulation planning	heuristic search	2
+manipulation planning	robotics	1
+manipulation planning	micro/nanorobot	1
+manipulation planning	motion planning	2
+tracking	tracking	21
+tracking	control system	1
+tracking	accuracy	1
+tracking	scale	1
+tracking	exploration	1
+tracking	representation	1
+tracking	position estimation	1
+tracking	visual odometry	1
+tracking	gesture	1
+tracking	micro/nanorobot	1
+tracking	feature	1
+tracking	surgery	2
+tracking	vision	1
+tracking	medical robotics	1
+tracking	hidden markov model	1
+tracking	robot	1
+tracking	visual tracking	1
+tracking	object	1
+tracking	localization	5
+tracking	motion planning	1
+tracking	environment	3
+tracking	computer vision	2
+tracking	unmanned ground vehicle	1
+tracking	tremor	1
+tracking	magnetic actuation	1
+tracking	slam	1
+tracking	gp	1
+rescue	rescue	3
+rescue	team	1
+rescue	environment	1
+rescue	performance	1
+control system	control system	3
+control system	adaptive control	1
+control system	medical robotics	1
+control system	robot	1
+control system	tracking control	1
+control system	stability	1
+control system	environment	1
+control system	tremor	1
+distributed computing	distributed computing	4
+distributed computing	multi agent system	2
+distributed computing	modular robot	1
+distributed computing	language	1
+distributed computing	theory	1
+distributed computing	optimization	2
+propulsion	propulsion	6
+propulsion	dynamic	1
+propulsion	micro/nanorobot	1
+propulsion	microrobotics	1
+propulsion	robot	1
+propulsion	dimension	1
+propulsion	design and control	1
+propulsion	magnetic actuation	1
+propulsion	distributed robot system	1
+in vitro	in vitro	3
+in vitro	skeletal muscle	2
+in vitro	carbon nanotube	1
+filter	filter	6
+filter	vision	1
+filter	localization	3
+filter	long term autonomy	1
+filter	multi robot system	2
+filter	slam	4
+filter	teleoperation	1
+entropy	entropy	4
+entropy	mathematical theory	2
+entropy	multi robot	1
+entropy	artificial intelligence	2
+entropy	localization	1
+accuracy	accuracy	8
+accuracy	robotics	2
+accuracy	machine learning	1
+accuracy	medical robotics	2
+accuracy	robot	1
+accuracy	movement	2
+accuracy	localization	1
+accuracy	tremor	4
+accuracy	magnetic actuation	1
+carpet	carpet	4
+carpet	robot	1
+carpet	adhesion	1
+task	task	11
+task	spatial working memory	1
+task	representation	3
+task	pomdp	1
+task	dialogue	1
+task	incubation	2
+task	problem solving	2
+task	hanoi	2
+task	framework	1
+task	robot	2
+task	social robot	1
+task	cognitive control	1
+task	performance	4
+task	skill	1
+task	fixation	2
+task	cooperation	1
+field robot	field robot	3
+field robot	laser	1
+field robot	ladar data	2
+field robot	vehicle	1
+field robot	rough terrain	1
+field robot	performance	1
+haptic interface	haptic interface	3
+haptic interface	selection	1
+haptic interface	ubiquitous computing	1
+haptic interface	machine learning	1
+haptic interface	arm	1
+haptic interface	virtual reality	1
+haptic interface	force control	1
+haptic interface	robot	1
+haptic interface	stroke	1
+haptic interface	carbon nanotube	1
+robot soccer	robot soccer	3
+robot soccer	behavior	1
+hippocampus	hippocampus	4
+hippocampus	complementary learning system	2
+hippocampus	working memory	1
+approximation	approximation	6
+approximation	representation	1
+approximation	allocation	1
+approximation	self adaptation	1
+approximation	coordination	2
+dynamic	dynamic	18
+dynamic	impact	1
+dynamic	constraint	2
+dynamic	robotics	3
+dynamic	micro/nanorobot	1
+dynamic	configuration space	1
+dynamic	wheeled mobile robot	1
+dynamic	body	1
+dynamic	robot	4
+dynamic	contact	1
+dynamic	rover	2
+dynamic	movement	1
+dynamic	design and control	1
+dynamic	stability	3
+dynamic	coordination	1
+dynamic	motion planning	2
+dynamic	climbing robot	1
+dynamic	adhesion	1
+dynamic	dry friction	1
+dynamic	legged locomotion	6
+scale	scale	5
+scale	representation	1
+scale	behavior	1
+scale	micro/nano robot	1
+scale	design and control	1
+scale	climbing robot	1
+scale	performance	1
+spatial working memory	spatial working memory	4
+spatial working memory	representation	1
+spatial working memory	problem solving	3
+spatial working memory	parietal cortex	1
+spatial working memory	frontal cortex	1
+developmental robotics	developmental robotics	4
+developmental robotics	imitation	2
+developmental robotics	behavior	1
+developmental robotics	movement	1
+developmental robotics	object	1
+developmental robotics	robot architecture	1
+developmental robotics	coordination	1
+heuristic search	heuristic search	8
+heuristic search	efficiency	1
+heuristic search	graph	1
+heuristic search	motion planning	3
+insight	insight	3
+insight	constraint	1
+insight	incubation	1
+insight	problem solving	2
+insight	working memory	1
+insight	fixation	1
+reconstruction	reconstruction	5
+reconstruction	skin	1
+reconstruction	exoskeleton	1
+reconstruction	alloy	1
+reconstruction	strain sensor	2
+reconstruction	localization	1
+reconstruction	environment	1
+automated theorem proving	automated theorem proving	3
+automated theorem proving	verification	1
+automated theorem proving	formal verification	1
+automated theorem proving	software engineering	1
+impact	impact	4
+impact	behavior	2
+impact	recovery	1
+impact	body	1
+impact	contact	1
+impact	social robot	1
+impact	motion planning	2
+impact	dry friction	1
+exploration	exploration	20
+exploration	mathematical theory	1
+exploration	adaptive control	1
+exploration	part	2
+exploration	robotics	3
+exploration	knowledge	1
+exploration	multi robot	1
+exploration	recovery	1
+exploration	sensor based exploration	1
+exploration	graph	4
+exploration	vision	1
+exploration	robot	3
+exploration	localization	1
+exploration	design and control	1
+exploration	nonholonomic motion planning	1
+exploration	coordination	1
+exploration	motion planning	4
+exploration	environment	1
+exploration	computer vision	1
+exploration	performance	1
+exploration	obstacle	1
+exploration	slam	3
+exploration	optimization	1
+representation	representation	19
+representation	intelligence	1
+representation	selection	1
+representation	incubation	2
+representation	example	1
+representation	human brain	1
+representation	idea generation	1
+representation	ubiquitous computing	1
+representation	problem solving	2
+representation	chemistry	1
+representation	parietal cortex	2
+representation	graph	1
+representation	pattern recognition	1
+representation	cognitive control	1
+representation	working memory	1
+representation	frontal cortex	2
+representation	visualization	1
+representation	expertise	1
+representation	environment	1
+representation	organization	1
+representation	performance	2
+representation	skill	1
+representation	fixation	2
+legged robot	legged robot	8
+legged robot	adaptive control	1
+legged robot	biologically inspired robot	1
+legged robot	robot	1
+legged robot	robot architecture	1
+legged robot	nonholonomic motion planning	1
+legged robot	stability	1
+legged robot	climbing robot	2
+legged robot	environment	1
+legged robot	legged locomotion	1
+peer tutoring	peer tutoring	3
+peer tutoring	explanation	1
+peer tutoring	cognitive tutor	1
+peer tutoring	instruction	1
+peer tutoring	environment	1
+laser	laser	3
+laser	ladar data	1
+laser	localization	1
+laser	performance	1
+spinal cord injury	spinal cord injury	3
+spinal cord injury	adaptive control	1
+spinal cord injury	rehabilitation	1
+spinal cord injury	performance	1
+spinal cord injury	reinforcement learning	1
+imitation	imitation	6
+imitation	robotics	1
+imitation	behavior	1
+imitation	machine learning	1
+imitation	optimal control	1
+imitation	movement	2
+imitation	object	2
+imitation	reinforcement	1
+imitation	coordination	1
+imitation	reinforcement learning	1
+dynamic logic	dynamic logic	4
+dynamic logic	verification	1
+dynamic logic	framework	1
+dynamic logic	formal verification	2
+dynamic logic	hybrid system	2
+verification	verification	17
+verification	speech recognition	1
+verification	component	2
+verification	example	1
+verification	language	4
+verification	software	1
+verification	knowledge representation	1
+verification	framework	1
+verification	formal verification	1
+verification	software engineering	4
+verification	self adaptive system	1
+verification	experimentation	2
+verification	theory	3
+verification	model checking	4
+verification	environment	1
+verification	ontology	1
+verification	reliability	2
+verification	hybrid system	2
+speech recognition	speech recognition	8
+speech recognition	hidden markov model	1
+explanation	explanation	3
+explanation	cognitive tutor	1
+explanation	issue	1
+explanation	self explanation	1
+explanation	expertise	1
+explanation	instruction	1
+explanation	environment	1
+brain	brain	3
+brain	behavior	1
+brain	parietal cortex	1
+brain	world	1
+brain	hanoi	1
+brain	hidden markov model	1
+brain	visualization	1
+brain	reinforcement learning	1
+brain	cognition	1
+mathematical theory	mathematical theory	4
+mathematical theory	adaptive control	1
+mathematical theory	artificial intelligence	2
+mathematical theory	design and control	1
+mathematical theory	nonholonomic motion planning	1
+pomdp	pomdp	4
+pomdp	horizon	1
+pomdp	framework	1
+pomdp	robot	1
+pomdp	reinforcement learning	1
+dynamic environment	dynamic environment	8
+dynamic environment	vehicle	1
+dynamic environment	horizon	2
+dynamic environment	formal verification	1
+dynamic environment	localization	2
+dynamic environment	avoidance	1
+dynamic environment	optimization	2
+multiagent system	multiagent system	6
+multiagent system	sliding autonomy	1
+multiagent system	constraint	1
+multiagent system	task allocation	1
+multiagent system	robotics	1
+multiagent system	machine learning	1
+multiagent system	efficiency	1
+multiagent system	coordination	1
+multiagent system	environment	1
+multiagent system	robotic soccer	1
+multiagent system	multiple robot	1
+multiagent system	soccer	1
+multiagent system	teleoperation	1
+sliding autonomy	sliding autonomy	3
+sliding autonomy	shared control	1
+sliding autonomy	human robot collaboration	1
+sliding autonomy	teleoperation	2
+component	component	5
+component	problem solving	1
+component	semi autonomous	1
+component	knowledge	1
+component	autonomous	1
+component	language	1
+component	awareness	1
+component	software engineering	1
+component	anterior cingulate cortex	1
+biomimetic robotics	biomimetic robotics	3
+biomimetic robotics	microrobotics	1
+biomimetic robotics	piezoelectric actuator	1
+biomimetic robotics	object	1
+biomimetic robotics	surface tension	1
+complementary learning system	complementary learning system	4
+complementary learning system	cognitive architecture	1
+dialogue	dialogue	9
+dialogue	behavior	1
+dialogue	other	3
+dialogue	collaborative learning	1
+dialogue	knowledge	3
+dialogue	language	1
+dialogue	vehicle teleoperation	1
+dialogue	robot	1
+dialogue	social robot	6
+dialogue	assistive robot	1
+dialogue	learning	1
+dialogue	software architecture	1
+dialogue	reinforcement learning	1
+dialogue	cooperation	1
+adaptive control	adaptive control	9
+adaptive control	robotics	1
+adaptive control	exoskeleton	1
+adaptive control	optimal control	1
+adaptive control	robot	1
+adaptive control	tracking control	3
+adaptive control	design and control	1
+adaptive control	nonholonomic motion planning	2
+adaptive control	stability	2
+adaptive control	performance	1
+adaptive control	reinforcement learning	1
+cognitive tutor	cognitive tutor	10
+cognitive tutor	cognitive modeling	1
+cognitive tutor	collaborative learning	1
+cognitive tutor	machine learning	2
+cognitive tutor	feature	1
+cognitive tutor	efficiency	1
+cognitive tutor	self explanation	1
+cognitive tutor	expertise	1
+cognitive tutor	instruction	2
+cognitive tutor	environment	1
+cognitive tutor	skill	1
+cognitive tutor	reinforcement learning	1
+car	car	6
+car	vehicle	1
+car	optimal control	2
+car	robot	1
+car	nonholonomic motion planning	1
+car	environment	1
+car	obstacle	1
+car	slam	1
+car	avoidance	1
+intelligence	intelligence	5
+intelligence	cognitive modeling	2
+intelligence	ubiquitous computing	1
+intelligence	emotion	1
+intelligence	sensor	1
+intelligence	act r	1
+intelligence	cognitive architecture	2
+intelligence	stress	1
+intelligence	reinforcement learning	1
+intelligence	virtual environment	1
+controllability	controllability	3
+controllability	robotics	1
+controllability	sensor	1
+controllability	robot	1
+controllability	dry friction	1
+ladar data	ladar data	3
+ladar data	environment	1
+ladar data	performance	1
+multi agent system	multi agent system	21
+multi agent system	task allocation	1
+multi agent system	knowledge	1
+multi agent system	team	2
+multi agent system	knowledge representation	1
+multi agent system	framework	1
+multi agent system	experimentation	1
+multi agent system	sensor network	1
+multi agent system	norm	1
+multi agent system	coordination	1
+multi agent system	environment	1
+multi agent system	robotic soccer	1
+multi agent system	ontology	1
+multi agent system	performance	2
+multi agent system	ambient intelligence	1
+multi agent system	reinforcement learning	1
+multi agent system	activity recognition	1
+multi agent system	optimization	4
+uav	uav	6
+uav	vehicle	1
+uav	vision	1
+uav	vehicle teleoperation	1
+uav	motion planning	1
+allocation	allocation	3
+allocation	task allocation	1
+allocation	coalition formation	1
+allocation	coordination	2
+underactuated robot	underactuated robot	3
+underactuated robot	biologically inspired robot	1
+underactuated robot	design and control	1
+underactuated robot	nonholonomic motion planning	1
+constraint	constraint	15
+constraint	task allocation	1
+constraint	incubation	1
+constraint	mixed integer programming	1
+constraint	idea generation	1
+constraint	problem solving	2
+constraint	animation	1
+constraint	autonomous	1
+constraint	vehicle	1
+constraint	coalition formation	1
+constraint	arm	1
+constraint	rough terrain	1
+constraint	vision	1
+constraint	optimal control	1
+constraint	force control	1
+constraint	rover	1
+constraint	shared control	1
+constraint	nonholonomic motion planning	1
+constraint	coordination	2
+constraint	motion planning	1
+constraint	environment	1
+constraint	performance	1
+constraint	multiple robot	1
+constraint	fixation	1
+constraint	cooperation	1
+constraint	dry friction	1
+constraint	optimization	2
+task allocation	task allocation	15
+task allocation	behavior	1
+task allocation	coalition formation	3
+task allocation	team	1
+task allocation	robot	2
+task allocation	auction	2
+task allocation	coordination	4
+task allocation	environment	1
+task allocation	reliability	2
+part	part	4
+part	robotics	2
+part	recovery	1
+part	graph	2
+part	robot	1
+part	object	1
+autonomous vehicle	autonomous vehicle	4
+autonomous vehicle	wheeled mobile robot	1
+position estimation	position estimation	6
+position estimation	visual odometry	1
+position estimation	guidance	1
+position estimation	calibration	1
+position estimation	tour guide robot	1
+position estimation	vision	1
+position estimation	visual tracking	1
+position estimation	localization	3
+position estimation	computer vision	1
+curriculum	curriculum	3
+curriculum	chemistry	1
+cognitive modeling	cognitive modeling	10
+cognitive modeling	problem solving	1
+cognitive modeling	retrieval	1
+cognitive modeling	vision	1
+cognitive modeling	hidden markov model	2
+cognitive modeling	cost	1
+cognitive modeling	cognitive control	1
+cognitive modeling	act r	4
+cognitive modeling	visualization	1
+cognitive modeling	cognitive architecture	2
+cognitive modeling	performance	1
+cognitive modeling	virtual environment	1
+modular robot	modular robot	7
+modular robot	robotics	1
+modular robot	robot	1
+modular robot	dimension	1
+modular robot	multi robot system	1
+modular robot	self reconfiguration	3
+bayesian network	bayesian network	5
+transdisciplinary	transdisciplinary	3
+transdisciplinary	middle school	3
+visual odometry	visual odometry	4
+visual odometry	robot	1
+visual odometry	visual tracking	1
+visual odometry	localization	2
+robotics	robotics	54
+robotics	pursuit evasion	1
+robotics	visual servoing	2
+robotics	demining	2
+robotics	feedback distortion	1
+robotics	micro/nanorobot	1
+robotics	multi robot	1
+robotics	autonomous	2
+robotics	rehabilitation	2
+robotics	exoskeleton	1
+robotics	machine learning	4
+robotics	recovery	1
+robotics	feature	1
+robotics	language	2
+robotics	surgery	2
+robotics	real time	1
+robotics	sensor	1
+robotics	wheelchair	1
+robotics	graph	2
+robotics	virtual reality	1
+robotics	force control	1
+robotics	robot	7
+robotics	rover	1
+robotics	movement	1
+robotics	social robot	1
+robotics	cost	1
+robotics	object	1
+robotics	experimentation	2
+robotics	multi robot system	1
+robotics	coordination	2
+robotics	environment	2
+robotics	robotic soccer	2
+robotics	alignment	1
+robotics	performance	1
+robotics	learning	1
+robotics	tremor	2
+robotics	soccer	2
+robotics	dry friction	1
+robotics	legged locomotion	1
+robotics	teleoperation	1
+robotics	distributed system	1
+issue	issue	3
+issue	ubiquitous computing	1
+issue	visualization	1
+behavior	behavior	17
+behavior	other	1
+behavior	knowledge	1
+behavior	animation	1
+behavior	vehicle	2
+behavior	coalition formation	1
+behavior	recovery	1
+behavior	team	1
+behavior	alloy	1
+behavior	world	1
+behavior	optimal control	1
+behavior	robot	3
+behavior	contact	1
+behavior	social robot	3
+behavior	reinforcement	1
+behavior	sensor network	1
+behavior	multi robot system	1
+behavior	coordination	1
+behavior	human swarm interaction	1
+behavior	inverse reinforcement learning	1
+behavior	reinforcement learning	3
+selection	selection	4
+selection	ubiquitous computing	1
+selection	problem solving	1
+selection	machine learning	2
+selection	anterior cingulate cortex	1
+selection	cognitive control	1
+selection	working memory	1
+selection	theory	1
+selection	distributed system	1
+incubation	incubation	5
+incubation	problem solving	3
+incubation	knowledge	1
+incubation	blind variation	2
+incubation	performance	2
+incubation	fixation	4
+incubation	selective retention	2
+science	science	3
+science	middle school	1
+fabrication	fabrication	4
+fabrication	medical robotics	2
+fabrication	robot design	1
+fabrication	robot	1
+fabrication	dimension	1
+fabrication	magnetic actuation	1
+fabrication	computational design	1
+mixed integer programming	mixed integer programming	3
+example	example	4
+example	idea generation	1
+example	language	1
+example	knowledge representation	1
+example	self explanation	1
+example	framework	1
+example	theory	1
+example	environment	1
+example	hybrid system	1
+human brain	human brain	3
+human brain	anterior cingulate cortex	1
+human brain	expertise	1
+human brain	reinforcement learning	2
+other	other	3
+other	knowledge	3
+other	social robot	3
+collaborative learning	collaborative learning	9
+collaborative learning	problem solving	4
+collaborative learning	knowledge	1
+collaborative learning	software architecture	1
+user centered design	user centered design	3
+idea generation	idea generation	3
+idea generation	problem solving	2
+pursuit evasion	pursuit evasion	3
+pursuit evasion	environment	1
+visual servoing	visual servoing	6
+visual servoing	surgery	1
+visual servoing	medical robotics	1
+ubiquitous computing	ubiquitous computing	21
+ubiquitous computing	self adaptation	1
+ubiquitous computing	gesture	1
+ubiquitous computing	machine learning	1
+ubiquitous computing	emotion	1
+ubiquitous computing	context awareness	1
+ubiquitous computing	sensor	2
+ubiquitous computing	awareness	3
+ubiquitous computing	authentication	1
+ubiquitous computing	pattern recognition	1
+ubiquitous computing	software engineering	1
+ubiquitous computing	sensor network	1
+ubiquitous computing	visualization	1
+ubiquitous computing	context aware computing	2
+ubiquitous computing	ontology	1
+ubiquitous computing	performance	2
+ubiquitous computing	stress	1
+ubiquitous computing	software architecture	1
+demining	demining	4
+demining	robot	1
+problem solving	problem solving	32
+problem solving	parietal cortex	2
+problem solving	knowledge	2
+problem solving	language	1
+problem solving	team	1
+problem solving	awareness	1
+problem solving	hidden markov model	3
+problem solving	pattern recognition	1
+problem solving	cost	1
+problem solving	anterior cingulate cortex	2
+problem solving	cognitive control	1
+problem solving	act r	1
+problem solving	working memory	1
+problem solving	frontal cortex	2
+problem solving	visualization	1
+problem solving	blind variation	2
+problem solving	ontology	1
+problem solving	performance	2
+problem solving	learning	3
+problem solving	fixation	2
+problem solving	selective retention	2
+skeletal muscle	skeletal muscle	3
+connectivity	connectivity	3
+connectivity	configuration space	1
+connectivity	sensor network	1
+connectivity	coordination	1
+connectivity	distributed robot system	1
+trajectory optimization	trajectory optimization	4
+trajectory optimization	configuration space	1
+trajectory optimization	arm	2
+trajectory optimization	rough terrain	1
+trajectory optimization	robot	1
+trajectory optimization	human robot collaboration	2
+trajectory optimization	object	2
+trajectory optimization	coordination	1
+trajectory optimization	motion planning	3
+trajectory optimization	environment	1
+trajectory optimization	dynamic programming	1
+feedback distortion	feedback distortion	3
+feedback distortion	rehabilitation	1
+feedback distortion	vision	2
+feedback distortion	stroke	2
+feedback distortion	movement	1
+feedback distortion	coordination	1
+feedback distortion	reliability	1
+chemistry	chemistry	3
+self adaptation	self adaptation	3
+skin	skin	4
+skin	exoskeleton	1
+skin	strain sensor	2
+skin	adhesion	1
+gesture	gesture	3
+gesture	awareness	1
+gesture	hidden markov model	1
+gesture	social robot	1
+micro/nanorobot	micro/nanorobot	3
+micro/nanorobot	distributed robot system	1
+semi autonomous	semi autonomous	3
+semi autonomous	autonomous	1
+semi autonomous	robot	1
+semi autonomous	localization	1
+semi autonomous	heterogeneous	2
+parietal cortex	parietal cortex	4
+parietal cortex	hidden markov model	1
+parietal cortex	anterior cingulate cortex	1
+parietal cortex	cognitive control	1
+parietal cortex	frontal cortex	2
+parietal cortex	visualization	2
+parietal cortex	organization	1
+knowledge	knowledge	12
+knowledge	rehabilitation	1
+knowledge	awareness	1
+knowledge	framework	1
+knowledge	social robot	3
+knowledge	anterior cingulate cortex	1
+knowledge	instruction	1
+knowledge	blind variation	1
+knowledge	environment	1
+knowledge	ontology	1
+knowledge	performance	1
+knowledge	ambient intelligence	1
+knowledge	fixation	1
+knowledge	selective retention	1
+configuration space	configuration space	6
+configuration space	rough terrain	1
+configuration space	coordination	2
+configuration space	motion planning	3
+configuration space	dynamic programming	1
+animation	animation	5
+animation	motion planning	2
+animation	computational design	1
+multi robot	multi robot	8
+multi robot	coalition formation	1
+multi robot	localization	1
+multi robot	coordination	1
+multi robot	environment	1
+multi robot	heterogeneous	1
+autonomous	autonomous	6
+autonomous	robot	1
+autonomous	cooperation	1
+autonomous	teleoperation	1
+autonomous	optimization	1
+vehicle	vehicle	9
+vehicle	rough terrain	2
+vehicle	optimal control	1
+vehicle	sensor network	1
+vehicle	multi robot system	1
+vehicle	coordination	1
+vehicle	environment	1
+vehicle	human swarm interaction	1
+vehicle	inverse reinforcement learning	1
+vehicle	avoidance	1
+vehicle	optimization	2
+rehabilitation	rehabilitation	9
+rehabilitation	exoskeleton	1
+rehabilitation	wheelchair	2
+rehabilitation	virtual reality	1
+rehabilitation	artificial intelligence	1
+rehabilitation	robot	3
+rehabilitation	cost	1
+rehabilitation	assistive robot	1
+rehabilitation	coordination	1
+rehabilitation	performance	1
+rehabilitation	reinforcement learning	1
+exoskeleton	exoskeleton	5
+exoskeleton	robot	1
+exoskeleton	strain sensor	1
+exoskeleton	cost	1
+wheeled mobile robot	wheeled mobile robot	4
+wheeled mobile robot	calibration	1
+wheeled mobile robot	rover	1
+wheeled mobile robot	localization	1
+coalition formation	coalition formation	4
+coalition formation	team	1
+coalition formation	robot	1
+coalition formation	coordination	2
+coalition formation	heterogeneous	1
+biologically inspired robot	biologically inspired robot	5
+biologically inspired robot	robot	1
+biologically inspired robot	design and control	1
+biologically inspired robot	stability	1
+biologically inspired robot	surface tension	2
+biologically inspired robot	legged locomotion	1
+machine learning	machine learning	19
+machine learning	feature	1
+machine learning	graph	1
+machine learning	artificial intelligence	2
+machine learning	robot	1
+machine learning	movement	1
+machine learning	act r	1
+machine learning	visualization	1
+machine learning	theory	1
+machine learning	environment	1
+machine learning	computer vision	1
+machine learning	robotic soccer	1
+machine learning	alignment	1
+machine learning	soccer	1
+machine learning	reinforcement learning	1
+machine learning	gp	1
+machine learning	optimization	1
+machine learning	distributed system	1
+compliant control	compliant control	3
+compliant control	object	1
+compliant control	stability	1
+recovery	recovery	4
+recovery	graph	1
+recovery	social robot	1
+recovery	stability	1
+recovery	legged locomotion	1
+body	body	4
+body	contact	2
+body	movement	1
+body	coordination	1
+body	motion planning	1
+body	underactuated system	1
+feature	feature	8
+feature	vision	1
+feature	soccer	1
+feature	reinforcement learning	1
+emotion	emotion	3
+emotion	sensor	1
+emotion	social robot	2
+emotion	stress	1
+middle school	middle school	4
+microrobotics	microrobotics	3
+microrobotics	dimension	1
+microrobotics	magnetic actuation	1
+arm	arm	5
+arm	vision	1
+arm	force control	1
+arm	robot	1
+arm	stroke	1
+arm	shared control	1
+arm	human robot collaboration	2
+arm	object	2
+arm	coordination	1
+arm	motion planning	1
+arm	performance	1
+language	language	17
+language	knowledge representation	1
+language	self explanation	1
+language	framework	1
+language	linear logic	1
+language	software engineering	1
+language	experimentation	2
+language	theory	2
+language	environment	1
+language	performance	1
+language	learning	2
+language	hybrid system	1
+surgery	surgery	9
+surgery	medical robotics	4
+surgery	robot	1
+surgery	tremor	1
+guidance	guidance	3
+guidance	real time	1
+guidance	tour guide robot	1
+guidance	medical robotics	1
+guidance	localization	2
+team	team	13
+team	robot	2
+team	environment	1
+team	performance	3
+team	learning	1
+team	cooperation	1
+team	optimization	1
+context awareness	context awareness	5
+context awareness	coordination	1
+context awareness	ontology	1
+context awareness	activity recognition	1
+real time	real time	5
+real time	vision	1
+real time	reinforcement learning	1
+horizon	horizon	4
+horizon	localization	2
+horizon	markov decision processe	1
+horizon	reinforcement learning	2
+sensor	sensor	6
+sensor	awareness	1
+sensor	performance	1
+sensor	stress	1
+sensor	adhesion	1
+sensor	dry friction	1
+rough terrain	rough terrain	7
+rough terrain	optimal control	1
+rough terrain	rover	1
+rough terrain	motion planning	1
+rough terrain	dynamic programming	1
+rough terrain	optimization	1
+software	software	4
+software	framework	1
+software	stability	1
+software	performance	1
+alloy	alloy	3
+alloy	contact	1
+alloy	strain sensor	1
+sensor based exploration	sensor based exploration	5
+sensor based exploration	robot	4
+sensor based exploration	localization	2
+sensor based exploration	motion planning	2
+wheelchair	wheelchair	3
+wheelchair	world	1
+wheelchair	robot	1
+wheelchair	assistive robot	1
+wheelchair	virtual environment	1
+efficiency	efficiency	5
+efficiency	self explanation	2
+efficiency	expertise	1
+efficiency	instruction	2
+graph	graph	9
+graph	robot	1
+graph	linear logic	1
+graph	working memory	1
+graph	computer vision	1
+graph	alignment	1
+graph	slam	1
+graph	optimization	1
+retrieval	retrieval	4
+retrieval	hidden markov model	1
+retrieval	cognitive control	1
+retrieval	visualization	1
+retrieval	coordination	1
+calibration	calibration	3
+calibration	localization	3
+knowledge representation	knowledge representation	3
+knowledge representation	framework	1
+knowledge representation	theory	1
+knowledge representation	environment	1
+knowledge representation	hybrid system	1
+tour guide robot	tour guide robot	3
+tour guide robot	localization	2
+tour guide robot	multi robot system	1
+virtual reality	virtual reality	3
+virtual reality	robot	1
+virtual reality	performance	1
+virtual reality	carbon nanotube	1
+virtual reality	teleoperation	1
+vision	vision	17
+vision	stroke	2
+vision	movement	1
+vision	shared control	1
+vision	localization	2
+vision	act r	1
+vision	motion planning	2
+vision	computer vision	2
+vision	performance	1
+vision	soccer	1
+vision	reliability	1
+vision	slam	1
+self explanation	self explanation	8
+self explanation	expertise	3
+self explanation	instruction	2
+world	world	4
+world	robot	1
+world	coordination	1
+world	reinforcement learning	1
+world	virtual environment	1
+awareness	awareness	4
+awareness	anterior cingulate cortex	1
+awareness	context aware computing	1
+awareness	performance	1
+artificial intelligence	artificial intelligence	20
+artificial intelligence	framework	1
+artificial intelligence	pattern recognition	2
+artificial intelligence	cost	1
+artificial intelligence	computer vision	1
+artificial intelligence	optimization	1
+hanoi	hanoi	3
+hanoi	performance	1
+hanoi	cognition	1
+medical robotics	medical robotics	21
+medical robotics	robot design	1
+medical robotics	robot	1
+medical robotics	movement	1
+medical robotics	localization	1
+medical robotics	performance	1
+medical robotics	tremor	4
+medical robotics	magnetic actuation	2
+medical robotics	fixation	1
+medical robotics	adhesion	1
+optimal control	optimal control	9
+optimal control	robot	1
+optimal control	reinforcement	1
+optimal control	reinforcement learning	4
+optimal control	dynamic programming	2
+optimal control	optimization	1
+hidden markov model	hidden markov model	12
+hidden markov model	pattern recognition	1
+hidden markov model	cognitive control	1
+hidden markov model	visualization	3
+hidden markov model	reinforcement learning	1
+hidden markov model	slam	1
+vehicle teleoperation	vehicle teleoperation	4
+vehicle teleoperation	social robot	1
+force control	force control	5
+force control	robot	1
+force control	stroke	1
+force control	environment	1
+authentication	authentication	4
+robot design	robot design	4
+piezoelectric actuator	piezoelectric actuator	3
+piezoelectric actuator	object	1
+piezoelectric actuator	surface tension	1
+framework	framework	18
+framework	robot	1
+framework	formal verification	1
+framework	theory	1
+framework	markov decision processe	1
+framework	model checking	1
+framework	context aware computing	1
+framework	environment	2
+framework	ontology	1
+framework	performance	1
+framework	ambient intelligence	2
+framework	reinforcement learning	1
+framework	game	1
+framework	hybrid system	2
+framework	optimization	2
+sequential composition	sequential composition	3
+sequential composition	robot	1
+sequential composition	stability	1
+sequential composition	reachability	1
+sequential composition	environment	1
+sequential composition	hybrid system	1
+robot	robot	94
+robot	stroke	1
+robot	movement	1
+robot	tracking control	2
+robot	artificial muscle	1
+robot	social robot	2
+robot	object	3
+robot	reinforcement	1
+robot	gaussian processe	1
+robot	localization	3
+robot	dimension	2
+robot	stability	2
+robot	assistive robot	1
+robot	multi robot system	1
+robot	coordination	2
+robot	motion planning	3
+robot	climbing robot	2
+robot	environment	7
+robot	performance	2
+robot	self reconfiguration	1
+robot	distributed robot system	1
+robot	reinforcement learning	2
+robot	obstacle	1
+robot	heterogeneous	1
+robot	slam	1
+robot	adhesion	2
+robot	cooperation	2
+robot	legged locomotion	6
+robot	teleoperation	1
+robot	distributed system	1
+linear logic	linear logic	7
+linear logic	performance	1
+contact	contact	6
+contact	motion planning	1
+rover	rover	7
+rover	performance	2
+pattern recognition	pattern recognition	5
+formal verification	formal verification	7
+formal verification	model checking	1
+formal verification	hybrid system	3
+hyper redundant robot	hyper redundant robot	3
+hyper redundant robot	inverse kinematics	1
+stroke	stroke	4
+stroke	movement	2
+stroke	reliability	2
+strain sensor	strain sensor	4
+strain sensor	adhesion	1
+movement	movement	10
+movement	object	1
+movement	coordination	3
+movement	motion planning	2
+movement	climbing robot	1
+movement	underactuated system	1
+movement	tremor	1
+movement	inverse kinematics	1
+movement	reliability	1
+movement	adhesion	1
+movement	legged locomotion	1
+movement	optimization	1
+auction	auction	4
+shared control	shared control	3
+shared control	human robot collaboration	1
+shared control	performance	1
+shared control	teleoperation	2
+tracking control	tracking control	3
+tracking control	stability	1
+visual tracking	visual tracking	3
+visual tracking	object	1
+visual tracking	localization	1
+micro/nano robot	micro/nano robot	3
+micro/nano robot	design and control	1
+human robot collaboration	human robot collaboration	4
+human robot collaboration	object	2
+human robot collaboration	coordination	2
+human robot collaboration	motion planning	1
+human robot collaboration	teleoperation	1
+artificial muscle	artificial muscle	3
+artificial muscle	performance	1
+social robot	social robot	18
+social robot	assistive robot	1
+social robot	organization	1
+social robot	cooperation	1
+software engineering	software engineering	5
+software engineering	model checking	1
+software engineering	software architecture	1
+cost	cost	3
+cost	act r	1
+cost	performance	1
+object	object	15
+object	coordination	2
+object	surface tension	1
+object	motion planning	1
+object	computer vision	1
+reinforcement	reinforcement	4
+reinforcement	gaussian processe	1
+reinforcement	reinforcement learning	3
+anterior cingulate cortex	anterior cingulate cortex	5
+anterior cingulate cortex	cognitive control	1
+anterior cingulate cortex	working memory	1
+anterior cingulate cortex	reinforcement learning	1
+gecko	gecko	3
+gecko	climbing robot	2
+cognitive control	cognitive control	4
+cognitive control	working memory	1
+cognitive control	frontal cortex	1
+cognitive control	visualization	2
+cognitive control	organization	1
+gaussian processe	gaussian processe	3
+gaussian processe	sensor network	1
+gaussian processe	reinforcement learning	2
+gaussian processe	approximation algorithm	1
+self adaptive system	self adaptive system	6
+self adaptive system	software architecture	2
+localization	localization	36
+localization	long term autonomy	2
+localization	multi robot system	4
+localization	motion planning	1
+localization	environment	2
+localization	alignment	1
+localization	magnetic actuation	1
+localization	heterogeneous	1
+localization	slam	4
+localization	teleoperation	1
+dimension	dimension	5
+dimension	magnetic actuation	1
+robot architecture	robot architecture	3
+robot architecture	cooperation	1
+hyper redundant mechanism	hyper redundant mechanism	3
+hyper redundant mechanism	motion planning	1
+design and control	design and control	4
+design and control	nonholonomic motion planning	1
+act r	act r	7
+act r	cognitive architecture	3
+act r	performance	1
+experimentation	experimentation	5
+experimentation	theory	2
+experimentation	model checking	1
+experimentation	performance	1
+experimentation	reliability	1
+experimentation	activity recognition	1
+working memory	working memory	8
+working memory	frontal cortex	1
+sensor network	sensor network	11
+sensor network	multi robot system	1
+sensor network	coordination	2
+sensor network	performance	1
+sensor network	human swarm interaction	1
+sensor network	distributed robot system	1
+sensor network	reinforcement learning	1
+sensor network	approximation algorithm	2
+sensor network	optimization	1
+nonholonomic motion planning	nonholonomic motion planning	6
+nonholonomic motion planning	environment	2
+nonholonomic motion planning	obstacle	1
+nonholonomic motion planning	slam	1
+frontal cortex	frontal cortex	3
+frontal cortex	visualization	1
+frontal cortex	organization	1
+norm	norm	4
+stability	stability	19
+stability	reachability	1
+stability	climbing robot	1
+stability	environment	1
+stability	reinforcement learning	1
+stability	adhesion	3
+stability	game	1
+stability	hybrid system	1
+stability	legged locomotion	3
+long term autonomy	long term autonomy	3
+long term autonomy	environment	1
+long term autonomy	alignment	2
+long term autonomy	slam	1
+visualization	visualization	6
+visualization	organization	1
+visualization	gp	1
+recurrent neural network	recurrent neural network	3
+theory	theory	6
+theory	model checking	1
+theory	environment	1
+theory	cognitive architecture	1
+theory	reliability	1
+theory	hybrid system	1
+theory	distributed system	1
+assistive robot	assistive robot	3
+markov decision processe	markov decision processe	6
+markov decision processe	reinforcement learning	2
+model checking	model checking	10
+model checking	reliability	2
+model checking	hybrid system	1
+multi robot system	multi robot system	12
+multi robot system	coordination	2
+multi robot system	reachability	1
+multi robot system	human swarm interaction	1
+multi robot system	learning	1
+multi robot system	slam	2
+coordination	coordination	28
+coordination	motion planning	2
+coordination	reachability	1
+coordination	climbing robot	1
+coordination	environment	1
+coordination	underactuated system	1
+coordination	human swarm interaction	1
+coordination	multiple robot	1
+coordination	reinforcement learning	1
+coordination	adhesion	1
+coordination	legged locomotion	1
+coordination	optimization	1
+expertise	expertise	3
+expertise	instruction	1
+instruction	instruction	5
+instruction	environment	1
+blind variation	blind variation	3
+blind variation	fixation	1
+blind variation	selective retention	3
+adaptive system	adaptive system	3
+adaptive system	scheduling	2
+surface tension	surface tension	3
+motion planning	motion planning	29
+motion planning	environment	2
+motion planning	computer vision	1
+motion planning	inverse kinematics	1
+motion planning	obstacle	2
+motion planning	slam	1
+motion planning	dry friction	1
+motion planning	dynamic programming	1
+motion planning	optimization	1
+reachability	reachability	3
+reachability	hybrid system	1
+context aware computing	context aware computing	3
+climbing robot	climbing robot	10
+climbing robot	environment	2
+climbing robot	adhesion	4
+climbing robot	legged locomotion	2
+environment	environment	32
+environment	ontology	1
+environment	alignment	1
+environment	performance	1
+environment	ambient intelligence	1
+environment	obstacle	2
+environment	slam	1
+environment	hybrid system	1
+environment	legged locomotion	1
+computer vision	computer vision	10
+computer vision	alignment	1
+computer vision	slam	1
+computer vision	optimization	1
+unmanned ground vehicle	unmanned ground vehicle	4
+cognitive architecture	cognitive architecture	9
+cognitive architecture	virtual environment	1
+robotic soccer	robotic soccer	3
+robotic soccer	soccer	1
+ontology	ontology	5
+ontology	ambient intelligence	1
+organization	organization	3
+alignment	alignment	5
+alignment	optimization	1
+performance	performance	29
+performance	fixation	2
+performance	cooperation	1
+performance	activity recognition	1
+performance	optimization	1
+stress	stress	3
+underactuated system	underactuated system	3
+underactuated system	optimization	1
+skill	skill	4
+human swarm interaction	human swarm interaction	3
+mechanical property	mechanical property	3
+mechanical property	carbon nanotube	1
+learning	learning	9
+learning	avoidance	1
+self reconfiguration	self reconfiguration	6
+tremor	tremor	8
+software architecture	software architecture	4
+inverse kinematics	inverse kinematics	3
+inverse kinematics	optimization	1
+multiple robot	multiple robot	6
+multiple robot	distributed robot system	1
+ambient intelligence	ambient intelligence	3
+magnetic actuation	magnetic actuation	5
+inverse reinforcement learning	inverse reinforcement learning	4
+soccer	soccer	4
+distributed robot system	distributed robot system	5
+distributed robot system	slam	1
+fixation	fixation	5
+fixation	selective retention	1
+reinforcement learning	reinforcement learning	38
+reinforcement learning	game	2
+reinforcement learning	dynamic programming	1
+reinforcement learning	optimization	1
+reinforcement learning	distributed system	1
+virtual environment	virtual environment	3
+reliability	reliability	5
+obstacle	obstacle	5
+obstacle	slam	1
+cognition	cognition	3
+heterogeneous	heterogeneous	4
+carbon nanotube	carbon nanotube	3
+slam	slam	11
+slam	teleoperation	1
+approximation algorithm	approximation algorithm	5
+adhesion	adhesion	14
+adhesion	legged locomotion	1
+selective retention	selective retention	3
+cooperation	cooperation	9
+cooperation	optimization	1
+scheduling	scheduling	5
+dry friction	dry friction	3
+activity recognition	activity recognition	5
+avoidance	avoidance	4
+avoidance	optimization	1
+game	game	5
+dynamic programming	dynamic programming	3
+gp	gp	3
+hybrid system	hybrid system	11
+legged locomotion	legged locomotion	12
+teleoperation	teleoperation	8
+optimization	optimization	26
+distributed system	distributed system	3
+computational design	computational design	3
